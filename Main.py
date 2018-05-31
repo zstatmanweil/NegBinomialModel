@@ -17,4 +17,6 @@ new_data.add_all_variables()
 model = Neg_Bin_Model(new_data.data, "All_Violations")
 
 model.summarize()
-print new_data.data.loc[:,("Owner_Type","Private")].head(30)
+#model.get_mle_retvals()
+#print new_data.data.loc[:,("Owner_Type","Private")].head(30)
+#print new_data.data.loc[:,("GroundwaterOrCombined","Primary_Source")].head(30)

@@ -27,4 +27,6 @@ class Neg_Bin_Model(object):
     
     def summarize(self):        
         print self.run().summary2()
+        
+    def get_mle_retvals(self):
         print self.run().mle_retvals

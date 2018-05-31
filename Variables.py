@@ -21,7 +21,7 @@ class Variables(object):
     #create a Private vs Public Variable
     def owner_type_private(self):
         self.data["Private"] = np.where(
-                self.data["Owner_Type"]==("Private" or "Public/Private"), 1, 0)
+                (np.logical_or(self.data["Owner_Type"]=="Private", self.data["Owner_Type"]=="Public/Private")), 1, 0)
         
     #create a column identifying all PWS with service connections less than 200
     def few_sewer_connections(self):
@@ -31,5 +31,5 @@ class Variables(object):
         #create a golumn identifying all PWS with groundwater sources
     def groundwater_source(self):
         self.data["GroundwaterOrCombined"] = np.where(
-                (self.data["Primary_Source"] ==
-                ("Surface water purchased" or "Surface water")), 0, 1)
+                (np.logical_or(self.data["Primary_Source"] ==
+                "Surface water purchased", self.data["Primary_Source"] =="Surface water")), 0, 1)
