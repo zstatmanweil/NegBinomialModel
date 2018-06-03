@@ -7,7 +7,7 @@ class Neg_Bin_Model(object):
         self.violation_type = violation_type
             
     def run(self):
-        #define the target and predictors
+        #define the target and predictors 
         target = self.data[self.violation_type]
         predictors = self.data.loc[:,("Percent_Below_Poverty_Line", 
                                       "Percent_Minority", 

@@ -13,7 +13,7 @@ class Variables(object):
         self.groundwater_source()
 
     #get dummy variables for Rural vs Urban and Owner Type and 
-    #concactenate to original table
+    #concactenate to original table 
     def rural_urban(self):
         dummyUR = pd.get_dummies(self.data['Urban_Rural'])
         self.data = pd.concat([self.data, dummyUR], axis=1)

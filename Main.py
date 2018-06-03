@@ -6,7 +6,7 @@ import os
 
 wd = os.chdir("C:\Users\zstat\Box Sync\WaterContamination\Data Analysis\Processed\Python")
 
-#read relevant csv
+#read relevant csv 
 df = pd.read_csv('Dasymetric_Data.csv')
 
 #add dummy variables
