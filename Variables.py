@@ -20,8 +20,8 @@ class Variables(object):
    
     #create a Private vs Public Variable
     def owner_type_private(self):
-        self.data["Private"] = np.where(
-                (np.logical_or(self.data["Owner_Type"]=="Private", self.data["Owner_Type"]=="Public/Private")), 1, 0)
+        self.data["Public"] = np.where(
+                (np.logical_and(self.data["Owner_Type"]!="Private", self.data["Owner_Type"]!="Public/Private")), 1, 0)
         
     #create a column identifying all PWS with service connections less than 200
     def few_sewer_connections(self):

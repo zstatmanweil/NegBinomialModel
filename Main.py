@@ -6,8 +6,13 @@ import os
 
 wd = os.chdir("C:\Users\zstat\Box Sync\WaterContamination\Data Analysis\Processed\Python")
 
+#Select the data set
+#data = 'Dasymetric_Data.csv'
+#data = 'ArealWeighting_Data.csv'
+data = 'Interpolation_data.csv'
+
 #read relevant csv 
-df = pd.read_csv('Dasymetric_Data.csv')
+df = pd.read_csv(data)
 
 #add dummy variables
 new_data = Variables(df)
@@ -18,5 +23,5 @@ model = Neg_Bin_Model(new_data.data, "All_Violations")
 
 model.summarize()
 #model.get_mle_retvals()
-#print new_data.data.loc[:,("Owner_Type","Private")].head(30)
+#print new_data.data.loc[:,("Owner_Type","Public")].head(30)
 #print new_data.data.loc[:,("GroundwaterOrCombined","Primary_Source")].head(30)

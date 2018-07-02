@@ -12,7 +12,7 @@ class Neg_Bin_Model(object):
         predictors = self.data.loc[:,("Percent_Below_Poverty_Line", 
                                       "Percent_Minority", 
                                       "Rural", 
-                                      "Private",
+                                      "Public",
                                       "ConnectionsLess200", 
                                       "GroundwaterOrCombined"
                                       )]
