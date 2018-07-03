@@ -2,19 +2,19 @@ import statsmodels.api as sm
 
 class Neg_Bin_Model(object):
     
-    def __init__(self, data, violation_type):
-        self.data = data
+    def __init__(self, df, violation_type):
+        self.df = df
         self.violation_type = violation_type
             
     def run(self):
         #define the target and predictors 
-        target = self.data[self.violation_type]
-        predictors = self.data.loc[:,("Percent_Below_Poverty_Line", 
+        target = self.df[self.violation_type]
+        predictors = self.df.loc[:,("Percent_Below_Poverty_Line", 
                                       "Percent_Minority", 
                                       "Rural", 
                                       "Public",
                                       "ConnectionsLess200", 
-                                      "GroundwaterOrCombined"
+                                      "GroundwaterOrCombined",
                                       )]
         
         X = sm.add_constant(predictors)
