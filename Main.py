@@ -10,7 +10,7 @@ wd = os.chdir("C:\Users\zstat\Box Sync\WaterContamination\Data Analysis\Processe
 #Select the data set
 #data = 'Dasymetric_Data.csv'
 #data = 'ArealWeighting_Data.csv'
-#data = 'Interpolation_data.csv'
+data = 'Interpolation_data.csv'
 
 #read relevant csv 
 df = pd.read_csv(data)
@@ -30,6 +30,8 @@ model.summarize()
 #model.get_mle_retvals()
 
 #get summary stats
-columns = ("Percent_Below_Poverty_Line", "Percent_Minority")
-test = Summary_Stats(complete_df, columns)
-print test.get_summary_table().transpose()
+continuous_columns = ("Percent_Below_Poverty_Line", "Percent_Minority")
+cat_columns = ("Rural", "Public","ConnectionsLess200", "GroundwaterOrCombined")
+test = Summary_Stats(complete_df, continuous_columns, cat_columns)
+print test.get_cont_summary_table(), "\n"
+print test.get_count_table()

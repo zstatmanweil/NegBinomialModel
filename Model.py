@@ -14,7 +14,7 @@ class Neg_Bin_Model(object):
                                       "Rural", 
                                       "Public",
                                       "ConnectionsLess200", 
-                                      "GroundwaterOrCombined",
+                                      "GroundwaterOrCombined"
                                       )]
         
         X = sm.add_constant(predictors)

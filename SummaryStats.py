@@ -3,32 +3,50 @@ import numpy as np
 
 class Summary_Stats(object):
     
-    def __init__(self, df, column_names):
+    def __init__(self, df, continuous_column_names, cat_column_names):
         self.df = df
-        self.column_names = column_names
+        self.continuous_column_names = continuous_column_names
+        self.cat_column_names = cat_column_names
         
     
     def get_mean(self):
-        means = self.df.loc[:,self.column_names].mean()
+        means = self.df.loc[:,self.continuous_column_names].mean()
         return means
     
     def get_std(self):
-        stds = self.df.loc[:,self.column_names].std()
+        stds = self.df.loc[:,self.continuous_column_names].std()
         return stds
         
     def get_min(self):
-        mins = self.df.loc[:,self.column_names].min()
+        mins = self.df.loc[:,self.continuous_column_names].min()
         return mins
     
     def get_max(self):
-        maximums = means = self.df.loc[:,self.column_names].max()
+        maximums = means = self.df.loc[:,self.continuous_column_names].max()
         return maximums
     
-    def get_summary_table(self):
-        sum_table = pd.DataFrame(index=self.column_names)
+    def get_cont_summary_table(self):
+        sum_table = pd.DataFrame(index=self.continuous_column_names)
         sum_table['Minimum'] = self.get_min()
         sum_table['Maximum'] = self.get_max()
         sum_table['Mean'] = self.get_mean()
         sum_table['SD'] = self.get_std()
         return sum_table
 
+    def get_count_table(self):
+        true_values = []
+        false_values = []
+        
+        for name in self.cat_column_names:
+            true_count = self.df[self.df[name]==1].loc[:,name].count()
+            false_count = self.df[self.df[name]==0].loc[:,name].count()
+            true_values.append(true_count)
+            false_values.append(false_count)
+        
+        counts = {"No": false_values, "Yes": true_values}
+        sum_table = pd.DataFrame(counts, index=self.cat_column_names)
+        return sum_table
+        
+        
+        #sum_table = pd.DataFrame(index=self.cat_column_names)
+       
