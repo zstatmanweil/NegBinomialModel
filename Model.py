@@ -1,4 +1,5 @@
 import statsmodels.api as sm
+import numpy as np
 
 class Neg_Bin_Model(object):
     
@@ -19,14 +20,28 @@ class Neg_Bin_Model(object):
         
         X = sm.add_constant(predictors)
         y = target
-
-        model = sm.NegativeBinomial(y,X)
-        res = model.fit()
-        
-        return res
+        #alpha=2.0174 (this is alpha in R)
+        model = sm.GLM(y,X,family=sm.families.NegativeBinomial())
+        #alternative: 
+        #model = sm.NegativeBinomial(y,X)
+        return model
+    
+    #def get_alpha():
     
     def summarize(self):        
-        print self.run().summary2()
+        print self.run().fit().summary2()
         
     def get_mle_retvals(self):
-        print self.run().mle_retvals
+        print self.run().fit().mle_retvals
+        
+    def get_predictions(self):
+        self.df["Predictions"] = self.run().predict(self.run().fit().params)
+               
+    def get_residuals(self):
+        self.df["Residuals"] = self.run().fit().resid_response
+        
+    def get_pearson_residuals(self):
+        self.df["Std_Pearson_Residuals"] = self.run().fit().resid_pearson
+        
+    def get_deviance_residuals(self):
+        self.df["Std_Deviance_Residuals"] = self.run().fit().resid_deviance
