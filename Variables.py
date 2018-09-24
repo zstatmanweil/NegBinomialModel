@@ -28,7 +28,7 @@ class Variables(object):
         self.df["ConnectionsLess200"] = np.where(
                 self.df["Service_Connections_Count"] <= 200, 1, 0)
         
-        #create a golumn identifying all PWS with groundwater sources
+    #create a golumn identifying all PWS with groundwater sources
     def groundwater_source(self):
         self.df["GroundwaterOrCombined"] = np.where(
                 (np.logical_or(self.df["Primary_Source"] ==

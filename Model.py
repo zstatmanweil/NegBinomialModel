@@ -30,11 +30,11 @@ class Neg_Bin_Model(object):
 #         and one does not but provides an easy way to get residuals. Thus, I 
 #         ran the way that provides the alpha for each dataset and recorded each below.
 # =============================================================================
-        alpha_data = {"All_Violations": [2.0174, 2.0165, 1.9930],
-                      "Violations_Yes_HealthBased": [3.8892, 3.8431, 3.8556]}
-        alpha_df = pd.DataFrame(alpha_data, index=['Dasymetric_Data.csv', 'ArealWeighting_Data.csv', 'Interpolation_data.csv'])
+        alpha_data = {"All_Violations": [2.0174, 2.0165, 1.9930, 1.9619],
+                      "Violations_Yes_HealthBased": [3.8892, 3.8431, 3.8556, 3.8696]}
+        alpha_df = pd.DataFrame(alpha_data, index=['Dasymetric_Data.csv', 'ArealWeighting_Data.csv', 'Interpolation_data.csv', 'County_Data.csv'])
         a = alpha_df.loc[self.data, self.violation_type]
-        
+         
         model = sm.GLM(y,X,family=sm.families.NegativeBinomial(alpha=a))
         
         #Method which provides alpha: 

@@ -5,12 +5,13 @@ from SummaryStats import Summary_Stats
 import os
 import matplotlib.pyplot as plt
 
-wd = os.chdir("C:\Users\zstat\Box Sync\WaterContamination\Data Analysis\Processed\Python")
+wd = os.chdir(r"C:\Users\zstat\Box Sync\WaterContamination\Data Analysis\Processed\Python")
 
 #Select the data set
 #data = 'Dasymetric_Data.csv'
 #data = 'ArealWeighting_Data.csv'
-data = 'Interpolation_data.csv'
+#data = 'Interpolation_data.csv'
+data = 'County_Data.csv'
 
 #read relevant csv  
 df = pd.read_csv(data)
@@ -42,8 +43,8 @@ model.get_residuals()
 continuous_columns = ("Percent_Below_Poverty_Line", "Percent_Minority")
 cat_columns = ("Rural", "Public","ConnectionsLess200", "GroundwaterOrCombined")
 summary = Summary_Stats(complete_df, continuous_columns, cat_columns)
-#print summary.get_cont_summary_table(), "\n"
-#print summary.get_count_table()
+print summary.get_cont_summary_table(), "\n"
+print summary.get_count_table()
 
 #explore residuals
 pd.set_option('max_columns', 7)
@@ -54,8 +55,8 @@ print model.df[["Predictions","Std_Pearson_Residuals","Std_Deviance_Residuals", 
 # plt.scatter(model.df["Predictions"], model.df["Std_Deviance_Residuals"], s=5, color="black")
 # plt.xlabel("Predicted Value of Mean Response")
 # plt.ylabel("Standardized Deviance Residuals")
-# plt.xlim([0,5])
-# plt.ylim([-3, 6])
+# #plt.xlim([0,5])
+# #plt.ylim([-3, 6])
 # =============================================================================
 
 #export DataFrame to csv
