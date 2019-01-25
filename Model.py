@@ -63,24 +63,3 @@ class Neg_Bin_Model(object):
     def get_deviance_residuals(self):
         self.df["Std_Deviance_Residuals"] = self.run().fit(maxiter=100).resid_deviance
         
-# =============================================================================
-#     #to be deleted
-#     def ct_response(self, row):
-#         #Calculate response observation for Cameron-Trivedi dispersion test
-#         y = row[self.violation_type]
-#         m = row['vio_mu']
-#         return (((y - m)**2) - y) / m
-#     
-#     def get_alpha(self):
-#         X = sm.add_constant(self.predictors)
-#         y = self.target
-#         
-#         ct_data = self.df.copy()
-#         ct_data["vio_mu"] = sm.GLM(y,X,family=sm.families.Poisson()).fit().mu
-#         ct_data["ct_resp"] = ct_data.apply(self.ct_response, axis=1)
-#         # Linear regression of auxiliary formula
-#         ct_results = smf.ols('ct_resp ~ vio_mu - 1', ct_data).fit()
-#         # Construct confidence interval for alpha, the coefficient of vio_mu
-#         alpha_ci95 = ct_results.conf_int(0.05).loc['vio_mu']
-#         return ct_results.params[0] 
-# =============================================================================

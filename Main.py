@@ -17,8 +17,8 @@ data = 'County_Data.csv'
 df = pd.read_csv(data)
 
 #select violation data of interest
-vio_data = "All_Violations"
-#vio_data = "Violations_Yes_HealthBased"
+#vio_data = "All_Violations"
+vio_data = "Violations_Yes_HealthBased"
 
 #add dummy variables
 new_df = Variables(df)
