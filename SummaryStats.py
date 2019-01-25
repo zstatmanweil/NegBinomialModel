@@ -10,20 +10,16 @@ class Summary_Stats(object):
         
     
     def get_mean(self):
-        means = self.df.loc[:,self.continuous_column_names].mean()
-        return means
+        return self.df.loc[:,self.continuous_column_names].mean()
     
     def get_std(self):
-        stds = self.df.loc[:,self.continuous_column_names].std()
-        return stds
+        return self.df.loc[:,self.continuous_column_names].std()
         
     def get_min(self):
-        mins = self.df.loc[:,self.continuous_column_names].min()
-        return mins
+        return self.df.loc[:,self.continuous_column_names].min()
     
     def get_max(self):
-        maximums = means = self.df.loc[:,self.continuous_column_names].max()
-        return maximums
+        return self.df.loc[:,self.continuous_column_names].max()
     
     def get_cont_summary_table(self):
         sum_table = pd.DataFrame(index=self.continuous_column_names)
