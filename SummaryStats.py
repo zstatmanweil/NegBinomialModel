@@ -41,8 +41,4 @@ class Summary_Stats(object):
         
         counts = {"No": false_values, "Yes": true_values}
         sum_table = pd.DataFrame(counts, index=self.cat_column_names)
-        return sum_table
-        
-        
-        #sum_table = pd.DataFrame(index=self.cat_column_names)
-       
+        return sum_table  

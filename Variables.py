@@ -8,7 +8,7 @@ class Variables(object):
         
     def add_all_variables(self):
         self.rural_urban()
-        self.owner_type_private()
+        self.owner_type_public()
         self.few_sewer_connections()
         self.groundwater_source()
 
@@ -19,7 +19,7 @@ class Variables(object):
         self.df = pd.concat([self.df, dummyUR], axis=1)
    
     #create a Private vs Public Variable
-    def owner_type_private(self):
+    def owner_type_public(self):
         self.df["Public"] = np.where(
                 (np.logical_or(self.df["Owner_Type"]=="Private", self.df["Owner_Type"]=="Public/Private")), 0, 1)
         

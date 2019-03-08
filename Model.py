@@ -28,7 +28,8 @@ class Neg_Bin_Model(object):
 #         There are two ways to run the negative binomial regression using 
 #         statsmodel. One way provides a value for alpha (dispersion paramater), 
 #         and one does not but provides an easy way to get residuals. Thus, I 
-#         ran the way that provides the alpha for each dataset and recorded each below.
+#         ran the way that provides the alpha for each dataset, recorded alpha below, 
+#         and reran with the method (GLM) that provides an easy way to analyze residuals. .
 # =============================================================================
         alpha_data = {"All_Violations": [2.0174, 2.0165, 1.9930, 1.9619],
                       "Violations_Yes_HealthBased": [3.8892, 3.8431, 3.8556, 3.8696]}
@@ -37,18 +38,18 @@ class Neg_Bin_Model(object):
          
         model = sm.GLM(y,X,family=sm.families.NegativeBinomial(alpha=a))
         
-        #Method which provides alpha: 
+        # Method which provides alpha: 
         #model = sm.NegativeBinomial(y,X)
         return model      
     
     def summarize(self):        
-        print self.run().fit(maxiter=100).summary2()
+        print(self.run().fit(maxiter=100).summary2())
         
     def get_mle_retvals(self):
-        print self.run().fit(maxiter=100).mle_retvals
+        print(elf.run().fit(maxiter=100).mle_retvals)
         
     def get_pearson(self):
-        print self.run().fit(maxiter=100).pearson_chi2
+        print(self.run().fit(maxiter=100).pearson_chi2)
         
     def get_predictions(self):
         params = self.run().fit(maxiter=100).params
