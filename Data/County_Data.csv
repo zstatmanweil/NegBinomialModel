@@ -1,0 +1,1834 @@
+PWS_ID,PWS_Name,County_Name,Primary_Source,Population,Number_of_Facilities,Percent_Minority,Percent_Below_Poverty_Line,Owner_Type,Service_Connections_Count,Urban_Rural,Violations_Not_HealthBased,Violations_Yes_HealthBased,All_Violations
+1090001,AQUA PA BRISTOL,Bucks,Surface water,28728,17,14.5,6,Private,9859,Urban,0,0,0
+1090002,BUCKINGHAM VLY REHAB & NURSING,Bucks,Ground water,190,9,14.5,6,Private,1,Urban,12,4,16
+1090005,AQUA PA CHALFONT,Bucks,Ground water,5900,15,14.5,6,Private,2141,Urban,1,1,2
+1090007,UMH ARBOR ESTATES,Bucks,Ground water,920,10,14.5,6,Private,231,Urban,17,1,18
+1090022,FALLS TWP  WATER & SEWER DEPT,Bucks,Surface water purchased,24400,12,14.5,6,Local government,7634,Urban,2,2,4
+1090026,LOWER BUCKS CO JOINT MUN AUTH,Bucks,Surface water,63007,12,14.5,6,Local government,19617,Urban,7,0,7
+1090037,MORRISVILLE MUNIC AUTHORITY,Bucks,Surface water,13342,4,14.5,6,Local government,4231,Urban,42,11,53
+1090043,NEWTOWN ARTESIAN WATER CO,Bucks,Surface water purchased,33000,20,14.5,6,Public/Private,10226,Urban,4,0,4
+1090044,DURHAM QUARTERS APTS,Bucks,Ground water,25,3,14.5,6,Private,16,Urban,34,5,39
+1090046,PERKASIE REGIONAL AUTHORITY,Bucks,Ground water,15000,20,14.5,6,Local government,3821,Urban,0,0,0
+1090048,RED CLIFF MHP,Bucks,Ground water,30,3,14.5,6,Private,30,Urban,2,1,3
+1090049,PEDIATRIC SPECIALY CARE,Bucks,Ground water,56,13,14.5,6,Private,5,Urban,12,0,12
+1090050,QUAKER VIEW MOBILE HOME PARK,Bucks,Ground water,60,4,14.5,6,Private,20,Urban,2,0,2
+1090052,RICHLAND MEADOWS MHP,Bucks,Ground water,750,9,14.5,6,Private,400,Urban,9,0,9
+1090053,CHERRY MOBILE HOME PARK,Bucks,Ground water,62,6,14.5,6,Private,42,Urban,15,0,15
+1090057,RICHLANDTOWN WATER DEPARTMENT,Bucks,Ground water,1450,7,14.5,6,Local government,469,Urban,41,3,44
+1090058,RIEGELSVILLE WATER AUTHORITY,Bucks,Ground water,980,15,14.5,6,Local government,402,Urban,22,0,22
+1090060,GREENTOP MOBILE HOME PARK,Bucks,Ground water,120,7,14.5,6,Private,51,Urban,4,1,5
+1090063,UPPER SOUTHAMPTON MUN AUTH,Bucks,Surface water purchased,16000,15,14.5,6,Local government,5100,Urban,82,3,85
+1090064,SPRINGTOWN WATER AUTHORITY,Bucks,Ground water,600,10,14.5,6,Local government,196,Urban,3,0,3
+1090069,WARMINSTER MUNICIPAL AUTHORITY,Bucks,Surface water purchased,40000,65,14.5,6,Local government,9700,Urban,3,0,3
+1090070,WARRINGTON TWP WATER&SEW DEPT,Bucks,Surface water purchased,21588,29,14.5,6,Local government,6695,Urban,41,4,45
+1090074,PA AMERICAN WATER CO YARDLEY,Bucks,Surface water,34411,15,14.5,6,Private,12167,Urban,2,0,2
+1090078,AQUA PA BENSALEM,Bucks,Surface water purchased,44543,11,14.5,6,Local government,14000,Urban,0,0,0
+1090079,BCWSA MAIN LOWER SOUTH,Bucks,Surface water purchased,52621,10,14.5,6,Local government,15800,Urban,7,3,10
+1090081,DOYLESTOWN BORO WATER DEPT,Bucks,Ground water,8700,19,14.5,6,Local government,3069,Urban,10,1,11
+1090082,QUAKERTOWN BORO,Bucks,Ground water,12800,30,14.5,6,Local government,3551,Urban,5,0,5
+1090084,DELAWARE VALLEY UNIV,Bucks,Ground water,1200,5,14.5,6,Public/Private,41,Urban,38,0,38
+1090089,NORTHAMPTON BUCKS CO MUN AUTH,Bucks,Surface water purchased,36750,54,14.5,6,Local government,10222,Urban,49,0,49
+1090091,TRUMBAUERSVILLE MUN WATERWORKS,Bucks,Ground water,1057,9,14.5,6,Local government,392,Urban,18,0,18
+1090093,NESHAMINY MANOR CENTER,Bucks,Ground water,2100,9,14.5,6,Public/Private,18,Urban,48,0,48
+1090097,OLDE COLONIAL GREENE,Bucks,Ground water,900,6,14.5,6,Public/Private,309,Urban,35,0,35
+1090098,DOYLESTOWN HOSP T/A PINE RUN,Bucks,Ground water,700,5,14.5,6,Public/Private,320,Urban,96,0,96
+1090099,DURHAM VILLAGE RES ASSOC,Bucks,Ground water,160,6,14.5,6,Local government,60,Urban,25,6,31
+1090101,YORKSHIRE MEADOWS CONDO ASSOC,Bucks,Ground water,90,4,14.5,6,Public/Private,72,Urban,36,3,39
+1090102,HERMITAGE CONDOMINIUM ASSN,Bucks,Ground water,75,6,14.5,6,Public/Private,49,Urban,41,0,41
+1090103,INGHAM MEWS CONDOMINUM ASSOC,Bucks,Ground water,97,6,14.5,6,Public/Private,64,Urban,93,0,93
+1090104,BEDMINSTER MUN AUTH,Bucks,Ground water,3042,6,14.5,6,Local government,1100,Urban,2,0,2
+1090106,DUBLIN ACRES HOMEOWNERS ASSOC,Bucks,Ground water,175,4,14.5,6,Public/Private,54,Urban,5,0,5
+1090107,BOROUGH OF DUBLIN,Bucks,Ground water,2200,10,14.5,6,Local government,350,Urban,1,0,1
+1090117,HILLTOWN TWP WATER&SEWER AUTH,Bucks,Surface water purchased,5415,12,14.5,6,Local government,1248,Urban,16,0,16
+1090121,UPPER MAKEFIELD ENCLAVE,Bucks,Ground water,25,4,14.5,6,Local government,15,Urban,33,0,33
+1090122,TWP OF UPPER MAKEFIELD,Bucks,Ground water,1800,5,14.5,6,Local government,596,Urban,2,1,3
+1090123,BUCKINGHAM TWP FIELDSTONE,Bucks,Ground water,281,6,14.5,6,Local government,104,Urban,5,0,5
+1090125,MILFORD TWP WATER AUTHORITY,Bucks,Ground water,4498,24,14.5,6,Local government,1186,Urban,15,0,15
+1090127,WARWICK TWP WATER & SEWER AUTH,Bucks,Surface water purchased,11133,20,14.5,6,Local government,2939,Urban,1,1,2
+1090128,DTMA MAIN SYSTEM,Bucks,Surface water purchased,8655,52,14.5,6,Local government,2029,Urban,7,0,7
+1090129,BCWSA SOLEBURY,Bucks,Ground water,2100,7,14.5,6,Local government,474,Urban,5,0,5
+1090130,BCWSA NEW HOPE,Bucks,Surface water,3017,14,14.5,6,Local government,3017,Urban,3,0,3
+1090131,RICHLAND TWP WATER AUTHORITY,Bucks,Ground water,6800,18,14.5,6,Local government,1922,Urban,84,0,84
+1090133,VILLAGE OF BUCKINGHAM SPRINGS,Bucks,Ground water,1295,4,14.5,6,Private,646,Urban,23,0,23
+1090135,SCENIC VIEW APARTMENTS,Bucks,Ground water,150,5,14.5,6,Private,50,Urban,3,0,3
+1090137,BUCKINGHAM TWP COLD SPRING,Bucks,Ground water,4760,8,14.5,6,Local government,1783,Urban,1,0,1
+1090138,PLUMSTEAD TWP DURHAM RIDGE,Bucks,Ground water,714,7,14.5,6,Local government,204,Urban,3,0,3
+1090140,HULMEVILLE MUNICIPAL AUTHORITY,Bucks,Surface water purchased,750,3,14.5,6,Local government,283,Urban,4,0,4
+1090141,NORTH PENN WATER AUTH E ROCKH,Bucks,Ground water purchased,588,8,14.5,6,Local government,196,Urban,0,0,0
+1090144,PLUMSTEAD NORTHERN SYSTEM,Bucks,Ground water,2605,12,14.5,6,Local government,1002,Urban,27,0,27
+1090145,BUCKINGHAM TWP BUCK VILLAGE,Bucks,Ground water,1050,4,14.5,6,Local government,125,Urban,5,0,5
+1090147,AQUA PA PEDDLERS VIEW,Bucks,Ground water,600,4,14.5,6,Private,214,Urban,0,0,0
+1090148,PLUMSTEAD TWP PATRIOTS RIDGE,Bucks,Ground water purchased,1704,2,14.5,6,Local government,600,Urban,2,0,2
+1090150,MEADOW FARMS APTS,Bucks,Ground water,90,6,14.5,6,Private,39,Urban,3,0,3
+1090153,PEDDLERS VILLAGE,Bucks,Ground water,960,4,14.5,6,Private,76,Urban,6,0,6
+1090157,PLUMSTEAD TWP SUMMER HILL MEAD,Bucks,Ground water,1284,10,14.5,6,Local government,367,Urban,3,0,3
+1090159,BUCKINGHAM TWP FURLONG,Bucks,Ground water,3100,18,14.5,6,Local government,169,Urban,4,0,4
+1090160,BCWSA FOX RUN PRESERVE,Bucks,Ground water,220,3,14.5,6,Local government,108,Urban,3,0,3
+1090163,PENNLAND FARMS,Bucks,Ground water,452,4,14.5,6,Local government,30,Urban,35,0,35
+1090164,MILL CREEK RIDGE,Bucks,Ground water,99,4,14.5,6,Local government,73,Urban,21,0,21
+1150004,AVONWHEEL ESTATE MHP,Chester,Ground water,300,4,19.1,7.1,Private,65,Urban,12,1,13
+1150005,BOROUGH OF AVONDALE,Chester,Ground water,1108,4,19.1,7.1,Local government,329,Urban,4,0,4
+1150007,TWIN PINES HEALTH CARE CENTER,Chester,Ground water,120,3,19.1,7.1,Private,2,Urban,28,0,28
+1150011,MALVERN COURTS MHP,Chester,Ground water,250,6,19.1,7.1,Private,108,Urban,4,0,4
+1150013,IMPERIAL MOBILE HOME PARK,Chester,Ground water,151,9,19.1,7.1,Private,51,Urban,41,14,55
+1150015,TAYLORS MOBILE HOME PARK,Chester,Ground water,50,6,19.1,7.1,Private,47,Urban,182,0,182
+1150017,MAPLEWOOD MOBILE HOME PARK,Chester,Ground water,70,6,19.1,7.1,Private,31,Urban,12,0,12
+1150019,LONDONDERRY COURT MHP,Chester,Surface water purchased,160,8,19.1,7.1,Private,55,Urban,57,5,62
+1150020,MT IDY MOBILE HOME PARK,Chester,Ground water,80,5,19.1,7.1,Private,40,Urban,2,12,14
+1150021,ASHWOOD APARTMENTS,Chester,Ground water,75,2,19.1,7.1,Private,75,Urban,3,0,3
+1150026,DOWNINGTOWN WATER AUTHORITY,Chester,Surface water,9900,7,19.1,7.1,Local government,3500,Urban,43,1,44
+1150029,ST MARY OF PROVIDENCE CENTER,Chester,Ground water,75,7,19.1,7.1,Private,11,Urban,136,3,139
+1150030,LOAGS CORNER MOBILE HOME PARK,Chester,Ground water,130,4,19.1,7.1,Private,49,Urban,2,0,2
+1150035,AQUA PA UWCHLAN,Chester,Surface water purchased,35518,25,19.1,7.1,Private,16600,Urban,0,0,0
+1150037,DEVEREUX FOUNDATION BRANDYWINE,Chester,Ground water,300,4,19.1,7.1,Private,19,Urban,8,1,9
+1150039,CAMPHILL SPEC SCH BEAVER RUN,Chester,Ground water,140,4,19.1,7.1,Private,20,Urban,9,0,9
+1150044,TEL HAI RETIREMENT COMMUNITY,Chester,Ground water,930,6,19.1,7.1,Private,1,Urban,8,1,9
+1150045,BRANDYWINE TERRACE MHP,Chester,Ground water,90,3,19.1,7.1,Private,41,Urban,36,0,36
+1150046,UMH GREGORY COURTS MHP,Chester,Ground water,67,4,19.1,7.1,Private,37,Urban,3,0,3
+1150047,KEYSTONE COURT,Chester,Ground water,116,3,19.1,7.1,Private,45,Urban,12,1,13
+1150049,HIDEAWAY MOBILE HOME PARK,Chester,Ground water,95,4,19.1,7.1,Private,39,Urban,1,0,1
+1150051,INDIAN RUN VILLAGE MHP,Chester,Ground water,550,4,19.1,7.1,Private,243,Urban,23,0,23
+1150052,UMH VALLEY VIEW HONEYBROOK MHP,Chester,Ground water,429,13,19.1,7.1,Private,136,Urban,15,6,21
+1150064,SHADYSIDE MHP,Chester,Ground water,55,3,19.1,7.1,Private,16,Urban,26,1,27
+1150065,ECHO VALLEY MHP,Chester,Ground water,60,4,19.1,7.1,Private,20,Urban,106,5,111
+1150066,OXFORD BOROUGH,Chester,Surface water purchased,5280,10,19.1,7.1,Local government,1597,Urban,36,1,37
+1150069,COVENTRY TERRACE,Chester,Ground water,250,8,19.1,7.1,Private,127,Urban,6,4,10
+1150070,HIGHLAND COURT,Chester,Ground water,54,4,19.1,7.1,Private,26,Urban,12,1,13
+1150077,PHOENIXVILLE WATER DEPT,Chester,Surface water,16599,4,19.1,7.1,Local government,5776,Urban,4,1,5
+1150078,GARDENS AT POTTSTOWN,Chester,Ground water,70,4,19.1,7.1,Private,1,Urban,14,0,14
+1150081,WARWICK MOBILE HOME PARK,Chester,Ground water,40,7,19.1,7.1,Private,30,Urban,27,0,27
+1150082,LINCOLN CREST MHP,Chester,Ground water,242,9,19.1,7.1,Private,145,Urban,6,4,10
+1150083,CREEKVIEW MHP,Chester,Ground water,200,3,19.1,7.1,Private,79,Urban,16,1,17
+1150089,AQUA PA SPRING RUN,Chester,Surface water purchased,7303,24,19.1,7.1,Private,1400,Urban,0,1,1
+1150094,APPLEVILLE MOBILE HOME PARK,Chester,Ground water,461,16,19.1,7.1,Private,230,Urban,0,0,0
+1150098,AQUA PA WEST CHESTER,Chester,Surface water,33918,16,19.1,7.1,Private,9715,Urban,0,0,0
+1150102,UMH OXFORD VILLAGE MHP,Chester,Ground water,480,5,19.1,7.1,Private,224,Urban,4,1,5
+1150105,WEST GROVE BOROUGH,Chester,Ground water,2873,11,19.1,7.1,Local government,884,Urban,66,0,66
+1150106,PA AMERICAN COATESVILLE,Chester,Surface water,30299,15,19.1,7.1,Local government,11004,Urban,1,1,2
+1150108,KENNETT SQUARE MUN WATER WORKS,Chester,Surface water purchased,6328,8,19.1,7.1,Local government,1800,Urban,15,0,15
+1150109,BOROUGH OF ATGLEN,Chester,Surface water purchased,1406,11,19.1,7.1,Local government,406,Urban,59,1,60
+1150126,AQUA PA FRANKLIN,Chester,Ground water,265,3,19.1,7.1,Private,88,Urban,0,0,0
+1150131,LONGWOOD GARDENS,Chester,Surface water purchased,250,6,19.1,7.1,Private,54,Urban,5,0,5
+1150137,AQUA PA FRIENDSHIP,Chester,Surface water purchased,7675,26,19.1,7.1,Private,1377,Urban,0,0,0
+1150144,MARTINS COMMUNITY LP MHP,Chester,Ground water,180,4,19.1,7.1,Private,67,Urban,8,0,8
+1150145,SHADY GROVE MOBILE HOME PARK,Chester,Ground water,129,6,19.1,7.1,Private,44,Urban,7,0,7
+1150150,CALN MOBILE HOME PARK,Chester,Ground water,30,3,19.1,7.1,Private,18,Urban,9,1,10
+1150155,AQUA PA BEVERSREDE,Chester,Surface water purchased,2300,6,19.1,7.1,Private,359,Urban,0,0,0
+1150157,WARWICK WATER WORKS,Chester,Ground water,98,6,19.1,7.1,Private,42,Urban,3,1,4
+1150164,WOODBROOKE WATER AUTHORITY,Chester,Ground water,87,3,19.1,7.1,Private,34,Urban,45,0,45
+1150165,LONDON GROVE TWP MUN AUTH,Chester,Surface water purchased,3706,6,19.1,7.1,Local government,938,Urban,11,0,11
+1150166,PA AMERICAN ROYERSFORD,Chester,Surface water,48511,19,19.1,7.1,Private,11708,Urban,1,1,2
+1150168,CAMPHILL VILLAGE KIMBERTON HLS,Chester,Ground water,100,3,19.1,7.1,Private,11,Urban,18,1,19
+1150177,NOTTINGHAM MANOR M H  COURT,Chester,Ground water,513,23,19.1,7.1,Private,192,Urban,177,0,177
+1150183,INDEPENDENCE PARK,Chester,Ground water,91,3,19.1,7.1,Private,35,Urban,38,0,38
+1150185,VALLEY SPRINGS WATER CO,Chester,Surface water purchased,2500,7,19.1,7.1,Private,392,Urban,60,7,67
+1150186,COATESVILLE VETERANS ADM HOSP,Chester,Surface water purchased,2000,4,19.1,7.1,Federal government,25,Urban,28,0,28
+1150189,PERRY PHILLIPS MOBILE HOMES,Chester,Ground water,60,4,19.1,7.1,Private,21,Urban,27,0,27
+1150190,RIVEREDGE RENTALS,Chester,Ground water,80,3,19.1,7.1,Private,66,Urban,132,0,132
+1150191,ELVERSON WATER COMPANY,Chester,Ground water,1641,9,19.1,7.1,Private,423,Urban,83,0,83
+1150195,AQUA PA HONEYBROOK,Chester,Ground water,1600,7,19.1,7.1,Private,416,Urban,0,0,0
+1150197,VALLEY CROSSING,Chester,Surface water purchased,900,2,19.1,7.1,Local government,302,Urban,21,0,21
+1150200,RIDGEVIEW MHP,Chester,Ground water,55,5,19.1,7.1,Private,21,Urban,34,1,35
+1150202,COCHRANVILLE MHP,Chester,Ground water,99,6,19.1,7.1,Private,33,Urban,9,1,10
+1150204,STONE BARN RENTALS,Chester,Ground water,120,5,19.1,7.1,Private,36,Urban,30,0,30
+1150205,AQUA PA WILLOWDALE,Chester,Surface water purchased,1300,6,19.1,7.1,Local government,779,Urban,2,0,2
+1150206,PA AMERICAN PHOENIXVILLE,Chester,Surface water purchased,2221,3,19.1,7.1,Private,897,Urban,0,0,0
+1150208,LAKE ROAD MOBILE HOME PARK,Chester,Ground water,40,3,19.1,7.1,Private,10,Urban,74,0,74
+1150209,WETHERILL ESTATES,Chester,Ground water,250,3,19.1,7.1,Private,75,Urban,6,0,6
+1150210,ST STEPHENS GREEN,Chester,Ground water,130,4,19.1,7.1,Local government,34,Urban,22,0,22
+1150213,NOTTINGHAM TOWERS APARTMENTS,Chester,Ground water,180,4,19.1,7.1,Private,55,Urban,33,1,34
+1150214,PHILLIPS MUSHROOM FARMS,Chester,Ground water,175,6,19.1,7.1,Private,6,Urban,95,0,95
+1150215,RIDGLEA,Chester,Ground water,900,4,19.1,7.1,Private,303,Urban,50,0,50
+1150216,SPRING RUN ESTATES WTP,Chester,Ground water,450,5,19.1,7.1,Private,238,Urban,9,0,9
+1150220,NORTH COVENTRY WATER SYSTEM,Chester,Surface water purchased,2907,2,19.1,7.1,Local government,752,Urban,3,0,3
+1150223,CAMP HILL SOLTANE,Chester,Ground water,152,5,19.1,7.1,Public/Private,20,Urban,13,0,13
+1150224,DOE RUN MOBILE HOME PARK,Chester,Ground water,29,3,19.1,7.1,Private,16,Urban,59,0,59
+1150226,CAMPHILL SPEC SCH BEAVER FARM,Chester,Ground water,45,3,19.1,7.1,Public/Private,4,Urban,63,0,63
+1150834,WESTTOWN SCHOOL,Chester,Surface water purchased,900,8,19.1,7.1,Private,28,Urban,45,2,47
+1230004,CHESTER WATER AUTHORITY,Delaware,Surface water,138453,4,30.8,10.6,Local government,36677,Urban,0,0,0
+1230006,BRINTON MANOR,Delaware,Ground water,196,5,30.8,10.6,Private,1,Urban,7,3,10
+1230012,SUEZ WATER PA BETHEL,Delaware,Surface water purchased,7809,6,30.8,10.6,Private,2408,Urban,1,0,1
+1230026,SOUTHPOINT HOMEOWNERS ASSOC,Delaware,Ground water,40,5,30.8,10.6,Private,21,Urban,0,0,0
+1230886,PATHWAYS,Delaware,Ground water,53,6,30.8,10.6,Private,2,Urban,24,1,25
+1230908,JOSEPH SILVESTRI AND SON INC,Delaware,Ground water,85,5,30.8,10.6,Private,3,Urban,66,2,68
+1460005,WINDHAVEN MHP,Montgomery,Ground water,112,7,22.6,6.6,Private,79,Urban,101,0,101
+1460006,PLEASANT RUN MHP,Montgomery,Ground water,45,3,22.6,6.6,Private,19,Urban,44,0,44
+1460007,AQUA PA SUPERIOR IVY RIDGE,Montgomery,Ground water,150,4,22.6,6.6,Private,45,Urban,39,0,39
+1460008,PARKHOUSE,Montgomery,Ground water,1200,9,22.6,6.6,Public/Private,7,Urban,27,0,27
+1460020,AMBLER BORO WATER DEPT,Montgomery,Surface water,20000,33,22.6,6.6,Local government,6609,Urban,33,0,33
+1460022,COLLEGEVILLE TRAPPE JOINT PWD,Montgomery,Ground water,8470,30,22.6,6.6,Local government,2807,Urban,4,1,5
+1460023,E GREENVILLE BORO WATER DEPT,Montgomery,Surface water,3100,8,22.6,6.6,Local government,1068,Urban,7,0,7
+1460027,GREEN HILL MHP,Montgomery,Ground water,323,5,22.6,6.6,Private,152,Urban,4,0,4
+1460028,AQUA PA HATBORO,Montgomery,Surface water purchased,12901,31,22.6,6.6,Private,4406,Urban,2,0,2
+1460030,OAK GROVE PARK MHP,Montgomery,Ground water,130,6,22.6,6.6,Private,130,Urban,1,0,1
+1460033,HORSHAM WATER&SEWER AUTHORITY,Montgomery,Surface water purchased,25000,53,22.6,6.6,Local government,7600,Urban,0,0,0
+1460034,NORTH PENN WATER AUTHORITY,Montgomery,Surface water purchased,82822,151,22.6,6.6,Local government,29779,Urban,0,0,0
+1460036,UPPER HANOVER WATER AUTHORITY,Montgomery,Ground water,4600,18,22.6,6.6,Local government,2131,Urban,17,3,20
+1460037,POTTSTOWN BOROUGH WATER AUTH,Montgomery,Surface water,36000,3,22.6,6.6,Local government,12000,Urban,3,0,3
+1460038,SHANERS MOBILE HOME PARK,Montgomery,Ground water,220,5,22.6,6.6,Private,120,Urban,4,0,4
+1460039,RED HILL WATER AUTHORITY,Montgomery,Ground water,2500,13,22.6,6.6,Local government,1300,Urban,16,3,19
+1460042,SCHWENKSVILLE BOROUGH AUTH,Montgomery,Ground water,5200,19,22.6,6.6,Local government,1780,Urban,25,1,26
+1460046,PA AMERICAN NORRISTOWN,Montgomery,Surface water,101153,9,22.6,6.6,Private,31670,Urban,0,0,0
+1460048,NORTH WALES WATER AUTHORITY,Montgomery,Surface water,72496,58,22.6,6.6,Local government,21419,Urban,4,0,4
+1460050,TELFORD BOROUGH AUTHORITY,Montgomery,Surface water purchased,7700,27,22.6,6.6,Local government,2979,Urban,0,0,0
+1460055,AUDUBON WATER COMPANY,Montgomery,Surface water purchased,9850,45,22.6,6.6,Private,2759,Urban,39,2,41
+1460056,ST GABRIELS HALL,Montgomery,Ground water,400,4,22.6,6.6,Public/Private,4,Urban,12,0,12
+1460059,S C I GRATERFORD,Montgomery,Surface water purchased,3000,23,22.6,6.6,State government,13,Urban,7,0,7
+1460062,AVANTE APARTMENTS,Montgomery,Ground water,315,4,22.6,6.6,Private,105,Urban,38,0,38
+1460064,YERKES WATER ASSOCIATION,Montgomery,Ground water,165,6,22.6,6.6,Private,59,Urban,12,1,13
+1460068,AQUA PA PERKIOMEN WOODS,Montgomery,Ground water,1100,3,22.6,6.6,Private,462,Urban,0,0,0
+1460069,AQUA PA PERKIOMEN TOWNSHIP,Montgomery,Ground water,3600,19,22.6,6.6,Private,1406,Urban,0,0,0
+1460070,COLLEGEVILLE PARK WATER ASSOC,Montgomery,Ground water,75,4,22.6,6.6,Private,20,Urban,1,0,1
+1460071,SPRUCE COURT APARTMENTS,Montgomery,Ground water,100,11,22.6,6.6,Private,72,Urban,1,0,1
+1460073,AQUA PA MAIN SYSTEM,Montgomery,Surface water,747460,109,22.6,6.6,Private,337907,Urban,51,1,52
+1460075,FREDERICK LIVING,Montgomery,Ground water,640,6,22.6,6.6,Private,10,Urban,11,0,11
+1460077,VILLAGE OF NESHAMINY FALLS,Montgomery,Surface water purchased,1300,4,22.6,6.6,Private,766,Urban,10,0,10
+1460085,AQUA PA SUPERIOR MAIN SYSTEM,Montgomery,Ground water,7500,21,22.6,6.6,Private,3400,Urban,16,0,16
+1460086,SAINT LUKE KNOLLS,Montgomery,Ground water,50,3,22.6,6.6,Private,40,Urban,3,0,3
+1460087,PERKIOMEN CROSSING,Montgomery,Ground water,508,4,22.6,6.6,Local government,330,Urban,4,1,5
+1460092,AQUA PA SUPERIOR CENTER POINT,Montgomery,Surface water purchased,500,4,22.6,6.6,Private,177,Urban,48,0,48
+1510001,PHILADELPHIA WATER DEPARTMENT,Philadelphia,Surface water,1600000,9,64.2,26.4,Local government,475190,Urban,7,0,7
+2080002,DEMORGAN ACRES MHP,Bradford,Ground water,90,5,3.8,13.6,Private,38,Rural,88,1,89
+2080003,CANTON BOROUGH AUTHORITY,Bradford,Ground water,2050,6,3.8,13.6,Local government,818,Rural,53,0,53
+2080004,KERRYVIEW MHP,Bradford,Ground water,80,3,3.8,13.6,Private,29,Rural,109,0,109
+2080007,LERAYSVILLE WATER COMPANY,Bradford,Ground water,360,5,3.8,13.6,Local government,111,Rural,64,0,64
+2080009,VILLAGE AT WHISPERING PINES,Bradford,Ground water,93,3,3.8,13.6,Private,49,Rural,38,0,38
+2080010,NEW ALBANY WATER FUND,Bradford,Ground water,336,8,3.8,13.6,Local government,148,Rural,17,0,17
+2080011,SEVEN HILLS MHP,Bradford,Ground water,65,3,3.8,13.6,Private,37,Rural,140,0,140
+2080012,HARTS MHP,Bradford,Ground water,65,3,3.8,13.6,Private,30,Rural,43,0,43
+2080013,AMERICAN MODERN HOMES,Bradford,Ground water,100,3,3.8,13.6,Private,58,Rural,37,2,39
+2080015,WOODSIDE TERRACE MHP,Bradford,Ground water,84,4,3.8,13.6,Private,50,Rural,6,1,7
+2080017,ECHO BEACH MHP,Bradford,Ground water,43,6,3.8,13.6,Private,18,Rural,107,0,107
+2080019,TOWN AND COUNTRY ESTATES,Bradford,Ground water,200,4,3.8,13.6,Private,94,Rural,29,0,29
+2080020,TROY WATER DEPTARTMENT,Bradford,Ground water,1362,7,3.8,13.6,Local government,618,Rural,11,2,13
+2080023,RIDGEBURY MOBILE MANOR,Bradford,Ground water,38,4,3.8,13.6,Private,21,Rural,11,2,13
+2080024,HILLSIDE ACRES MHP,Bradford,Ground water,45,4,3.8,13.6,Private,35,Rural,109,12,121
+2080025,MOBILE ACRES MHP,Bradford,Groundwater under influence of surface water,100,4,3.8,13.6,Private,48,Rural,82,0,82
+2080027,JACKSON MHP,Bradford,Ground water,300,4,3.8,13.6,Private,90,Rural,56,0,56
+2080028,AQUA PA SUSQUEHANNA DIVISION,Bradford,Ground water,15569,8,3.8,13.6,Private,4301,Rural,23,5,28
+2080029,TOWANDA MUNICIPAL AUTHORITY,Bradford,Ground water,5000,8,3.8,13.6,Local government,1968,Rural,62,0,62
+2080030,WYSOX TWP MUNICIPAL AUTHORITY,Bradford,Ground water purchased,1763,3,3.8,13.6,Local government,1,Rural,9,0,9
+2080032,ULSTER MUNICIPAL AUTHORITY,Bradford,Groundwater under influence of surface water,500,6,3.8,13.6,Local government,180,Rural,44,2,46
+2080033,BRADFORD COUNTY MANOR,Bradford,Ground water,700,5,3.8,13.6,Local government,3,Rural,12,0,12
+2080034,WYALUSING MUNICIPAL AUTHORITY,Bradford,Ground water,700,9,3.8,13.6,Local government,300,Rural,90,0,90
+2080807,WYALUSING VALLEY RTRMNT & PCH,Bradford,Ground water,59,3,3.8,13.6,Private,1,Rural,5,0,5
+2080814,SHERWOOD RETIREMENT AND PCH,Bradford,Ground water,32,3,3.8,13.6,Private,1,Rural,3,0,3
+2350001,SCOTT MOBILE HOME PARK,Lackawanna,Ground water,64,3,12,14.8,Private,35,Urban,596,0,596
+2350004,AQUA PA WATER CO STANTON,Lackawanna,Ground water,425,9,12,14.8,Private,142,Urban,4,0,4
+2350005,BENTON SPRINGS LLC,Lackawanna,Ground water,150,3,12,14.8,Private,58,Urban,61,0,61
+2350010,EVERGREEN MOBILE HOME PARK,Lackawanna,Ground water,75,3,12,14.8,Private,30,Urban,0,0,0
+2350012,TALL TIMBERS VILLAGE M H P,Lackawanna,Ground water,275,6,12,14.8,Private,96,Urban,50,0,50
+2350013,MT LAUREL MOBILE HOME VILLAGE,Lackawanna,Ground water,120,4,12,14.8,Private,51,Urban,6,1,7
+2350014,HILLSIDE MOBILE HOME PARK,Lackawanna,Ground water,99,5,12,14.8,Private,40,Urban,46,2,48
+2350016,LAKESIDE VILLAGE,Lackawanna,Ground water,86,3,12,14.8,Private,44,Urban,8,0,8
+2350019,SUNSET MOBILE HOME PARK,Lackawanna,Ground water,150,3,12,14.8,Private,51,Urban,28,0,28
+2350025,AQUA PA WATER CO GLENBURN,Lackawanna,Ground water,150,3,12,14.8,Private,50,Urban,2,0,2
+2350026,PAWC LAKE SPANGENBERG,Lackawanna,Ground water,370,10,12,14.8,Private,132,Urban,29,0,29
+2350027,AQUA PA WATER CO MOSCOW,Lackawanna,Ground water,600,3,12,14.8,Private,220,Urban,1,0,1
+2350028,CLARKS SUMMIT STATE HOSPITAL,Lackawanna,Ground water,747,6,12,14.8,State government,20,Urban,11,0,11
+2350029,AQUA PA WATER CO SUNSET HILLS,Lackawanna,Ground water,145,3,12,14.8,Private,46,Urban,2,0,2
+2350032,PAW OLWEN HEIGHTS,Lackawanna,Ground water,330,9,12,14.8,Private,175,Urban,9,0,9
+2350033,RBE WATER ASSOCIATION INC,Lackawanna,Ground water,175,5,12,14.8,Private,72,Urban,32,6,38
+2350034,AQUA PA WATER CO ELMBROOK,Lackawanna,Ground water,300,6,12,14.8,Private,129,Urban,1,0,1
+2350037,AQUA PA WATER CO CHINCHILLA I,Lackawanna,Ground water,100,4,12,14.8,Private,40,Urban,2,0,2
+2350039,HAPPY ACRES DEVELOPMENT,Lackawanna,Ground water,168,6,12,14.8,Private,47,Urban,6,1,7
+2350043,HI VIEW TERRACE MOBILE HOME PK,Lackawanna,Ground water,97,5,12,14.8,Private,54,Urban,5,0,5
+2350051,ST MARYS VILLA NURSING HOME,Lackawanna,Ground water,353,6,12,14.8,Private,3,Urban,67,0,67
+2350053,AQUA PA WATER CO THORNHURST CC,Lackawanna,Ground water,500,9,12,14.8,Private,300,Urban,1,0,1
+2350054,EDGEWOOD MOBILE HOME PARK,Lackawanna,Ground water,117,3,12,14.8,Private,39,Urban,92,1,93
+2350055,AQUA PA WATER CO EDGEWOOD,Lackawanna,Ground water,265,5,12,14.8,Private,140,Urban,2,0,2
+2350056,POCONO MOBILE MANOR MHP,Lackawanna,Ground water,157,9,12,14.8,Private,51,Urban,1,1,2
+2350057,AQUA PA JEFFERSON HEIGHTS,Lackawanna,Ground water,498,9,12,14.8,Private,180,Urban,2,1,3
+2350061,MADISON ESTATES,Lackawanna,Ground water,60,3,12,14.8,Private,23,Urban,64,0,64
+2350062,FINCH HILL WATER CO,Lackawanna,Ground water,150,3,12,14.8,Private,38,Urban,197,3,200
+2350063,GREENFIELD ACRES MHP,Lackawanna,Ground water,90,3,12,14.8,Private,35,Urban,62,0,62
+2350065,LOG ROAD VILLAGE,Lackawanna,Ground water,68,3,12,14.8,Private,23,Urban,7,0,7
+2350066,BELLE AIRE ACRES,Lackawanna,Ground water,55,3,12,14.8,Private,19,Urban,222,0,222
+2350070,AQUA PA WATER CO MOUNT COBB,Lackawanna,Ground water,120,3,12,14.8,Private,65,Urban,1,0,1
+2359008,PAWC LAKE SCRANTON,Lackawanna,Surface water,134570,52,12,14.8,Private,54128,Urban,16,0,16
+2400003,ECHO VALLEY MHP,Luzerne,Ground water,490,3,14.3,15.8,Private,142,Urban,1,0,1
+2400007,LEHMAN HOME PARK,Luzerne,Ground water,63,3,14.3,15.8,Private,28,Urban,3,0,3
+2400008,TOWER 80 81 LLC,Luzerne,Ground water,55,4,14.3,15.8,Private,51,Urban,3,0,3
+2400012,AQUA PA FIELDCREST,Luzerne,Ground water,110,3,14.3,15.8,Private,45,Urban,4,0,4
+2400017,CHASE MANOR WATER ASSOC,Luzerne,Ground water,95,4,14.3,15.8,Private,43,Urban,1,0,1
+2400023,KEYSTONE JOB CORPS CENTER,Luzerne,Ground water,500,9,14.3,15.8,Federal government,34,Urban,48,1,49
+2400024,BONHAMS NURSING AND REHAB CTR,Luzerne,Ground water,166,5,14.3,15.8,Private,1,Urban,25,0,25
+2400027,THE GARDENS AT LAKESIDE,Luzerne,Ground water,91,3,14.3,15.8,Private,1,Urban,2,0,2
+2400029,AQUA PA SHICKSHINNY LAKE,Luzerne,Ground water,250,8,14.3,15.8,Private,198,Urban,2,2,4
+2400031,FOUR SEASONS ESTATES MHP,Luzerne,Ground water,98,4,14.3,15.8,Private,43,Urban,100,0,100
+2400034,LAUREL RUN ESTATES,Luzerne,Ground water,340,5,14.3,15.8,Private,116,Urban,1,1,2
+2400036,COUNTRY CREST MHP,Luzerne,Ground water,150,4,14.3,15.8,Private,53,Urban,62,3,65
+2400038,UMH VALLEY STREAM,Luzerne,Ground water,384,9,14.3,15.8,Private,100,Urban,151,0,151
+2400039,HANSONS LANDING MHP,Luzerne,Ground water,86,3,14.3,15.8,Private,32,Urban,1,0,1
+2400041,COUNTRY VILLAGE MHP,Luzerne,Ground water,175,3,14.3,15.8,Private,44,Urban,1,0,1
+2400042,BEECHCREST MHP,Luzerne,Ground water,25,3,14.3,15.8,Private,15,Urban,7,0,7
+2400043,PLEASANT VIEW MHP,Luzerne,Ground water,101,6,14.3,15.8,Private,50,Urban,17,0,17
+2400046,COUNTRY ESTATES MHP,Luzerne,Ground water,25,3,14.3,15.8,Private,15,Urban,4,0,4
+2400048,CONYNGHAM SUGARLOAF JOINT MA,Luzerne,Ground water,3230,20,14.3,15.8,Local government,882,Urban,147,0,147
+2400049,EVERGREEN ESTATES MHP,Luzerne,Ground water,80,6,14.3,15.8,Private,27,Urban,3,0,3
+2400050,COUNTRY PINES MHP,Luzerne,Ground water,280,6,14.3,15.8,Private,90,Urban,1,0,1
+2400051,VALLEY VIEW MHP,Luzerne,Ground water,480,3,14.3,15.8,Private,170,Urban,2,1,3
+2400052,DALLAS MHP,Luzerne,Ground water,86,4,14.3,15.8,Private,40,Urban,12,0,12
+2400053,AQUA PA HEX ACRES,Luzerne,Ground water,255,8,14.3,15.8,Private,102,Urban,4,0,4
+2400054,FREELAND BORO MUNI WATER AUTH,Luzerne,Ground water,4610,18,14.3,15.8,Local government,2214,Urban,37,0,37
+2400055,MAPLE LANE ESTATES,Luzerne,Ground water,200,5,14.3,15.8,Private,65,Urban,18,0,18
+2400060,SWEET VALLEY MHP,Luzerne,Ground water,60,4,14.3,15.8,Private,32,Urban,2,0,2
+2400063,WHIPPERWILL MHP,Luzerne,Ground water,25,3,14.3,15.8,Private,15,Urban,45,0,45
+2400066,AQUA PA WAPWALLOPEN,Luzerne,Ground water,239,6,14.3,15.8,Private,69,Urban,4,0,4
+2400068,HYLAND MHP,Luzerne,Ground water,75,3,14.3,15.8,Private,30,Urban,8,1,9
+2400073,SUEZ WATER PA BROWN MANOR,Luzerne,Ground water,91,3,14.3,15.8,Private,91,Urban,0,0,0
+2400076,SUEZ WATER PA DALLAS,Luzerne,Ground water,5113,26,14.3,15.8,Private,985,Urban,1,0,1
+2400078,AQUA PA FOREST PARK,Luzerne,Ground water,420,8,14.3,15.8,Private,155,Urban,2,1,3
+2400079,AQUA PA PENN LAKE,Luzerne,Ground water,150,3,14.3,15.8,Private,61,Urban,2,0,2
+2400082,OVERBROOK WATER COMPANY,Luzerne,Ground water,475,8,14.3,15.8,Private,175,Urban,6,0,6
+2400083,AQUA PA APPLEWOOD,Luzerne,Ground water,82,3,14.3,15.8,Private,32,Urban,2,0,2
+2400085,AQUA PA BARRETT,Luzerne,Ground water,107,3,14.3,15.8,Private,41,Urban,2,0,2
+2400086,INDIAN SPRINGS WATER CO,Luzerne,Ground water,137,3,14.3,15.8,Private,55,Urban,39,0,39
+2400088,BEAVER BROOK ASSOC,Luzerne,Ground water purchased,200,3,14.3,15.8,Private,55,Urban,28,0,28
+2400089,AQUA PA GARBUSH,Luzerne,Ground water,200,4,14.3,15.8,Private,81,Urban,2,0,2
+2400090,SCI DALLAS,Luzerne,Surface water purchased,2900,7,14.3,15.8,State government,1,Urban,33,0,33
+2400091,SUEZ WATER PA SHAVERTOWN,Luzerne,Ground water,3035,6,14.3,15.8,Private,361,Urban,0,0,0
+2400095,AQUA PA OAKHILL,Luzerne,Ground water,486,8,14.3,15.8,Private,156,Urban,3,0,3
+2400096,TOWN & COUNTRY WATER ASSOC,Luzerne,Ground water,79,4,14.3,15.8,Private,39,Urban,23,0,23
+2400101,AQUA PA RHODES TERRACE,Luzerne,Ground water,68,3,14.3,15.8,Private,27,Urban,2,0,2
+2400102,AQUA PA WARDEN PLACE,Luzerne,Ground water,175,6,14.3,15.8,Private,70,Urban,2,0,2
+2400103,SUEZ WATER PA HARVEYS LAKE,Luzerne,Ground water,200,6,14.3,15.8,Private,100,Urban,0,0,0
+2400104,AQUA PA MIDWAY,Luzerne,Ground water,2500,11,14.3,15.8,Private,616,Urban,8,1,9
+2400108,AQUA PA WHITE HAVEN,Luzerne,Ground water,1200,11,14.3,15.8,Local government,453,Urban,4,0,4
+2400109,WHITE HAVEN CENTER,Luzerne,Ground water,659,8,14.3,15.8,State government,22,Urban,15,0,15
+2400110,COUNTRY CLUB APTS,Luzerne,Ground water,240,4,14.3,15.8,Private,120,Urban,3,0,3
+2400111,AQUA PA LAUREL LAKES VILLAGE,Luzerne,Ground water,475,9,14.3,15.8,Private,190,Urban,4,0,4
+2400113,ORCHARD WEST WATER ASSOC,Luzerne,Ground water,90,4,14.3,15.8,Private,45,Urban,24,0,24
+2400114,AQUA PA BEECH MOUNTAIN,Luzerne,Ground water,2325,6,14.3,15.8,Private,930,Urban,3,0,3
+2400115,EEI MEADOWS COMPLEX,Luzerne,Ground water,628,5,14.3,15.8,Private,5,Urban,35,0,35
+2400116,FRITZINGERTOWN SR LIV COMM #1,Luzerne,Ground water,66,4,14.3,15.8,Private,1,Urban,3,0,3
+2400117,THE GARDENS AT BUTLER,Luzerne,Ground water,100,3,14.3,15.8,Private,2,Urban,32,0,32
+2400126,VALLEY GORGE MH PARK LLC,Luzerne,Ground water,60,5,14.3,15.8,Private,38,Urban,3,0,3
+2400128,PAW SUTTON HILLS,Luzerne,Ground water,185,3,14.3,15.8,Private,78,Urban,0,0,0
+2400136,SANDY RUN ASSOC,Luzerne,Ground water,47,3,14.3,15.8,Private,21,Urban,4,0,4
+2400139,FRITZINGERTOWN SR LIV COMM #2,Luzerne,Ground water,118,4,14.3,15.8,Private,1,Urban,0,0,0
+2400140,AQUA PA SAND SPRINGS,Luzerne,Ground water,840,5,14.3,15.8,Private,283,Urban,2,0,2
+2400144,AQUA PA ST JOHNS ESTATES,Luzerne,Ground water,95,3,14.3,15.8,Private,38,Urban,2,0,2
+2400145,SISTERS OF MERCY,Luzerne,Ground water,140,4,14.3,15.8,Private,1,Urban,1,0,1
+2400146,PROVIDENCE PLACE OF HAZLETON,Luzerne,Ground water,140,3,14.3,15.8,Private,1,Urban,74,1,75
+2400147,AQUA PA GREENBRIAR,Luzerne,Ground water,120,3,14.3,15.8,Private,57,Urban,2,0,2
+2400149,AQUA PA YALICK FARMS,Luzerne,Ground water,178,4,14.3,15.8,Public/Private,281,Urban,2,0,2
+2401021,CAN DO CORPORATE CENTER,Luzerne,Ground water,930,3,14.3,15.8,Private,8,Urban,1,0,1
+2408001,HCA ROAN FILTER PLANT,Luzerne,Surface water,45000,32,14.3,15.8,Local government,15152,Urban,3,0,3
+2408007,HCA DELANO PARK PLACE,Luzerne,Ground water,1017,8,14.3,15.8,Local government,338,Urban,5,0,5
+2408011,HCA TOMHICKEN,Luzerne,Ground water,125,4,14.3,15.8,Local government,40,Urban,0,0,0
+2408012,HCA DERRINGER FERN GLEN,Luzerne,Ground water,275,4,14.3,15.8,Local government,90,Urban,7,0,7
+2409010,PAW NESBITT,Luzerne,Surface water,52640,6,14.3,15.8,Private,23311,Urban,0,0,0
+2450002,BROOKMONT HEALTH CARE CENTER,Monroe,Ground water,229,3,31.5,12.5,Private,1,Urban,2,0,2
+2450004,SMITHFIELD COURT,Monroe,Ground water,50,3,31.5,12.5,Private,24,Urban,31,2,33
+2450005,BARTON COURT,Monroe,Ground water,118,6,31.5,12.5,Private,58,Urban,1,0,1
+2450006,MAPLE ROCK TRAILER COURT,Monroe,Ground water,50,3,31.5,12.5,Private,45,Urban,31,1,32
+2450008,BIRCHWOOD TRAILER PARK,Monroe,Ground water,389,7,31.5,12.5,Private,36,Urban,16,1,17
+2450009,FAWN VALLEY SOUTH & NORTH,Monroe,Ground water,100,6,31.5,12.5,Private,24,Urban,20,3,23
+2450015,LAKE OF THE PINES,Monroe,Ground water,1200,10,31.5,12.5,Private,420,Urban,26,2,28
+2450018,DEER RUN MOBILE HOME PARK,Monroe,Ground water,54,3,31.5,12.5,Private,18,Urban,7,4,11
+2450020,BUCK HILL FALLS WATER CO,Monroe,Surface water,876,9,31.5,12.5,Private,350,Urban,25,0,25
+2450022,DELAWARE WATER GAP BORO,Monroe,Ground water,850,8,31.5,12.5,Local government,428,Urban,56,0,56
+2450023,E STROUDSBURG BORO WATER DEPT,Monroe,Surface water,13000,16,31.5,12.5,Local government,2953,Urban,4,5,9
+2450025,TWIN FALLS MHP,Monroe,Ground water,34,3,31.5,12.5,Private,21,Urban,31,0,31
+2450027,GILBERT MOBILE HOME PARK,Monroe,Ground water,150,6,31.5,12.5,Private,47,Urban,8,0,8
+2450028,POCONO MOBILE HOME ESTATES,Monroe,Ground water,129,6,31.5,12.5,Private,96,Urban,5,1,6
+2450033,BLUE MTN VILLAGE ON CHICOLA LK,Monroe,Ground water,160,3,31.5,12.5,Private,54,Urban,0,0,0
+2450034,BRODHEAD CREEK REG WATER AUTH,Monroe,Surface water,30000,18,31.5,12.5,Local government,5400,Urban,65,1,66
+2450038,WHITE ROCK MOBILE HOME PARK,Monroe,Ground water,50,3,31.5,12.5,Private,22,Urban,91,1,92
+2450039,AQUA PA MOUNTAINHOME SYSTEM,Monroe,Ground water,1450,7,31.5,12.5,Private,529,Urban,5,0,5
+2450040,SKYTOP LODGE INC,Monroe,Ground water,300,12,31.5,12.5,Private,78,Urban,94,1,95
+2450044,AQUA PA HAMILTON WATER CO,Monroe,Ground water,1500,6,31.5,12.5,Private,443,Urban,5,0,5
+2450045,PAWC MOUNTAIN TOP ESTATES,Monroe,Ground water,183,4,31.5,12.5,Private,81,Urban,0,0,0
+2450049,MANWALAMINK WATER COMPANY,Monroe,Ground water,3200,9,31.5,12.5,Private,604,Urban,9,0,9
+2450053,TOBYHANNA ARMY DEPOT,Monroe,Ground water,3800,19,31.5,12.5,Federal government,194,Urban,18,1,19
+2450054,SUN VALLEY WATER CO,Monroe,Ground water,120,3,31.5,12.5,Private,60,Urban,753,0,753
+2450056,VILLAGE AT CAMELBACK,Monroe,Ground water,309,10,31.5,12.5,Private,104,Urban,28,1,29
+2450063,PAWC POCONO DISTRICT,Monroe,Ground water,17860,57,31.5,12.5,Private,7949,Urban,0,0,0
+2450064,POCONO MANOR INN,Monroe,Ground water,300,12,31.5,12.5,Private,45,Urban,40,0,40
+2450065,PENN ESTATES UTILITIES INCORP,Monroe,Ground water,4300,22,31.5,12.5,Public/Private,1725,Urban,14,2,16
+2450068,MUSHROOM FARM,Monroe,Ground water,172,3,31.5,12.5,Private,70,Urban,4,2,6
+2450070,PLEASANT VIEW LAKES POA,Monroe,Ground water,389,5,31.5,12.5,Private,120,Urban,35,0,35
+2450076,ESTATES AT HAMILTON HILLS,Monroe,Ground water,84,5,31.5,12.5,Private,30,Urban,28,10,38
+2450079,GETZ PERSONAL CARE HOME,Monroe,Ground water,95,4,31.5,12.5,Private,3,Urban,1,0,1
+2450080,TRI VALLEY ELDO LAKE DIVISION,Monroe,Ground water,310,4,31.5,12.5,Private,128,Urban,9,6,15
+2450083,MOUNTAIN VIEW VILLAGE,Monroe,Ground water,100,3,31.5,12.5,Private,38,Urban,36,1,37
+2450084,LYNWOOD ACRES MOBILE HOME PARK,Monroe,Ground water,77,5,31.5,12.5,Private,38,Urban,6,2,8
+2450086,AQUA PENNSYLVANIA PINECREST,Monroe,Ground water,500,3,31.5,12.5,Private,258,Urban,1,0,1
+2450087,GREEN MOUNTAIN ESTATES,Monroe,Ground water,108,5,31.5,12.5,Private,38,Urban,14,9,23
+2450088,GLUCO LODGE,Monroe,Ground water,65,3,31.5,12.5,Private,2,Urban,21,3,24
+2450089,EDGEWOOD AT COUNTRYSIDE APTS,Monroe,Ground water,80,4,31.5,12.5,Private,33,Urban,3,3,6
+2450092,FOX GLEN GARDENS,Monroe,Ground water,95,3,31.5,12.5,Private,28,Urban,45,5,50
+2450093,AQUA PA ROBIN HOOD LAKES,Monroe,Ground water,492,12,31.5,12.5,Private,243,Urban,10,0,10
+2450096,WESTON SNR LIVING AT HILLCREST,Monroe,Ground water,72,4,31.5,12.5,Private,1,Urban,84,6,90
+2450097,POCONO PLATEAU PARK WELL 1,Monroe,Ground water,60,4,31.5,12.5,Private,39,Urban,48,1,49
+2450098,TOWN HOMES AT MAPLE LANE,Monroe,Ground water,60,3,31.5,12.5,Private,21,Urban,32,1,33
+2450099,MANWALAMINK WATER CO   NS 1&2,Monroe,Ground water,600,3,31.5,12.5,Private,165,Urban,2,0,2
+2450104,TIMBER MOUNTAIN ESTATES,Monroe,Ground water,60,3,31.5,12.5,Private,20,Urban,34,0,34
+2450105,MONROE COUNTY CORRECTIONAL FAC,Monroe,Ground water,740,4,31.5,12.5,Public/Private,4,Urban,1,1,2
+2450106,POCO APARTMENTS (LOWER),Monroe,Ground water,48,3,31.5,12.5,Private,24,Urban,7,3,10
+2450107,POCO APARTMENTS (UPPER),Monroe,Ground water,36,4,31.5,12.5,Private,18,Urban,10,0,10
+2450111,MRS BUSHS PERSONAL CARE HOME,Monroe,Ground water,70,3,31.5,12.5,Private,1,Urban,28,0,28
+2450113,MANWALAMINK WATER CO  NS 3,Monroe,Ground water,1100,3,31.5,12.5,Private,370,Urban,7,0,7
+2450115,MOUNTAIN MANOR COMMUNITY,Monroe,Ground water,187,6,31.5,12.5,Private,69,Urban,36,0,36
+2450117,VICTORIA VILLAGE TOWNHOUSE,Monroe,Ground water,99,4,31.5,12.5,Private,24,Urban,25,10,35
+2450119,PAWC MID MONROE,Monroe,Ground water,1580,14,31.5,12.5,Private,632,Urban,0,1,1
+2450122,POCONO/JACKSON WATER AUTHORITY,Monroe,Ground water,2100,5,31.5,12.5,Local government,150,Urban,5,0,5
+2450123,OAK RUN VILLAGE,Monroe,Ground water,70,3,31.5,12.5,Private,38,Urban,31,1,32
+2450124,NORTHRIDGE AT CAMELBACK,Monroe,Ground water,330,6,31.5,12.5,Private,276,Urban,66,0,66
+2450129,ROCKY RIDGE MOBILE HOME PARK,Monroe,Ground water,171,4,31.5,12.5,Private,89,Urban,57,0,57
+2450133,BLUE MTN LAKE UTILITY ASSOC,Monroe,Ground water,1753,9,31.5,12.5,Private,723,Urban,0,0,0
+2450136,SULLIVAN TRAIL VILLAGE,Monroe,Ground water,45,4,31.5,12.5,Private,24,Urban,33,8,41
+2450138,ESTATES AT STONE ROW,Monroe,Ground water,60,6,31.5,12.5,Private,24,Urban,43,1,44
+2450141,AQUA PA WILD PINES WATER SYS,Monroe,Ground water,440,3,31.5,12.5,Private,175,Urban,2,0,2
+2450142,OAKS SENIOR COMMUNITY,Monroe,Ground water,84,4,31.5,12.5,Private,78,Urban,28,0,28
+2450677,MT AIRY CASINO & RESORT,Monroe,Ground water,7000,10,31.5,12.5,Private,3,Urban,31,0,31
+2520005,GRAMPAS WOODS ESTATES,Pike,Ground water,45,6,18.2,9.9,Private,28,Rural,18,2,20
+2520031,LAUREL WOODS MOBILE HOME PARK,Pike,Ground water,70,3,18.2,9.9,Private,26,Rural,161,5,166
+2520033,HEMLOCK FARMS (MAIN),Pike,Ground water,8321,17,18.2,9.9,Private,3248,Rural,11,0,11
+2520034,PAWC WILD ACRES,Pike,Ground water,2943,11,18.2,9.9,Private,1204,Rural,0,0,0
+2520035,PAWC MARCEL LAKES,Pike,Ground water,845,10,18.2,9.9,Private,354,Rural,0,0,0
+2520036,THE ESCAPE,Pike,Ground water,1100,18,18.2,9.9,Private,371,Rural,29,0,29
+2520037,AQUA PA FAWN LAKE FOREST,Pike,Ground water,6533,29,18.2,9.9,Private,2177,Rural,7,1,8
+2520040,TRANQUILITY FALLS,Pike,Ground water,121,7,18.2,9.9,Private,26,Rural,0,0,0
+2520042,RUSTIC ACRES MHP,Pike,Ground water,73,4,18.2,9.9,Private,55,Rural,27,0,27
+2520044,MUNI AUTH OF BORO OF MATAMORAS,Pike,Ground water,2900,14,18.2,9.9,Local government,1160,Rural,17,0,17
+2520046,MILFORD WATER AUTHORITY,Pike,Groundwater under influence of surface water,2420,4,18.2,9.9,Local government,788,Rural,14,1,15
+2520048,HITCHING POST ASSOC,Pike,Ground water,90,3,18.2,9.9,Private,38,Rural,32,1,33
+2520050,PAWC POCONO MTN LAKE FOREST,Pike,Ground water,180,4,18.2,9.9,Private,63,Rural,0,2,2
+2520051,TWIN LAKES UTILITIES INC,Pike,Ground water,300,4,18.2,9.9,Private,120,Rural,4,0,4
+2520052,MILFORD SENIOR CARE,Pike,Ground water,110,4,18.2,9.9,Private,1,Rural,48,2,50
+2520054,POCONO RANCH LANDS SECT 4,Pike,Ground water,225,4,18.2,9.9,Private,100,Rural,11,1,12
+2520056,PAWC ALL SEASONS SYSTEM,Pike,Ground water,100,3,18.2,9.9,Private,44,Rural,0,0,0
+2520058,POCONO MTN LAKE ESTATES SECT5A,Pike,Ground water,150,7,18.2,9.9,Private,55,Rural,55,0,55
+2520061,AQUA PA TAFTON WILSON HILL,Pike,Ground water,80,3,18.2,9.9,Private,80,Rural,1,0,1
+2520062,PAWC SAW CREEK ESTATES,Pike,Ground water,6833,23,18.2,9.9,Private,3344,Rural,0,0,0
+2520065,AQUA PA TANGLEWOOD LAKES,Pike,Ground water,1321,14,18.2,9.9,Private,363,Rural,2,0,2
+2520066,AQUA PA TANGLWOOD NORTH,Pike,Ground water,690,10,18.2,9.9,Private,230,Rural,1,0,1
+2520070,TAMIMENT RESORT,Pike,Ground water,1200,8,18.2,9.9,Private,510,Rural,15,0,15
+2520073,KILLIAM TRACT,Pike,Ground water,39,2,18.2,9.9,Private,50,Rural,4,0,4
+2520075,LAKE WALLENPAUPACK ESTATES POA,Pike,Ground water,204,9,18.2,9.9,Private,50,Rural,1,0,1
+2520085,PAWC MILFORD LANDING,Pike,Ground water,468,6,18.2,9.9,Private,177,Rural,0,0,0
+2520086,CRESCENT LAKE NORTH COMM ASSOC,Pike,Ground water,80,3,18.2,9.9,Private,42,Rural,4,2,6
+2520089,POC MTN LAKE EST SECT 1E,Pike,Ground water,140,6,18.2,9.9,Private,55,Rural,89,0,89
+2520095,OAK MANOR ESTATES,Pike,Ground water,46,3,18.2,9.9,Private,32,Rural,11,2,13
+2520096,PAWC PINE RIDGE SYSTEM,Pike,Ground water,2450,16,18.2,9.9,Private,1034,Rural,0,0,0
+2520100,HAPPY HOLLOW,Pike,Ground water,89,3,18.2,9.9,Private,74,Rural,11,1,12
+2520103,MOON VALLEY FALLS,Pike,Ground water,120,10,18.2,9.9,Private,50,Rural,4,2,6
+2520107,PIKE COUNTY CORRECTIONAL FACIL,Pike,Ground water,376,4,18.2,9.9,Local government,5,Rural,0,0,0
+2520110,DEERHAVEN WHITE BEAUTY VIEW ES,Pike,Ground water,53,3,18.2,9.9,Private,21,Rural,67,0,67
+2520201,LAUREL LANE DEVELOPMENT ASSOC,Pike,Ground water,179,12,18.2,9.9,Private,43,Rural,26,1,27
+2521031,AQUA PA WOODLEDGE VILLAGE,Pike,Ground water,58,3,18.2,9.9,Private,32,Rural,1,0,1
+2570001,DARWAY HEALTHCARE & REHAB,Sullivan,Ground water,100,4,6.5,13,Private,1,Rural,65,4,69
+2570003,DUSHORE WATER AUTHORITY,Sullivan,Ground water,400,17,6.5,13,Local government,409,Rural,394,2,396
+2570004,LAPORTE BORO MUN WATER SYSTEM,Sullivan,Ground water,325,8,6.5,13,Local government,188,Rural,8,0,8
+2570005,RED ROCK JOB CORPS CENTER,Sullivan,Ground water,425,7,6.5,13,State government,41,Rural,0,0,0
+2580001,WHITES MOBILE HOME PARK,Susquehanna,Ground water,90,7,3.4,13,Private,30,Rural,5,0,5
+2580010,AQUA PA WATER CO BROOKLYN,Susquehanna,Ground water,44,4,3.4,13,Private,17,Rural,2,0,2
+2580012,AQUA PA WATER CO HOP BOTTOM,Susquehanna,Ground water,265,4,3.4,13,Private,90,Rural,2,0,2
+2580015,LAZY BROOK PARK,Susquehanna,Ground water,51,4,3.4,13,Private,21,Rural,8,7,15
+2580019,NEW MILFORD MUNICIPAL AUTH,Susquehanna,Ground water,979,6,3.4,13,Local government,494,Rural,8,0,8
+2580021,WEIDAS MOBILE HOME PARK,Susquehanna,Ground water,77,3,3.4,13,Private,29,Rural,34,0,34
+2580022,SHADY LANE HOME PARK,Susquehanna,Ground water,40,3,3.4,13,Private,31,Rural,8,1,9
+2580023,PA AMER WATER CO MONTROSE,Susquehanna,Surface water,1890,3,3.4,13,Private,765,Rural,1,0,1
+2580024,PA AMER WATER CO SUSQUEHANNA,Susquehanna,Surface water,4230,8,3.4,13,Private,1637,Rural,0,1,1
+2580025,OAKLAND BOROUGH WATER CO,Susquehanna,Ground water,850,4,3.4,13,Local government,256,Rural,48,1,49
+2580026,PA AMER WATER THOMPSON,Susquehanna,Ground water,225,7,3.4,13,Private,97,Rural,0,0,0
+2580027,HARFORD MUNI AUTH WATER SYSTEM,Susquehanna,Ground water,100,3,3.4,13,Private,55,Rural,11,0,11
+2580032,LAKE WALTER WATER ASSOCIATION,Susquehanna,Ground water,165,6,3.4,13,Private,55,Rural,22,0,22
+2580035,OAKLAND TRAILER PARK,Susquehanna,Ground water,90,4,3.4,13,Private,35,Rural,5,1,6
+2580036,LAKE RAYLEAN WATER ASSOCIATION,Susquehanna,Ground water,47,3,3.4,13,Private,23,Rural,63,0,63
+2580038,LIBERTY PARK,Susquehanna,Ground water,40,3,3.4,13,Private,20,Rural,5,1,6
+2580040,TERRACE HILL MHP,Susquehanna,Ground water,90,4,3.4,13,Private,47,Rural,10,0,10
+2580042,ELK MEADOWS,Susquehanna,Ground water,96,4,3.4,13,Private,35,Rural,12,1,13
+2580046,GRACIOUS LIVING ESTATES PCH,Susquehanna,Ground water,77,3,3.4,13,Private,1,Rural,50,0,50
+2580047,CHOCONUT CREEK APARTMENTS,Susquehanna,Ground water,25,3,3.4,13,Private,24,Rural,65,0,65
+2580048,TIFFANY PINES,Susquehanna,Ground water,150,3,3.4,13,Public/Private,40,Rural,106,0,106
+2590008,SOMERS LANE MHP,Tioga,Ground water,130,3,3.8,14.4,Private,60,Rural,306,0,306
+2590013,HILLSIDE VIEW MHP,Tioga,Ground water,85,3,3.8,14.4,Private,47,Rural,6,0,6
+2590017,PLEASANT VILLAGE MHP,Tioga,Ground water,40,3,3.8,14.4,Private,24,Rural,12,0,12
+2590018,MIDDLEBURY MHC,Tioga,Ground water,57,3,3.8,14.4,Private,21,Rural,85,0,85
+2590029,WATROUS WATER ASSOCIATION,Tioga,Groundwater under influence of surface water,44,7,3.8,14.4,Private,15,Rural,283,0,283
+2590031,TIOGA BORO MUNICIPAL AUTHORITY,Tioga,Ground water,640,5,3.8,14.4,Local government,328,Rural,252,0,252
+2590033,BLOSSBURG MUNICIPAL AUTHORITY,Tioga,Surface water,1650,9,3.8,14.4,Local government,668,Rural,4,0,4
+2590035,ELKLAND BOROUGH WATER SYSTEM,Tioga,Ground water,1820,4,3.8,14.4,Local government,820,Rural,308,1,309
+2590036,KNOXVILLE WATER DEPARTMENT,Tioga,Ground water,590,5,3.8,14.4,Local government,315,Rural,108,13,121
+2590038,MANSFIELD BOROUGH MUN AUTH,Tioga,Surface water,4100,11,3.8,14.4,Local government,921,Rural,28,0,28
+2590041,DELMAR MEADOWS MHC,Tioga,Ground water,64,5,3.8,14.4,Private,50,Rural,5,0,5
+2590042,WELLSBORO MUNICIPAL AUTHORITY,Tioga,Surface water,8225,15,3.8,14.4,Local government,1523,Rural,23,3,26
+2590043,WESTFIELD BOROUGH WATERWORKS,Tioga,Ground water,1300,8,3.8,14.4,Local government,550,Rural,126,0,126
+2590044,BLOSS TWP MUNICIPAL AUTHORITY,Tioga,Ground water,325,3,3.8,14.4,Local government,186,Rural,47,3,50
+2590045,OSCEOLA TWP MUNICIPAL AUTHORIT,Tioga,Ground water,400,4,3.8,14.4,Local government,192,Rural,138,1,139
+2590048,DUNCAN TWP MUNICIPAL AUTHORITY,Tioga,Ground water,220,6,3.8,14.4,Local government,101,Rural,372,2,374
+2590049,HAMILTON TWP MUN AUTH,Tioga,Surface water purchased,400,5,3.8,14.4,Local government,164,Rural,3,0,3
+2590050,LAWRENCEVILLE BORO AUTHORITY,Tioga,Ground water,600,4,3.8,14.4,Local government,270,Rural,277,0,277
+2590051,NELSON TOWNSHIP AUTHORITY,Tioga,Surface water,300,8,3.8,14.4,Local government,122,Rural,532,10,542
+2590053,GEORGE DEAR MHP,Tioga,Ground water,200,6,3.8,14.4,Private,50,Rural,59,1,60
+2590054,BAKERCREST PCH,Tioga,Ground water,35,4,3.8,14.4,Private,1,Rural,576,0,576
+2590812,MANSFIELD UNIVERSITY,Tioga,Surface water,3000,7,3.8,14.4,State government,36,Rural,93,3,96
+2640004,SUNRISE TERRACE MOBILE HOME PK,Wayne,Ground water,144,6,8.9,12.9,Private,70,Rural,1,0,1
+2640006,NEVILLES MOBILE HOME COURT,Wayne,Ground water,85,3,8.9,12.9,Private,34,Rural,4,0,4
+2640008,LAKESIDE MOBILE HOME PARK,Wayne,Ground water,48,5,8.9,12.9,Private,19,Rural,2,1,3
+2640010,CHERRY HILL AT HOLIDAY PARK,Wayne,Ground water,100,3,8.9,12.9,Private,42,Rural,2,5,7
+2640012,CANAL MOBILE HOME PARK,Wayne,Ground water,200,6,8.9,12.9,Private,50,Rural,4,0,4
+2640014,THE DEVEREUX FOUNDATION,Wayne,Ground water,115,5,8.9,12.9,Private,4,Rural,1,1,2
+2640015,PORT FLORENCE DEVELOPMENT,Wayne,Ground water,100,7,8.9,12.9,Private,20,Rural,1,0,1
+2640017,AQUA PA GARDEN HILLS,Wayne,Ground water,90,4,8.9,12.9,Private,41,Rural,1,0,1
+2640018,AQUA PA HONESDALE,Wayne,Ground water,5500,17,8.9,12.9,Private,2374,Rural,2,1,3
+2640019,HILLTOP VILLAGE ASSOCIATION,Wayne,Ground water,86,12,8.9,12.9,Private,45,Rural,2,3,5
+2640020,AQUA PA WATER CO SCI WAYMART,Wayne,Ground water,3200,9,8.9,12.9,Private,4,Rural,1,0,1
+2640022,AQUA PA GOULDSBORO,Wayne,Ground water,350,3,8.9,12.9,Private,141,Rural,2,0,2
+2640023,LAKE WALLENPAUPACK SANDY SHORE,Wayne,Ground water,499,12,8.9,12.9,Private,170,Rural,4,1,5
+2640024,CHERRY HILL MOBILE HOME COURT,Wayne,Ground water,86,4,8.9,12.9,Private,38,Rural,1,4,5
+2640025,ROAMINGWOOD SEWER AND WATER,Wayne,Ground water,7105,15,8.9,12.9,Private,3046,Rural,23,4,27
+2640028,AQUA PA WATER CO HAWLEY,Wayne,Ground water,1800,14,8.9,12.9,Private,806,Rural,1,1,2
+2640031,AQUA PA WAYNE COUNTY PRISON,Wayne,Ground water,160,3,8.9,12.9,Private,1,Rural,1,0,1
+2640032,AQUA PA WATER CO  WAYMART,Wayne,Ground water,1100,14,8.9,12.9,Private,415,Rural,2,0,2
+2640036,WALLENPAUPACK LAKE ESTATES,Wayne,Ground water,2200,15,8.9,12.9,Private,955,Rural,28,1,29
+2640042,ARNOLD APARTMENTS,Wayne,Ground water,44,3,8.9,12.9,Private,19,Rural,17,5,22
+2640044,HAMLIN WATER COMPANY,Wayne,Ground water,400,5,8.9,12.9,Private,90,Rural,33,3,36
+2640046,SABER HEALTH CARE GROUP,Wayne,Ground water,200,3,8.9,12.9,Private,1,Rural,89,0,89
+2640047,PAW INDIAN ROCKS,Wayne,Ground water,1100,16,8.9,12.9,Private,404,Rural,3,2,5
+2640048,AQUA PA PAUPACKAN LAKE ESTATES,Wayne,Ground water,800,18,8.9,12.9,Private,400,Rural,2,1,3
+2640049,PINE GROVE ESTATES,Wayne,Ground water,263,14,8.9,12.9,Private,120,Rural,19,1,20
+2640050,RYAN HILL DEVELOPMENT,Wayne,Ground water,75,3,8.9,12.9,Private,25,Rural,2,0,2
+2640051,WOODLAND HILLS,Wayne,Ground water,320,8,8.9,12.9,Private,125,Rural,15,2,17
+2640052,PARADISE POINT,Wayne,Ground water,300,4,8.9,12.9,Private,150,Rural,69,0,69
+2640054,SALEM HEIGHTS ESTATES,Wayne,Ground water,62,3,8.9,12.9,Private,40,Rural,621,16,637
+2640055,WOODLYN RESIDENCES,Wayne,Ground water,35,3,8.9,12.9,Private,14,Rural,35,0,35
+2640056,MOUNTAIN CREST DEVELOPMENT,Wayne,Ground water,44,2,8.9,12.9,Private,16,Rural,5,0,5
+2640057,HIMALAYAN INSTITUTE,Wayne,Ground water,124,8,8.9,12.9,Public/Private,14,Rural,101,4,105
+2640063,BUCKINGHAM ESTATES,Wayne,Ground water,57,3,8.9,12.9,Private,29,Rural,1,0,1
+2640064,HOLLISTER HEIGHTS MHP,Wayne,Ground water,60,3,8.9,12.9,Private,22,Rural,3,0,3
+2640065,BETHANY VILLAGE,Wayne,Ground water,99,3,8.9,12.9,Private,4,Rural,64,0,64
+2640703,ASPEN RIDGE POA,Wayne,Ground water,100,3,8.9,12.9,Local government,38,Rural,12,2,14
+2660004,WINOLA WATER CO,Wyoming,Ground water,130,5,4.2,11,Private,45,Rural,98,0,98
+2660008,COPPER KETTLE MHP,Wyoming,Ground water,62,3,4.2,11,Private,27,Rural,1,0,1
+2660010,MESHOPPEN BOROUGH WATER CO,Wyoming,Ground water,563,6,4.2,11,Local government,186,Rural,15,1,16
+2660011,NICHOLSON BORO AUTH,Wyoming,Ground water,1000,5,4.2,11,Local government,234,Rural,5,1,6
+2660012,SUEZ WATER PA NOXEN,Wyoming,Ground water,315,3,4.2,11,Private,105,Rural,0,0,0
+2660014,TUNKHANNOCK BORO MUNIC AUTH,Wyoming,Ground water,5349,14,4.2,11,Local government,835,Rural,5,0,5
+2660015,WESTGATE WATER SYSTEM,Wyoming,Ground water,150,4,4.2,11,Local government,43,Rural,34,0,34
+2660016,AQUA PA WASHINGTON PARK,Wyoming,Ground water,300,10,4.2,11,Private,156,Rural,10,0,10
+2660017,AQUA PA RIVERCREST,Wyoming,Ground water,542,6,4.2,11,Private,215,Rural,8,0,8
+2660018,AQUA PA BUNKER HILL,Wyoming,Ground water,210,4,4.2,11,Private,66,Rural,5,0,5
+2660019,LACEYVILLE WATER CO,Wyoming,Ground water,415,5,4.2,11,Local government,163,Rural,7,0,7
+2660020,MEHOOPANY TWP MUNICIPAL AUTH,Wyoming,Ground water,85,4,4.2,11,Private,31,Rural,3,0,3
+2660023,MT AIRY LAKEVIEW ESTATES,Wyoming,Ground water,35,4,4.2,11,Private,24,Rural,5,0,5
+2660024,DYMONDS MHP,Wyoming,Ground water,90,3,4.2,11,Private,36,Rural,40,0,40
+2660027,COOKS MHP,Wyoming,Ground water,92,11,4.2,11,Private,42,Rural,83,2,85
+2660031,OAKWOOD LAKE VILLAGE MHP,Wyoming,Ground water,273,3,4.2,11,Private,79,Rural,33,0,33
+2660033,CLARENDON ACRES WATER CO,Wyoming,Ground water,280,8,4.2,11,Private,68,Rural,158,0,158
+2660034,MAPLEWOOD HEIGHTS,Wyoming,Ground water,35,3,4.2,11,Private,14,Rural,3,1,4
+2660035,VILLAGE OF MTN HEIGHTS,Wyoming,Ground water,54,3,4.2,11,Private,18,Rural,6,1,7
+2660036,AQUA PA FACTORYVILLE,Wyoming,Ground water,2323,6,4.2,11,Private,221,Rural,6,0,6
+2660037,FREEMANS MHP,Wyoming,Ground water,83,3,4.2,11,Private,42,Rural,39,0,39
+2660039,EATON SEWER & WATER CO,Wyoming,Ground water,3100,4,4.2,11,Private,98,Rural,11,0,11
+2660042,WHITES FERRY ROAD APTS,Wyoming,Ground water,39,4,4.2,11,Public/Private,12,Rural,5,0,5
+2660043,OLD ORCHARD APTS,Wyoming,Ground water,38,4,4.2,11,Public/Private,11,Rural,7,0,7
+2660044,MESHOPPEN TOWNHOUSE APTS,Wyoming,Ground water,65,4,4.2,11,Public/Private,26,Rural,7,0,7
+2660047,WINOLA VIEW APTS,Wyoming,Ground water,28,3,4.2,11,Local government,24,Rural,15,0,15
+2660050,SCHOOLHOUSE HILL APTS,Wyoming,Ground water,38,3,4.2,11,Public/Private,20,Rural,56,1,57
+3060002,BALLY MUNI WATER WORKS,Berks,Ground water,1090,8,25.3,14.2,Local government,458,Urban,2,0,2
+3060004,WOODLAND MHP,Berks,Ground water,61,4,25.3,14.2,Private,39,Urban,6,2,8
+3060005,GEISINGERS MHP,Berks,Ground water,90,6,25.3,14.2,Private,48,Urban,3,0,3
+3060010,BIRDSBORO MUNI WATER AUTH,Berks,Surface water,5353,7,25.3,14.2,Local government,2005,Urban,8,6,14
+3060012,MAIDENCREEK TWP WATER AUTH,Berks,Ground water,7505,12,25.3,14.2,Local government,2607,Urban,4,0,4
+3060013,MAXATAWNY TWP MUNI AUTH,Berks,Ground water,425,5,25.3,14.2,Private,136,Urban,17,1,18
+3060016,LENAPE HILLS TRAILER PARK,Berks,Ground water,44,3,25.3,14.2,Private,18,Urban,282,4,286
+3060018,AQUA PA FLYING HILLS WA SYS,Berks,Ground water,3600,10,25.3,14.2,Private,1424,Urban,0,1,1
+3060026,PARK PLACE COURT,Berks,Ground water,29,4,25.3,14.2,Private,19,Urban,44,0,44
+3060028,VALLEY VIEW MHP BLANDON,Berks,Ground water,50,3,25.3,14.2,Private,30,Urban,3,0,3
+3060029,FLEETWOOD BORO WATER SYSTEM,Berks,Ground water,4218,40,25.3,14.2,Local government,1694,Urban,25,0,25
+3060030,AQUA PA GEIGERTOWN WATER SYS,Berks,Ground water,200,6,25.3,14.2,Private,75,Urban,1,0,1
+3060031,LAUREL HEALTH RESOURCES,Berks,Ground water,240,7,25.3,14.2,Private,2,Urban,1,0,1
+3060032,VILLAGE OF PLEASANT HILL,Berks,Ground water,1200,7,25.3,14.2,Private,354,Urban,4,1,5
+3060034,LE MA KE DE MOBILE CT,Berks,Ground water,90,3,25.3,14.2,Private,50,Urban,3,0,3
+3060035,HAMBURG MUNI WATER&SEWER AUTH,Berks,Surface water,4990,11,25.3,14.2,Local government,2229,Urban,11,3,14
+3060036,WILL O HILL APTS,Berks,Ground water,300,4,25.3,14.2,Private,190,Urban,4,0,4
+3060037,HEREFORD EST MHP,Berks,Ground water,710,4,25.3,14.2,Private,344,Urban,3,0,3
+3060038,MUHLENBERG TWP MUNI AUTH,Berks,Ground water,21000,38,25.3,14.2,Local government,7851,Urban,8,2,10
+3060040,BERKLEIGH HEIGHTS MHP INC,Berks,Ground water,95,7,25.3,14.2,Private,47,Urban,25,1,26
+3060041,KUTZTOWN BOROUGH WATER,Berks,Groundwater under influence of surface water,14200,6,25.3,14.2,Local government,1902,Urban,0,0,0
+3060042,GREEN ACRES MHP,Berks,Ground water,47,3,25.3,14.2,Private,18,Urban,2,0,2
+3060043,HIGHLAND EST MHP,Berks,Ground water,1050,12,25.3,14.2,Private,271,Urban,0,0,0
+3060044,SITTLERS MHP,Berks,Ground water,89,8,25.3,14.2,Private,49,Urban,74,6,80
+3060045,BERN TWP MUNI AUTH,Berks,Surface water purchased,1800,7,25.3,14.2,Local government,336,Urban,2,0,2
+3060047,LEESPORT BORO WATER AUTH,Berks,Ground water,2200,15,25.3,14.2,Local government,910,Urban,6,1,7
+3060048,COUNTRY VIEW MHP,Berks,Ground water,98,4,25.3,14.2,Private,46,Urban,32,0,32
+3060052,CAERNARVON TWP AUTH,Berks,Ground water,4245,15,25.3,14.2,Local government,1190,Urban,9,2,11
+3060053,OLEY TWP MUNI AUTH,Berks,Ground water,2204,11,25.3,14.2,Local government,698,Urban,5,0,5
+3060058,BERKS HILL ESTATES,Berks,Ground water,66,4,25.3,14.2,Private,20,Urban,11,0,11
+3060059,READING AREA WATER AUTHORITY,Berks,Surface water,87000,14,25.3,14.2,Local government,28500,Urban,2,1,3
+3060061,KEYSTONE EAST MHP,Berks,Ground water,450,10,25.3,14.2,Private,187,Urban,13,2,15
+3060064,TEEN CHALLENGE TRNG CTR,Berks,Ground water,300,5,25.3,14.2,Public/Private,17,Urban,16,3,19
+3060065,HERITAGE HILL ESTATE,Berks,Ground water,90,4,25.3,14.2,Private,34,Urban,12,1,13
+3060067,SHILLINGTON MUNI AUTH,Berks,Surface water purchased,11709,8,25.3,14.2,Local government,5654,Urban,3,1,4
+3060068,MILLER MOBILE HOME PARK,Berks,Ground water,30,3,25.3,14.2,Private,22,Urban,2,0,2
+3060069,PAW PENN DISTRICT,Berks,Ground water,28508,34,25.3,14.2,Private,13000,Urban,0,0,0
+3060070,URBAN ACRES MHP,Berks,Ground water,80,6,25.3,14.2,Private,80,Urban,0,0,0
+3060072,TOPTON BORO WATER SUPPLY,Berks,Groundwater under influence of surface water,2069,9,25.3,14.2,Local government,889,Urban,26,1,27
+3060073,VALLEY VIEW MHP WERNERSVILLE,Berks,Ground water,60,3,25.3,14.2,Private,21,Urban,24,1,25
+3060076,WERNERSVILLE MUNI WATER AUTH,Berks,Surface water purchased,6357,22,25.3,14.2,Local government,2170,Urban,5,0,5
+3060078,WEST READING BORO WATER,Berks,Surface water purchased,4300,6,25.3,14.2,Local government,1497,Urban,3,0,3
+3060080,WOMELSDORF ROBESONIA JT AUTH,Berks,Ground water,7070,14,25.3,14.2,Local government,2107,Urban,25,0,25
+3060081,BOYERTOWN MUNI AUTH,Berks,Surface water,8000,6,25.3,14.2,Local government,3200,Urban,5,3,8
+3060082,MT PENN BORO MUNI AUTH,Berks,Ground water,10400,17,25.3,14.2,Local government,3700,Urban,19,1,20
+3060083,WYOMISSING BORO WATER SYSTEM,Berks,Surface water purchased,8500,16,25.3,14.2,Local government,2441,Urban,3,0,3
+3060085,BERNVILLE BOROUGH,Berks,Ground water,1010,6,25.3,14.2,Local government,348,Urban,2,0,2
+3060088,PAW GLEN ALSACE DIV,Berks,Surface water purchased,24951,61,25.3,14.2,Private,9069,Urban,5,1,6
+3060092,BETHANY CHILDRENS HOME,Berks,Ground water,200,3,25.3,14.2,Public/Private,32,Urban,7,1,8
+3060094,LUTHERAN HOME AT TOPTON,Berks,Ground water,410,8,25.3,14.2,Public/Private,54,Urban,4,1,5
+3060095,MT VILLAGE MHP,Berks,Ground water,771,4,25.3,14.2,Private,261,Urban,5,0,5
+3060096,LYONS BORO,Berks,Ground water,500,6,25.3,14.2,Local government,214,Urban,69,0,69
+3060098,ONTELAUNEE TWP MUNI AUTH,Berks,Surface water purchased,2175,9,25.3,14.2,Local government,415,Urban,10,6,16
+3060100,SHOEMAKERSVILLE BORO WATER SYS,Berks,Ground water,2150,16,25.3,14.2,Local government,687,Urban,45,1,46
+3060105,LAZY K CAMPGROUND,Berks,Ground water,75,6,25.3,14.2,Private,144,Urban,50,1,51
+3060106,MEADOWS AT BETHEL MHP,Berks,Ground water,50,3,25.3,14.2,Private,32,Urban,48,0,48
+3060108,VILLAGE AT SUMMIT CREST,Berks,Ground water,120,4,25.3,14.2,Private,60,Urban,3,0,3
+3060112,HICKORY FARM MHP,Berks,Ground water,70,3,25.3,14.2,Private,35,Urban,35,0,35
+3060113,IRISH CREEK VILLAGE MHP,Berks,Ground water,90,6,25.3,14.2,Private,50,Urban,24,0,24
+3060115,NORTH HEIDELBERG WATER SYSTEM,Berks,Ground water,1350,6,25.3,14.2,Local government,350,Urban,3,0,3
+3060118,MOUNTAIN SPRINGS MHP,Berks,Ground water,215,8,25.3,14.2,Private,92,Urban,0,0,0
+3060123,PERRY TWP MUNI AUTH,Berks,Ground water purchased,125,2,25.3,14.2,Local government,33,Urban,0,0,0
+3060126,PAW GOLDEN OAKS,Berks,Ground water,100,4,25.3,14.2,Private,55,Urban,0,0,0
+3060127,ABRAXAS ACADEMY,Berks,Ground water,156,4,25.3,14.2,Private,1,Urban,6,0,6
+3060129,E&Y FARM APARTMENTS,Berks,Ground water,135,4,25.3,14.2,Private,66,Urban,18,0,18
+3060130,WASHINGTON TWP MUNI AUTH,Berks,Ground water purchased,288,2,25.3,14.2,Local government,117,Urban,2,0,2
+3060131,SK PROPERTIES LP MISTY MEADOWS,Berks,Ground water,60,4,25.3,14.2,Private,25,Urban,10,3,13
+3060133,AQUA PA HILLCREST ESTATES II,Berks,Ground water,214,3,25.3,14.2,Private,66,Urban,0,0,0
+3060134,AQUA PA STONECROFT,Berks,Ground water,600,4,25.3,14.2,Private,3,Urban,0,0,0
+3060137,MEADOWBROOK WATER SYSTEM,Berks,Ground water,250,4,25.3,14.2,Public/Private,90,Urban,39,0,39
+3061153,AQUA PA EAST POINTE,Berks,Ground water,75,3,25.3,14.2,Private,4,Urban,2,0,2
+3130002,BEAVER MEADOWS BOROUGH,Carbon,Surface water purchased,968,2,7.2,10.9,Local government,340,Urban,5,0,5
+3130004,LANSFORD COALDALE JT WATER AUT,Carbon,Ground water,9300,15,7.2,10.9,Local government,3500,Urban,6,1,7
+3130006,NIS HOLLOW ESTATES,Carbon,Ground water,265,7,7.2,10.9,Private,128,Urban,17,5,22
+3130008,MAHONING VALLEY CONVALESCENT H,Carbon,Ground water,145,6,7.2,10.9,Private,145,Urban,28,0,28
+3130009,LEHIGHTON WATER AUTHORITY,Carbon,Surface water,9000,8,7.2,10.9,Local government,3541,Urban,14,0,14
+3130011,CHESTNUT RIDGE MHP,Carbon,Ground water,152,5,7.2,10.9,Private,54,Urban,8,0,8
+3130012,PALMERTON MUNICIPAL AUTHORITY,Carbon,Ground water,7000,11,7.2,10.9,Private,2188,Urban,3,0,3
+3130013,SUMMIT HILL WATER AUTHORITY,Carbon,Ground water,2890,7,7.2,10.9,Local government,1284,Urban,2,0,2
+3130015,WEATHERLY BORO MUN AUTH,Carbon,Ground water,2612,11,7.2,10.9,Local government,965,Urban,28,0,28
+3130017,SPRINGHILL MOBILE HOME PARK,Carbon,Ground water,130,4,7.2,10.9,Private,45,Urban,0,2,2
+3130021,BOWMANSTOWN AUTHORITY,Carbon,Ground water,900,13,7.2,10.9,Local government,342,Urban,53,0,53
+3130026,NESQUEHONING BORO WATER AUTH,Carbon,Ground water,2850,11,7.2,10.9,Local government,1322,Urban,4,0,4
+3130027,CREEKSIDE MANOR M H P,Carbon,Ground water,92,3,7.2,10.9,Private,38,Urban,1,0,1
+3130029,WEINERS MHP,Carbon,Ground water,90,5,7.2,10.9,Private,37,Urban,32,0,32
+3130030,D WATER COMPANY,Carbon,Ground water,150,3,7.2,10.9,Private,24,Urban,23,3,26
+3130037,MID LAKES DEVELOPMENT,Carbon,Ground water,490,3,7.2,10.9,Private,245,Urban,2,0,2
+3130038,BEAVER RUN WATER ASSOCIATION,Carbon,Ground water,50,8,7.2,10.9,Private,65,Urban,17,1,18
+3130040,BLUE HERON HOMEOWNERS ASSOC,Carbon,Ground water,450,3,7.2,10.9,Private,126,Urban,3,0,3
+3130043,JIM THORPE BOROUGH WATER EAST,Carbon,Ground water,2853,5,7.2,10.9,Local government,960,Urban,33,0,33
+3130044,JIM THORPE BOROUGH WATER WEST,Carbon,Surface water,2274,4,7.2,10.9,Local government,750,Urban,44,5,49
+3130049,CARBON COUNTY CORRECTIONAL FAC,Carbon,Ground water,125,3,7.2,10.9,Local government,1,Urban,3,0,3
+3130050,BLUE MOUNTAIN VIEW,Carbon,Ground water,114,3,7.2,10.9,Private,50,Urban,39,0,39
+3130051,NORTHSIDE HEIGHTS ESTATES,Carbon,Ground water,461,3,7.2,10.9,Private,228,Urban,2,0,2
+3130053,SUMMIT MANAGEMENT UTILITIES,Carbon,Ground water,500,7,7.2,10.9,Private,150,Urban,125,3,128
+3130054,AQUA PA GOLDEN OAKS,Carbon,Ground water,132,3,7.2,10.9,Private,100,Urban,2,0,2
+3390001,OSSIES MOBILE HOME COMMUNITY,Lehigh,Ground water,40,3,31.5,13.1,Private,25,Urban,13,0,13
+3390005,VALLEY VIEW ESTATES,Lehigh,Ground water,68,3,31.5,13.1,Private,50,Urban,41,0,41
+3390010,BIG O MOBILE HOME PARK,Lehigh,Ground water,64,5,31.5,13.1,Private,38,Urban,21,0,21
+3390011,HEIDELBERG ACRES MHP,Lehigh,Ground water,90,4,31.5,13.1,Private,32,Urban,8,1,9
+3390018,KEYSTONE MOBILE HOME PARK,Lehigh,Ground water,375,5,31.5,13.1,Private,150,Urban,7,2,9
+3390020,GLENCREST MOBILE HOME PARK,Lehigh,Ground water,570,5,31.5,13.1,Private,276,Urban,4,0,4
+3390024,LCA ALLENTOWN DIVISION,Lehigh,Surface water,118000,16,31.5,13.1,Local government,33167,Urban,3,0,3
+3390028,AQUA PA COUNTRY CLUB GARDENS,Lehigh,Ground water,268,9,31.5,13.1,Private,103,Urban,4,1,5
+3390031,TERRYHILL ESTATES MHP,Lehigh,Ground water,90,3,31.5,13.1,Private,48,Urban,22,2,24
+3390032,EMMAUS BOROUGH PUBLIC WATER,Lehigh,Ground water,14000,19,31.5,13.1,Local government,4740,Urban,33,0,33
+3390033,MACUNGIE BOROUGH AUTHORITY,Lehigh,Ground water,3039,7,31.5,13.1,Local government,1161,Urban,1,0,1
+3390035,LCA BEVERLY HILLS DIVISION,Lehigh,Ground water,122,3,31.5,13.1,Local government,45,Urban,2,0,2
+3390036,GRIMS MOBILE HOME COURT,Lehigh,Ground water,40,6,31.5,13.1,Private,24,Urban,7,0,7
+3390039,SLATINGTON BOROUGH WATER SYS,Lehigh,Surface water,4450,10,31.5,13.1,Local government,1465,Urban,14,0,14
+3390044,CATASAUQUA MUN WATER WORKS,Lehigh,Surface water purchased,6598,8,31.5,13.1,Local government,2276,Urban,24,0,24
+3390045,ALBURTIS BOROUGH AUTHORITY,Lehigh,Ground water,2117,13,31.5,13.1,Local government,816,Urban,3,0,3
+3390046,COOPERSBURG MUN WATER AUTH,Lehigh,Ground water,2570,8,31.5,13.1,Local government,918,Urban,2,0,2
+3390047,LCA HEIDELBERG HEIGHTS DIV,Lehigh,Ground water,509,11,31.5,13.1,Local government,186,Urban,6,1,7
+3390049,AQUA PA MAPLE HILLS,Lehigh,Ground water,164,7,31.5,13.1,Private,63,Urban,2,1,3
+3390055,LCA NORTH WHITEHALL DIVISION,Lehigh,Surface water purchased,2910,22,31.5,13.1,Local government,917,Urban,1,0,1
+3390062,SALISBURY TWP WATER SYSTEM,Lehigh,Surface water purchased,8742,12,31.5,13.1,Local government,3263,Urban,3,0,3
+3390065,SWTA - MAIN SYSTEM,Lehigh,Surface water purchased,14500,43,31.5,13.1,Local government,5902,Urban,63,6,69
+3390068,AQUA PA SPRINGHOUSE FARMS,Lehigh,Ground water,645,9,31.5,13.1,Private,248,Urban,30,0,30
+3390073,LCA WLSA CENTRAL DIVISION,Lehigh,Surface water purchased,47508,70,31.5,13.1,Local government,15600,Urban,1,0,1
+3390075,LCA EMMAUS CONSECUTIVE DIV,Lehigh,Ground water purchased,1046,7,31.5,13.1,Local government,416,Urban,0,0,0
+3390076,LCA UPPER MILFORD CENTRAL DIV,Lehigh,Ground water,256,7,31.5,13.1,Local government,101,Urban,1,0,1
+3390077,UPPER SAUCON TWP WATER SUPPLY,Lehigh,Surface water purchased,7300,16,31.5,13.1,Local government,2065,Urban,11,0,11
+3390078,LCA WASHINGTON TOWNSHIP DIV,Lehigh,Surface water purchased,965,3,31.5,13.1,Local government,365,Urban,0,0,0
+3390079,KEN-MAN WATER CO,Lehigh,Ground water,475,6,31.5,13.1,Private,217,Urban,367,0,367
+3390080,LCA MILL CREEK DIVISION,Lehigh,Ground water,89,4,31.5,13.1,Local government,35,Urban,3,0,3
+3390081,WHITEHALL TWP AUTHORITY,Lehigh,Ground water,13063,31,31.5,13.1,Local government,2741,Urban,0,0,0
+3390085,LCA PINE LAKES DIVISION,Lehigh,Ground water,158,5,31.5,13.1,Local government,61,Urban,1,0,1
+3390089,LIL WOLF MHP,Lehigh,Ground water,600,5,31.5,13.1,Private,271,Urban,7,0,7
+3390090,GREEN ACRES MHC,Lehigh,Ground water,1475,5,31.5,13.1,Private,590,Urban,5,0,5
+3390091,WOODSIDE MOBILE HOME PARK,Lehigh,Ground water,130,3,31.5,13.1,Private,52,Urban,5,0,5
+3390093,DESALES UNIVERSITY,Lehigh,Ground water,2000,6,31.5,13.1,Public/Private,42,Urban,0,0,0
+3390097,HANOVER TOWNSHIP LEHIGH COUNTY,Lehigh,Surface water purchased,520,4,31.5,13.1,Local government,96,Urban,8,0,8
+3390111,LCA UPPER MILFORD DIVISION,Lehigh,Ground water,185,4,31.5,13.1,Local government,72,Urban,0,1,1
+3390113,MOUNT TREXLER MANOR,Lehigh,Ground water,90,3,31.5,13.1,Private,1,Urban,9,2,11
+3390115,LCA MADISON NORTH DIVISION,Lehigh,Ground water,290,3,31.5,13.1,Private,116,Urban,0,0,0
+3480006,GREEN ACRES MOBILE HOME PARK,Northampton,Ground water,48,4,21.1,9.4,Private,26,Urban,7,1,8
+3480007,DEL-AIRE MOBILE HOME PARK,Northampton,Ground water,33,4,21.1,9.4,Private,21,Urban,3,0,3
+3480008,MEADOWBROOK MOBILE HOMES,Northampton,Ground water,40,4,21.1,9.4,Private,21,Urban,6,0,6
+3480011,DRIFTWOOD COURT,Northampton,Ground water,53,3,21.1,9.4,Private,30,Urban,0,0,0
+3480012,SCHWEPS MOBILE HOME PARK,Northampton,Ground water,90,4,21.1,9.4,Private,57,Urban,29,0,29
+3480013,THE ORCHARD AT AIRPORT ROAD,Northampton,Ground water,37,5,21.1,9.4,Private,25,Urban,2,1,3
+3480015,HICKORY HILLS MHC,Northampton,Ground water,800,6,21.1,9.4,Private,354,Urban,4,0,4
+3480021,BETH EAST ALLEN GDNS,Northampton,Ground water,192,6,21.1,9.4,Local government,73,Urban,6,1,7
+3480022,BETH SHADY LANE SYSTEM,Northampton,Ground water,61,3,21.1,9.4,Local government,23,Urban,1,1,2
+3480024,UTILITIES INC WESTGATE,Northampton,Surface water purchased,2032,9,21.1,9.4,Private,760,Urban,5,1,6
+3480027,LOWER SAUCON AUTHORITY,Northampton,Surface water purchased,5653,14,21.1,9.4,Local government,2166,Urban,2,0,2
+3480028,LCA CLEARVIEW FARM ESTATES DIV,Northampton,Ground water,170,6,21.1,9.4,Local government,67,Urban,1,0,1
+3480029,AQUA PA WHITEHAVEN EVANWOOD,Northampton,Ground water,60,3,21.1,9.4,Private,21,Urban,4,0,4
+3480030,AQUA PA WH CHRISTIAN SPRINGS,Northampton,Ground water,153,5,21.1,9.4,Private,52,Urban,5,0,5
+3480032,WALNUTPORT AUTHORITY,Northampton,Groundwater under influence of surface water,3000,16,21.1,9.4,Local government,1001,Urban,82,0,82
+3480035,RIVERSEDGE,Northampton,Ground water,75,7,21.1,9.4,Private,32,Urban,5,1,6
+3480037,CEDAR GROVE MOBILE HOME PARK,Northampton,Ground water,65,3,21.1,9.4,Private,20,Urban,8,3,11
+3480038,PAW BANGOR DISTRICT,Northampton,Surface water,9008,22,21.1,9.4,Private,3610,Urban,0,0,0
+3480039,MILLERS EDGEWOOD MHP,Northampton,Ground water,78,3,21.1,9.4,Private,38,Urban,1,0,1
+3480040,SCOTTYS MANUFACTURED HOMES,Northampton,Ground water,67,9,21.1,9.4,Private,52,Urban,3,1,4
+3480041,KELLOWS MOBILE HOME PARK,Northampton,Ground water,30,3,21.1,9.4,Private,17,Urban,2,2,4
+3480043,CROSSROADS MHP,Northampton,Ground water,30,3,21.1,9.4,Private,17,Urban,4,0,4
+3480044,ROYAL OAKS MHP,Northampton,Ground water,85,6,21.1,9.4,Private,33,Urban,29,0,29
+3480045,WHISPERING HOLLOW-SOUTH MHP,Northampton,Ground water,400,4,21.1,9.4,Private,136,Urban,3,0,3
+3480046,CITY OF BETHLEHEM,Northampton,Surface water,115845,24,21.1,9.4,Local government,35574,Urban,8,0,8
+3480049,E BANGOR MUN AUTHORITY,Northampton,Ground water,1200,6,21.1,9.4,Local government,492,Urban,1,0,1
+3480050,EASTON AREA WATER SYSTEM,Northampton,Surface water,93400,8,21.1,9.4,Local government,31768,Urban,5,1,6
+3480052,HELLERTOWN BOROUGH AUTHORITY,Northampton,Ground water,5800,19,21.1,9.4,Local government,2411,Urban,5,0,5
+3480053,PAW BERRY HOLLOW,Northampton,Ground water,70,5,21.1,9.4,Private,28,Urban,1,2,3
+3480054,GAP VIEW COMMUNITY MHP,Northampton,Ground water,50,4,21.1,9.4,Private,25,Urban,44,6,50
+3480055,PAW BLUE MOUNTAIN DIVISION,Northampton,Surface water,23763,30,21.1,9.4,Private,9282,Urban,0,0,0
+3480056,BETH COUNTRY SQUIRE ESTATES,Northampton,Ground water,87,6,21.1,9.4,Local government,32,Urban,1,0,1
+3480057,NORTHAMPTON BORO MUNI AUTH,Northampton,Surface water,40000,18,21.1,9.4,Local government,14048,Urban,1,0,1
+3480058,WHISPERING HOLLOW NORTH MHP,Northampton,Ground water,240,6,21.1,9.4,Private,79,Urban,3,0,3
+3480059,PORTLAND BORO AUTHORITY,Northampton,Ground water,1100,10,21.1,9.4,Local government,410,Urban,2,1,3
+3480063,WALNUTPORT MOBILE COURT,Northampton,Ground water,150,4,21.1,9.4,Private,99,Urban,5,0,5
+3480066,BATH MUNICIPAL WATER WORKS,Northampton,Ground water,2680,14,21.1,9.4,Local government,1412,Urban,2,0,2
+3480072,GAP VIEW MOBILE HOME PARK,Northampton,Ground water,72,5,21.1,9.4,Private,38,Urban,7,0,7
+3480075,MOUNTAINVIEW MHP,Northampton,Ground water,335,4,21.1,9.4,Private,189,Urban,4,0,4
+3480076,EVERGREEN VILLAGE MHP,Northampton,Ground water,316,6,21.1,9.4,Private,160,Urban,5,5,10
+3480079,BETH WIL MAR MANOR,Northampton,Ground water,90,4,21.1,9.4,Local government,29,Urban,5,1,6
+3480080,LEHIGH TWP MUNI AUTH,Northampton,Ground water,260,6,21.1,9.4,Local government,102,Urban,1,0,1
+3480082,TUSCARORA VILLAGE,Northampton,Ground water,225,3,21.1,9.4,Private,70,Urban,2,0,2
+3480089,HERITAGE VILLAGE MHP,Northampton,Ground water,400,5,21.1,9.4,Private,156,Urban,13,0,13
+3480814,BETH 512 SYSTEM,Northampton,Ground water purchased,725,3,21.1,9.4,Local government,15,Urban,3,0,3
+3540002,COUNTRY HILLS APTS,Schuylkill,Ground water,40,4,7.8,13.1,Private,26,Urban,3,0,3
+3540003,GREEN VALLEY NURSING & REHAB,Schuylkill,Ground water,48,3,7.8,13.1,Private,1,Urban,2,0,2
+3540011,MAHANOY TWP AUTH,Schuylkill,Surface water,7300,13,7.8,13.1,Local government,2963,Urban,1,0,1
+3540012,TAMAQUA AREA WATER AUTHORITY,Schuylkill,Surface water,8000,6,7.8,13.1,Local government,3591,Urban,7,0,7
+3540014,KLINE TOWNSHIP MUN AUTHORITY,Schuylkill,Ground water,6700,10,7.8,13.1,Private,2008,Urban,9,1,10
+3540015,AUBURN MUNICIPAL AUTHORITY,Schuylkill,Surface water,920,4,7.8,13.1,Local government,327,Urban,1,0,1
+3540017,BLYTHE TWP MUNICIPAL AUTHORITY,Schuylkill,Surface water,7100,10,7.8,13.1,Local government,2550,Urban,3,0,3
+3540021,MOREA CITIZENS WATER COMPANY,Schuylkill,Ground water,225,5,7.8,13.1,Private,102,Urban,3,0,3
+3540023,NUREMBURG WATER CO,Schuylkill,Ground water,340,7,7.8,13.1,Private,152,Urban,0,0,0
+3540024,ORWIGSBURG MUNICIPAL WATER WKS,Schuylkill,Ground water,3000,6,7.8,13.1,Local government,1200,Urban,3,0,3
+3540025,PORT CLINTON WATER COOP ASSOC,Schuylkill,Ground water,240,3,7.8,13.1,Private,62,Urban,5,2,7
+3540026,MOUNTAIN WATER AUTHORITY,Schuylkill,Ground water,495,5,7.8,13.1,Local government,175,Urban,3,0,3
+3540027,MARY D COMMUNITY ASSOCIATION,Schuylkill,Surface water,175,5,7.8,13.1,Private,150,Urban,14,1,15
+3540030,ASHLAND AREA WATER AUTHORITY,Schuylkill,Surface water,4200,6,7.8,13.1,Local government,4659,Urban,6,0,6
+3540032,PA AM WATER CO-FRACKVILLE DIST,Schuylkill,Ground water,5583,11,7.8,13.1,Private,2410,Urban,0,0,0
+3540035,MINERSVILLE MUNICIPAL WATER AU,Schuylkill,Surface water,7275,5,7.8,13.1,Local government,3237,Urban,4,0,4
+3540036,DEER LAKE CITIZENS ASSOC,Schuylkill,Ground water,380,8,7.8,13.1,Private,181,Urban,8,3,11
+3540037,PINE GROVE BORO WATER SYSTEM,Schuylkill,Ground water,2862,15,7.8,13.1,Local government,1500,Urban,3,2,5
+3540038,SCHUYLKILL CO MUN AUTH,Schuylkill,Surface water,31850,18,7.8,13.1,Local government,10473,Urban,4,0,4
+3540039,RINGTOWN BORO WATER DEPARTMENT,Schuylkill,Ground water,823,6,7.8,13.1,Local government,365,Urban,1,0,1
+3540040,MELANIE MANOR MOBILE HOME PARK,Schuylkill,Ground water,110,4,7.8,13.1,Private,48,Urban,50,1,51
+3540041,SCHUYLKILL HAVEN BORO WATER,Schuylkill,Surface water,6000,8,7.8,13.1,Local government,2900,Urban,4,0,4
+3540042,PINE TERRACE MOBILE HOME PARK,Schuylkill,Ground water,50,3,7.8,13.1,Private,24,Urban,25,0,25
+3540043,FRIEDEN MANOR MHP,Schuylkill,Ground water,350,11,7.8,13.1,Private,181,Urban,23,1,24
+3540044,SHENANDOAH MUN WATER AUTHORITY,Schuylkill,Surface water,9500,10,7.8,13.1,Local government,4442,Urban,5,8,13
+3540045,TOWER CITY AUTHORITY,Schuylkill,Ground water,3150,12,7.8,13.1,Local government,1278,Urban,0,0,0
+3540046,SCMA-TREMONT,Schuylkill,Ground water,2515,6,7.8,13.1,Local government,665,Urban,0,0,0
+3540047,HEGINS HUBLEY AUTHORITY,Schuylkill,Ground water,3870,13,7.8,13.1,Local government,1320,Urban,1,1,2
+3540049,PLUM CREEK MUNICIPAL AUTH,Schuylkill,Ground water,3100,15,7.8,13.1,Local government,1200,Urban,14,0,14
+3540053,PAW WILDCAT PARK,Schuylkill,Ground water,63,4,7.8,13.1,Private,26,Urban,0,0,0
+3540054,SCMA PINEBROOK,Schuylkill,Ground water,735,4,7.8,13.1,Private,170,Urban,0,0,0
+3540058,RETREAT VILLAGE,Schuylkill,Ground water,80,3,7.8,13.1,Private,33,Urban,18,0,18
+3540059,HAPPY VALLEY MOBILE HOME PARK,Schuylkill,Ground water,30,3,7.8,13.1,Private,17,Urban,0,0,0
+3540061,THE PINES AT WEST PENN,Schuylkill,Ground water,416,4,7.8,13.1,Private,345,Urban,1,0,1
+3540062,PINE GROVE TOWNSHIP AUTHORITY,Schuylkill,Ground water,260,6,7.8,13.1,Local government,130,Urban,44,1,45
+3540069,AQUA PA THE PINES,Schuylkill,Ground water,65,4,7.8,13.1,Private,25,Urban,2,1,3
+3540070,AQUA PA EAGLE ROCK UTILITIES,Schuylkill,Ground water,956,16,7.8,13.1,Private,956,Urban,3,0,3
+3540071,AQUA PA ONEIDA,Schuylkill,Ground water,568,8,7.8,13.1,Private,181,Urban,2,0,2
+3540072,LAUREL RIDGE,Schuylkill,Surface water purchased,105,2,7.8,13.1,Private,36,Urban,0,0,0
+3540073,T&T MHP,Schuylkill,Ground water,40,6,7.8,13.1,Private,24,Urban,20,0,20
+4050001,BLUE KNOB WATER CO,Bedford,Ground water,300,4,2.9,13.8,Private,255,Rural,6,0,6
+4050002,BEDFORD BORO WATER AUTH,Bedford,Surface water,5127,6,2.9,13.8,Local government,1858,Rural,6,1,7
+4050003,HYNDMAN BORO WATER DEPT,Bedford,Surface water,1005,4,2.9,13.8,Local government,406,Rural,0,0,0
+4050004,BROOKWOOD COUNTRYSIDE,Bedford,Ground water,200,4,2.9,13.8,Private,48,Rural,8,2,10
+4050005,COUNTRYSIDE ACRES LLC,Bedford,Ground water,50,5,2.9,13.8,Private,27,Rural,60,0,60
+4050007,CRESTVIEW MHP,Bedford,Ground water,55,6,2.9,13.8,Private,23,Rural,18,0,18
+4050008,BRUSH CREEK COUNTRY ESTATES,Bedford,Ground water,98,3,2.9,13.8,Private,38,Rural,33,0,33
+4050009,HILLSIDE TERRACE MHP,Bedford,Ground water,240,4,2.9,13.8,Private,80,Rural,10,3,13
+4050012,EVERETT BORO MUNI AUTH,Bedford,Ground water,2048,8,2.9,13.8,Local government,950,Rural,4,0,4
+4050020,W STCLAIR PLEASANTVILLE MUNI,Bedford,Ground water,685,3,2.9,13.8,Local government,7,Rural,7,1,8
+4050021,SAXTON MUNI WATER AUTH,Bedford,Surface water,1500,5,2.9,13.8,Local government,702,Rural,11,0,11
+4050023,WOODBURY WATER AUTHORITY,Bedford,Ground water,295,11,2.9,13.8,Private,215,Rural,31,0,31
+4050025,COALDALE SIX MILE RUN WATER,Bedford,Groundwater under influence of surface water,320,6,2.9,13.8,Local government,128,Rural,32,0,32
+4050028,EVITTS CREEK WATER CO,Bedford,Surface water,100,3,2.9,13.8,Local government,46,Rural,32,0,32
+4050029,FISHERTOWN WATER ASSN,Bedford,Ground water,800,6,2.9,13.8,Private,200,Rural,5,2,7
+4050030,OSTERBURG WATER CO,Bedford,Ground water,250,3,2.9,13.8,Private,96,Rural,63,0,63
+4050032,RAINSBURG BOROUGH WATER,Bedford,Ground water,225,7,2.9,13.8,Local government,67,Rural,78,0,78
+4050033,NEW ENTERPRISE WATER ASSN,Bedford,Ground water,443,8,2.9,13.8,Private,180,Rural,3,1,4
+4050034,SALEMVILLE WATER ASSN,Bedford,Ground water purchased,115,9,2.9,13.8,Private,50,Rural,1,0,1
+4050035,WATERSIDE LOYSBURG WATER SUPPL,Bedford,Ground water,1700,10,2.9,13.8,Local government,170,Rural,10,0,10
+4050036,ST CLAIRSVILLE WATER COMPANY,Bedford,Groundwater under influence of surface water,392,8,2.9,13.8,Private,114,Rural,15,0,15
+4050037,BEDFORD TWP MUNI AUTH,Bedford,Ground water,1125,12,2.9,13.8,Local government,182,Rural,0,0,0
+4050038,SNAKE SPRING TOWNSHIP MA,Bedford,Ground water,750,4,2.9,13.8,Local government,100,Rural,5,0,5
+4070009,BELLWOOD BORO AUTH,Blair,Surface water purchased,3162,2,4.9,15,Local government,1270,Urban,6,0,6
+4070011,BLAIR TWP WATER & SEWER AUTH,Blair,Surface water purchased,2550,2,4.9,15,Local government,800,Urban,0,0,0
+4070012,DUNCANSVILLE MUNI WATER AUTH,Blair,Ground water,2350,3,4.9,15,Local government,720,Urban,0,0,0
+4070013,DUNCANSVILLE MHP  LLC,Blair,Ground water,250,5,4.9,15,Private,95,Urban,3,0,3
+4070016,BLAIR MHP,Blair,Ground water,185,4,4.9,15,Private,67,Urban,170,0,170
+4070017,HOLLIDAYSBURG MUNI AUTH,Blair,Surface water purchased,8523,2,4.9,15,Local government,2673,Urban,1,1,2
+4070019,ROARING SPRING MUNI WATER AUTH,Blair,Ground water,3182,3,4.9,15,Local government,1035,Urban,15,0,15
+4070021,TYRONE BORO WATER AUTH,Blair,Surface water,6500,6,4.9,15,Local government,2450,Urban,4,0,4
+4070022,WILLIAMSBURG MUNIC AUTH,Blair,Ground water,1800,5,4.9,15,Local government,912,Urban,29,1,30
+4070023,ALTOONA WATER AUTHORITY,Blair,Surface water,62500,33,4.9,15,Local government,23034,Urban,45,1,46
+4070025,BELLEMEAD CIVIC ASSN INC,Blair,Surface water,340,3,4.9,15,Private,125,Urban,6,0,6
+4070026,HENRIETTA MUTUAL WATER ASSN,Blair,Ground water,165,4,4.9,15,Private,67,Urban,1,0,1
+4070030,MARTINSBURG MUNI AUTH,Blair,Ground water,3160,8,4.9,15,Local government,1220,Urban,1,0,1
+4070031,FREDERICKSBURG WATER ASSN,Blair,Ground water,300,6,4.9,15,Private,105,Urban,0,0,0
+4070033,EAST SHARPSBURG WATER ASSN,Blair,Ground water,95,6,4.9,15,Private,47,Urban,0,0,0
+4070034,FREEDOM TWP WATER & SEWER,Blair,Surface water purchased,1400,2,4.9,15,Local government,325,Urban,1,0,1
+4070045,HILLCREST COMMUNITIES LP,Blair,Ground water,350,9,4.9,15,Private,98,Urban,133,0,133
+4070047,SPROUL WATER ASSN,Blair,Ground water,180,3,4.9,15,Private,65,Urban,54,0,54
+4070050,APPLE BLOSSOM LANE MHP,Blair,Ground water,31,3,4.9,15,Private,25,Urban,31,0,31
+4070053,BELLMEAD TOWNHOUSES,Blair,Groundwater under influence of surface water,90,3,4.9,15,Private,58,Urban,8,9,17
+4070054,AUTUMN EST,Blair,Ground water,35,3,4.9,15,Private,1,Urban,3,2,5
+4070056,VAIL WATER ASSN,Blair,Ground water,98,3,4.9,15,Private,35,Urban,182,0,182
+4070058,GREENFIELD TWP MUNI AUTH,Blair,Ground water,2500,4,4.9,15,Local government,750,Urban,7,2,9
+4070060,BEL AIR PARK APTS,Blair,Ground water,44,4,4.9,15,Private,22,Urban,50,1,51
+4070297,ORE HILL WATER ASSN,Blair,Ground water,80,3,4.9,15,Private,43,Urban,2,0,2
+4070298,CURRYVILLE WATER AUTH,Blair,Ground water,85,4,4.9,15,Local government,34,Urban,87,1,88
+4110001,TEAKETTLE RUN WATER AUTH,Cambria,Ground water,92,3,7,15.2,Local government,42,Urban,5,0,5
+4110003,NORTHERN CAMBRIA MUNI WATER,Cambria,Ground water,4500,13,7,15.2,Local government,2253,Urban,0,0,0
+4110004,CARROLLTOWN BORO MUNI AUTH,Cambria,Ground water,1049,11,7,15.2,Local government,597,Urban,2,0,2
+4110005,KINGS II MOBILE HOME PARK,Cambria,Ground water,209,7,7,15.2,Private,69,Urban,193,0,193
+4110006,CAMBRIA TWP WATER AUTH,Cambria,Surface water,1000,4,7,15.2,Local government,452,Urban,3,0,3
+4110007,SANKERTOWN BORO WATER SYS,Cambria,Ground water purchased,675,2,7,15.2,Local government,311,Urban,0,0,0
+4110009,EBENSBURG BORO MUNI AUTH,Cambria,Surface water,8500,9,7,15.2,Local government,2100,Urban,12,10,22
+4110010,N E TRAILER COURT,Cambria,Ground water,81,4,7,15.2,Private,27,Urban,30,0,30
+4110011,GALLITZIN BORO WATER AUTH,Cambria,Surface water,3130,10,7,15.2,Local government,933,Urban,0,0,0
+4110013,HASTINGS MUNI AUTH,Cambria,Surface water,2100,8,7,15.2,Local government,704,Urban,3,0,3
+4110017,HIGHLAND S & W AUTH BEAVERDAM,Cambria,Surface water,24310,14,7,15.2,Local government,9704,Urban,1,0,1
+4110020,MARSTELLER COMM WATER AUTH,Cambria,Groundwater under influence of surface water,75,4,7,15.2,Local government,56,Urban,110,7,117
+4110021,JACKSON TWP WATER AUTH,Cambria,Surface water purchased,3198,5,7,15.2,Local government,1450,Urban,8,11,19
+4110023,NANTY GLO WATER AUTH,Cambria,Surface water,4076,4,7,15.2,Local government,1630,Urban,18,9,27
+4110024,PATTON BORO WATER DEPT,Cambria,Surface water,2290,7,7,15.2,Local government,891,Urban,24,10,34
+4110026,TRI TWP WATER AUTH,Cambria,Surface water purchased,1227,2,7,15.2,Local government,270,Urban,2,0,2
+4110027,PORTAGE BORO MUNI AUTH,Cambria,Surface water,7600,9,7,15.2,Local government,2625,Urban,3,0,3
+4110030,CRESSON BORO WATER SYS,Cambria,Ground water purchased,1631,2,7,15.2,Local government,835,Urban,4,0,4
+4110033,ADAMS TWP WATER AUTH,Cambria,Surface water purchased,2000,6,7,15.2,Local government,632,Urban,2,0,2
+4110034,GREATER JOHNSTOWN WA RIVERSIDE,Cambria,Surface water,49500,8,7,15.2,Local government,21569,Urban,6,0,6
+4110038,CRESSON TWP MUNI AUTH,Cambria,Ground water,2500,8,7,15.2,Local government,655,Urban,1,0,1
+4110041,SOUTHWESTERN CAMBRIA CNTY AUTH,Cambria,Surface water purchased,4400,4,7,15.2,Local government,1400,Urban,4,0,4
+4110042,DEAN TWP WATER SYSTEM,Cambria,Ground water,216,3,7,15.2,Local government,76,Urban,1,0,1
+4110043,EAST TAYLOR MUNI AUTH,Cambria,Surface water purchased,3152,4,7,15.2,Local government,1080,Urban,6,7,13
+4110046,LILLY MUNI WATER WORKS,Cambria,Surface water purchased,1388,6,7,15.2,Local government,627,Urban,21,0,21
+4110058,WEST CARROLL W AUTH BAKERTON,Cambria,Surface water,670,5,7,15.2,Local government,280,Urban,23,0,23
+4110060,GLENDALE VALLEY MUNICIPAL AUTH,Cambria,Ground water purchased,3200,14,7,15.2,Private,803,Urban,5,0,5
+4110061,W CARROLL TWP W AUTH ST BENED,Cambria,Surface water,488,9,7,15.2,Local government,108,Urban,15,0,15
+4110067,FEDERAL CORR INSTITUTE LORETTO,Cambria,Ground water,1500,4,7,15.2,Federal government,6,Urban,3,0,3
+4110077,BLACKLICK VALLEY MUNI AUTH,Cambria,Surface water purchased,1650,10,7,15.2,Local government,780,Urban,2,3,5
+4110297,READE TWP MUNI AUTH,Cambria,Ground water,1746,5,7,15.2,Local government,563,Urban,18,2,20
+4110299,CROYLE TWP WATER AUTH,Cambria,Surface water purchased,950,7,7,15.2,Private,365,Urban,1,0,1
+4110800,SAINT FRANCIS UNIVERSITY,Cambria,Ground water,2072,5,7,15.2,Public/Private,37,Urban,1,0,1
+4140014,MOUNT EAGLE WATER ASSOC,Centre,Ground water,130,4,13.4,19.3,Private,41,Urban,13,0,13
+4140043,MARTHA FURNACE MOBILEHOME PARK,Centre,Ground water,100,5,13.4,19.3,Private,48,Urban,71,0,71
+4140046,BLACK HAWK MOBILE HOME PARK,Centre,Ground water,118,6,13.4,19.3,Private,53,Urban,0,0,0
+4140048,LONGVIEW MOBILE HOME PARK,Centre,Ground water,57,4,13.4,19.3,Private,30,Urban,23,0,23
+4140057,NITTANY GROVE MOBILE HOME PARK,Centre,Ground water,45,3,13.4,19.3,Private,22,Urban,1,0,1
+4140075,BELLEFONTE BOROUGH WATER AUTH,Centre,Ground water,9500,5,13.4,19.3,Local government,3203,Urban,8,0,8
+4140077,CENTRE HALL BORO WATER DEPT,Centre,Ground water,1900,11,13.4,19.3,Local government,788,Urban,12,0,12
+4140078,PENN TWP WATER DIST,Centre,Ground water,300,5,13.4,19.3,Local government,93,Urban,2,0,2
+4140079,UNIONVILLE MUNICIPAL WATERWKS,Centre,Ground water,290,8,13.4,19.3,Local government,145,Urban,1,0,1
+4140080,BOROUGH OF HOWARD,Centre,Ground water,1001,13,13.4,19.3,Local government,409,Urban,5,0,5
+4140081,PAW NITTANY,Centre,Ground water,1600,4,13.4,19.3,Private,543,Urban,0,0,0
+4140082,COLLEGE TWP. WATER AUTHORITY,Centre,Ground water,6000,12,13.4,19.3,Local government,2732,Urban,2,0,2
+4140083,MILESBURG BOROUGH WATER AUTH,Centre,Ground water,2750,9,13.4,19.3,Local government,868,Urban,0,0,0
+4140084,MILLHEIM BOROUGH WATER COMPANY,Centre,Surface water,902,4,13.4,19.3,Local government,389,Urban,38,1,39
+4140085,ROCK SPRING WATER CO,Centre,Ground water,1000,5,13.4,19.3,Private,451,Urban,3,0,3
+4140087,PAW PHILIPSBURG,Centre,Surface water,20095,19,13.4,19.3,Private,7600,Urban,0,0,0
+4140088,PORT MATILDA WATERWORKS,Centre,Ground water,615,5,13.4,19.3,Local government,251,Urban,49,0,49
+4140089,MILES TWP WATER AUTH EAST,Centre,Surface water,425,6,13.4,19.3,Local government,216,Urban,6,0,6
+4140090,MOUNTAINTOP REGIONAL WA,Centre,Ground water,2950,8,13.4,19.3,Local government,1300,Urban,7,1,8
+4140092,EMPIRE MOBILE HOME PARK,Centre,Ground water,75,4,13.4,19.3,Private,38,Urban,42,0,42
+4140094,HAINES WOODWARD MUNICIPAL AUTH,Centre,Ground water,140,5,13.4,19.3,Local government,77,Urban,8,0,8
+4140095,PENN STATE UNIV.,Centre,Ground water,37000,20,13.4,19.3,State government,437,Urban,8,0,8
+4140096,STATE COLLEGE BORO WATER AUTH.,Centre,Surface water,72000,34,13.4,19.3,Local government,14184,Urban,0,0,0
+4140098,ROCKVIEW,Centre,Surface water,5200,6,13.4,19.3,State government,27,Urban,6,1,7
+4140101,PAW BOGGS,Centre,Groundwater under influence of surface water,80,5,13.4,19.3,Private,21,Urban,0,0,0
+4140104,ORVISTON WATER ASSOC INC,Centre,Ground water,60,5,13.4,19.3,Private,56,Urban,10,0,10
+4140107,GREGG TOWNSHIP WATER AUTHORITY,Centre,Groundwater under influence of surface water,670,5,13.4,19.3,Local government,158,Urban,16,0,16
+4140108,HAINES AARONSBURG MUN AUTH,Centre,Groundwater under influence of surface water,550,12,13.4,19.3,Private,244,Urban,4,0,4
+4140109,UPPER HALFMOON WATER,Centre,Ground water,1500,14,13.4,19.3,Private,600,Urban,4,0,4
+4140110,MONUMENT WATER ASSOC,Centre,Ground water,140,5,13.4,19.3,Private,54,Urban,15,0,15
+4140111,MADISONBURG WATER WORKS,Centre,Groundwater under influence of surface water,250,7,13.4,19.3,Public/Private,100,Urban,4,0,4
+4140118,SPRING TWP WATER AUTHORITY,Centre,Ground water,3300,5,13.4,19.3,Local government,1448,Urban,10,0,10
+4140119,OAK RIDGE AUTHORITY,Centre,Ground water,700,3,13.4,19.3,Local government,283,Urban,7,0,7
+4140120,WALKER TWP WATER ASSOC,Centre,Ground water,3250,9,13.4,19.3,Private,1493,Urban,1,0,1
+4140123,HALFMOON WATER ASSOCIATION,Centre,Ground water,300,3,13.4,19.3,Private,75,Urban,4,0,4
+4140124,RIDGE CREST COMMUNITY,Centre,Ground water,300,4,13.4,19.3,Private,105,Urban,2,0,2
+4140125,COUNTRY CLUB PARK,Centre,Ground water,81,5,13.4,19.3,Local government,28,Urban,12,3,15
+4140127,SALEM HILL HAVEN HOME,Centre,Ground water,32,3,13.4,19.3,Public/Private,1,Urban,4,0,4
+4140129,EAGLE CREEK,Centre,Ground water,60,3,13.4,19.3,Private,25,Urban,16,0,16
+4180035,BEECH CREEK BOROUGH AUTHORITY,Clinton,Ground water,1800,4,4.6,16.4,Local government,680,Urban,1,0,1
+4180048,CITY OF LOCK HAVEN WATER DEPT,Clinton,Surface water,9890,7,4.6,16.4,Local government,3200,Urban,3,1,4
+4180049,SUBURBAN LOCK HAVEN WATER AUTH,Clinton,Surface water purchased,9700,11,4.6,16.4,Local government,3172,Urban,39,1,40
+4180050,EASTVILLE WATER ASSOCIATION,Clinton,Ground water,75,4,4.6,16.4,Private,23,Urban,96,0,96
+4180051,GREENBURR WATER ASSOCIATION,Clinton,Ground water,115,4,4.6,16.4,Private,42,Urban,214,1,215
+4180052,LOGANTON BORO WATER SYSTEM,Clinton,Ground water,402,10,4.6,16.4,Local government,192,Urban,25,0,25
+4180055,PORTER TOWNSHIP MUNICIPAL AUTH,Clinton,Surface water,425,5,4.6,16.4,Local government,133,Urban,62,0,62
+4180058,RENOVO BOROUGH WATER AUTHORITY,Clinton,Surface water,1800,8,4.6,16.4,Local government,865,Urban,4,0,4
+4180059,SOUTH RENOVO WATER SYSTEM,Clinton,Surface water,540,4,4.6,16.4,Local government,275,Urban,55,0,55
+4180060,CHAPMAN TWP WATER AUTHORITY,Clinton,Surface water purchased,270,9,4.6,16.4,Local government,125,Urban,16,0,16
+4180062,CRAWFORD TOWNSHIP AUTHORITY,Clinton,Surface water,600,5,4.6,16.4,Local government,242,Urban,1,0,1
+4180064,ROTE MUTUAL WATER ASSOCIATION,Clinton,Groundwater under influence of surface water,481,6,4.6,16.4,Private,231,Urban,20,0,20
+4180066,BOONEVILLE MUTUAL WATER ASSOC,Clinton,Ground water,87,6,4.6,16.4,Private,38,Urban,77,0,77
+4180067,APPALACHIAN UTILITIES INC,Clinton,Ground water,3000,10,4.6,16.4,Private,1417,Urban,11,0,11
+4180069,BALD EAGLE BOYS CAMP,Clinton,Ground water,43,3,4.6,16.4,Public/Private,7,Urban,10,1,11
+4180070,CENT CLINTON CO WATER FIL AUTH,Clinton,Surface water,19261,3,4.6,16.4,Local government,1,Urban,2,0,2
+4180071,EAGLE RIDGE PERSONAL CARE HOME,Clinton,Ground water,37,3,4.6,16.4,Private,4,Urban,8,0,8
+4190008,SUEZ WATER PA INC BLOOMSBURG,Columbia,Surface water,24900,6,6.4,16.1,Private,5135,Urban,0,0,0
+4190011,CATAWISSA MUNICIPAL WATER AUTH,Columbia,Ground water,1644,20,6.4,16.1,Local government,625,Urban,16,0,16
+4190012,ORANGEVILLE MUNICIPAL WATER AU,Columbia,Ground water,500,4,6.4,16.1,Local government,150,Urban,1,0,1
+4190013,PA AMERICAN WATER BERWICK,Columbia,Ground water,12880,6,6.4,16.1,Private,6255,Urban,0,0,0
+4190014,BENTON MUNICIPAL WATER AUTH,Columbia,Groundwater under influence of surface water,1100,3,6.4,16.1,Local government,464,Urban,12,0,12
+4190015,WONDERVIEW WATER CO,Columbia,Ground water,350,7,6.4,16.1,Private,161,Urban,29,1,30
+4190016,AQUA PA MIFFLIN TOWNSHIP,Columbia,Ground water,1220,6,6.4,16.1,Private,480,Urban,1,1,2
+4190017,MILLVILLE MUNICIPAL AUTHORITY,Columbia,Groundwater under influence of surface water,969,6,6.4,16.1,Local government,287,Urban,7,0,7
+4190019,BROOKSIDE VILLAGE MHP,Columbia,Ground water,475,7,6.4,16.1,Private,170,Urban,61,0,61
+4190020,STONY BROOK CIRCLE MHP,Columbia,Ground water,356,5,6.4,16.1,Private,185,Urban,9,3,12
+4190021,MOUNTAIN VIEW ESTATES,Columbia,Ground water,80,5,6.4,16.1,Private,36,Urban,7,0,7
+4190026,SIGNATURE HEALTHCARE BLOOM R&W,Columbia,Ground water,60,3,6.4,16.1,Public/Private,1,Urban,4,2,6
+4190285,THE GARDENS AT ORANGEVILLE,Columbia,Ground water,118,3,6.4,16.1,Private,1,Urban,2,0,2
+4190286,HELLERS MOBILE HOME PARK,Columbia,Ground water,37,6,6.4,16.1,Private,48,Urban,40,3,43
+4190289,HERITAGE HILLSIDE ESTATES,Columbia,Ground water,90,3,6.4,16.1,Private,40,Urban,24,0,24
+4190296,PLEASANT VIEW ESTATES,Columbia,Ground water,390,9,6.4,16.1,Private,110,Urban,91,2,93
+4190298,COUNTRY TERRACE ESTATES,Columbia,Ground water,70,3,6.4,16.1,Private,58,Urban,3,0,3
+4190840,SUEZ WATER PA INC COLCO IND PK,Columbia,Ground water,341,7,6.4,16.1,Private,54,Urban,0,0,0
+4290003,WELLS TANNERY WATER SYS,Fulton,Ground water,95,5,3.5,12.2,Private,30,Rural,36,1,37
+4290004,BELFAST TWP MUNI AUTH,Fulton,Ground water,276,3,3.5,12.2,Private,105,Rural,0,0,0
+4290005,MCCONNELLSBURG BORO MUNI AUTH,Fulton,Groundwater under influence of surface water,2000,27,3.5,12.2,Local government,890,Rural,150,0,150
+4310011,DUDLEY CARBON COALMONT JM AUTH,Huntingdon,Ground water,403,4,8.8,13.7,Local government,136,Rural,38,0,38
+4310012,HUNTINGDON BORO WATER DEPT,Huntingdon,Surface water,13776,3,8.8,13.7,Local government,2730,Rural,1,0,1
+4310014,YOUTH FORESTRY CAMP NO 3,Huntingdon,Ground water,43,3,8.8,13.7,State government,6,Rural,5,0,5
+4310015,MAPLETON MUNI WATER AUTH,Huntingdon,Surface water,570,4,8.8,13.7,Local government,222,Rural,47,2,49
+4310016,MT UNION MUNICIPAL AUTH,Huntingdon,Surface water,5801,12,8.8,13.7,Local government,1731,Rural,120,0,120
+4310017,NEELYTON WATER COOP,Huntingdon,Ground water,57,4,8.8,13.7,Private,32,Rural,29,0,29
+4310019,PETERSBURG BOR WATER AUTH,Huntingdon,Surface water,650,7,8.8,13.7,Local government,295,Rural,73,1,74
+4310021,ALEXANDRIA BORO WATER AUTH,Huntingdon,Surface water,815,6,8.8,13.7,Local government,336,Rural,26,0,26
+4310022,GRIER SCH,Huntingdon,Ground water,450,13,8.8,13.7,Private,42,Rural,4,0,4
+4310023,BROADTOP CITY WATER AUTH,Huntingdon,Ground water,350,7,8.8,13.7,Local government,1,Rural,14,0,14
+4310025,ORBISONIA ROCKHILL JT MUN AUTH,Huntingdon,Ground water,1200,7,8.8,13.7,Local government,389,Rural,10,0,10
+4310026,SALTILLO MUNI WATER WORKS,Huntingdon,Ground water,350,9,8.8,13.7,Local government,50,Rural,52,0,52
+4310027,SHIRLEYSBURG MUNI AUTH,Huntingdon,Ground water,225,3,8.8,13.7,Local government,67,Rural,169,0,169
+4310028,ST CORRECT INST HUNTINGDON,Huntingdon,Surface water purchased,2200,7,8.8,13.7,State government,1,Rural,6,0,6
+4310030,THREE SPRINGS BORO WATER CO,Huntingdon,Ground water,350,12,8.8,13.7,Local government,184,Rural,57,0,57
+4310031,WARRIORS MARK GEN AUTH,Huntingdon,Ground water,750,10,8.8,13.7,Local government,215,Rural,111,0,111
+4310032,WOOD BROAD TOP WELLS JMUN AUTH,Huntingdon,Surface water,800,5,8.8,13.7,Local government,305,Rural,165,0,165
+4310038,WALKER TWP MUNI AUTH,Huntingdon,Ground water,1450,4,8.8,13.7,Local government,593,Rural,35,0,35
+4310050,MILL CREEK AREA MUN AUTH,Huntingdon,Ground water,1108,4,8.8,13.7,Local government,304,Rural,63,0,63
+4310298,HARTSLOG COURTS,Huntingdon,Ground water,90,3,8.8,13.7,Private,53,Rural,128,0,128
+4340001,BROOKLINE RETIREMENT VILLAGE,Juniata,Ground water,65,3,4.8,13.2,Private,41,Rural,18,0,18
+4340002,MCALISTERVILLE AREA JOINT AUTH,Juniata,Groundwater under influence of surface water,825,10,4.8,13.2,Local government,425,Rural,60,1,61
+4340003,BROOKLINE MANOR,Juniata,Ground water,100,3,4.8,13.2,Private,8,Rural,20,0,20
+4340005,GRONINGER FARMS ARCH ROCK,Juniata,Ground water,175,5,4.8,13.2,Private,63,Rural,32,1,33
+4340006,BENNERS MHP,Juniata,Ground water,60,3,4.8,13.2,Private,26,Rural,95,0,95
+4340007,THOMPSONTOWN MUNI AUTH,Juniata,Ground water,1000,10,4.8,13.2,Local government,423,Rural,90,0,90
+4340008,MIFFLINTOWN MUNI AUTH,Juniata,Surface water,4450,8,4.8,13.2,Local government,1500,Rural,1,0,1
+4340009,RICHFIELD AREA JOINT AUTH,Juniata,Ground water,1000,10,4.8,13.2,Local government,230,Rural,3,0,3
+4340010,PORT ROYAL MUNI AUTH,Juniata,Ground water,950,10,4.8,13.2,Private,415,Rural,39,0,39
+4340011,JUNIATA HAVEN MHP,Juniata,Ground water,80,3,4.8,13.2,Private,28,Rural,52,0,52
+4340016,LOCUST GROVE RETIREMENT HOME,Juniata,Ground water,177,4,4.8,13.2,Private,15,Rural,10,1,11
+4340017,ORCHARD HILLS APTS,Juniata,Ground water,499,9,4.8,13.2,Private,175,Rural,12,0,12
+4340018,AQUA PA INC MERIBAH WATER CO,Juniata,Ground water,135,6,4.8,13.2,Private,49,Rural,0,1,1
+4340019,BERRYS PERSONAL CARE CTR,Juniata,Ground water,80,3,4.8,13.2,Public/Private,3,Rural,8,0,8
+4410002,AMERICAN TEMPO VILLAGE PARK,Lycoming,Ground water,88,3,9.1,14.5,Private,38,Urban,15,0,15
+4410005,HEATHERBROOKE ESTATES,Lycoming,Ground water,410,6,9.1,14.5,Private,130,Urban,7,2,9
+4410007,FAIRLAWN TRAILER COURT,Lycoming,Ground water,63,3,9.1,14.5,Private,21,Urban,9,2,11
+4410010,A B C #2 MOBILE HOME PARK,Lycoming,Ground water,75,3,9.1,14.5,Private,29,Urban,6,2,8
+4410011,LYCOMING CREEK VILLAGE,Lycoming,Ground water,38,3,9.1,14.5,Private,21,Urban,0,0,0
+4410016,BITTNERS MOBILE HOME PARK,Lycoming,Ground water,100,3,9.1,14.5,Private,50,Urban,185,12,197
+4410019,PINECREST VILLAGE MHP,Lycoming,Groundwater under influence of surface water,195,10,9.1,14.5,Private,80,Urban,80,0,80
+4410020,OLYMPIC VILLAGE,Lycoming,Ground water,98,6,9.1,14.5,Private,36,Urban,131,1,132
+4410025,LOYALSOCK MOBILE HOME PARK,Lycoming,Ground water,85,3,9.1,14.5,Private,35,Urban,18,0,18
+4410027,ORCHARD MOBILE HOME PARK,Lycoming,Ground water,325,6,9.1,14.5,Private,150,Urban,5,0,5
+4410030,HARVEST MOON TRAILER COURT,Lycoming,Ground water,360,7,9.1,14.5,Private,170,Urban,24,0,24
+4410031,CARPENTERS PARK INC,Lycoming,Ground water,120,5,9.1,14.5,Private,50,Urban,60,0,60
+4410033,TWIN HILLS MOBILE HOME PARK,Lycoming,Ground water,225,4,9.1,14.5,Private,112,Urban,41,0,41
+4410035,LCWSA HALLS STATION,Lycoming,Ground water,327,3,9.1,14.5,Local government,19,Urban,3,0,3
+4410152,COGAN VALLEY MOBILE HOME PARK,Lycoming,Ground water,250,5,9.1,14.5,Private,77,Urban,83,0,83
+4410153,OAK LYNN MANOR MOBILE HOME PK,Lycoming,Ground water,250,3,9.1,14.5,Private,86,Urban,4,0,4
+4410154,MEADOW BROOK M H P,Lycoming,Ground water,224,5,9.1,14.5,Private,65,Urban,11,2,13
+4410156,JERSEY SHORE AREA JNT WAT AUTH,Lycoming,Surface water,7200,12,9.1,14.5,Local government,2420,Urban,40,3,43
+4410160,HIDDEN VALLEY MOBILE HOME CT,Lycoming,Ground water,60,3,9.1,14.5,Private,20,Urban,13,0,13
+4410161,MONTGOMERY BORO WATR&SEWR AUTH,Lycoming,Ground water,2700,9,9.1,14.5,Local government,813,Urban,3,2,5
+4410164,TIADAGHTON VIEW MHP,Lycoming,Ground water,175,5,9.1,14.5,Private,43,Urban,33,2,35
+4410165,MUNCY BOROUGH WATER COMPANY,Lycoming,Ground water,2900,16,9.1,14.5,Local government,1030,Urban,3,0,3
+4410166,FOXCROFT MANOR MOBILE HOME PK,Lycoming,Ground water,200,4,9.1,14.5,Private,80,Urban,5,0,5
+4410169,VALI-VIEW MOBILE HOME PARK,Lycoming,Ground water,150,3,9.1,14.5,Private,60,Urban,9,3,12
+4410171,RALSTON AREA JOINT AUTHORITY,Lycoming,Ground water,400,6,9.1,14.5,Local government,113,Urban,3,0,3
+4410173,WILLIAMSPORT MUN WATER AUTH,Lycoming,Surface water,51000,16,9.1,14.5,Local government,18376,Urban,20,0,20
+4410174,LCWSA VILLAGE WATER,Lycoming,Ground water,598,5,9.1,14.5,Private,130,Urban,2,0,2
+4410175,MONTOURSVILLE WATER COMPANY,Lycoming,Ground water,4983,12,9.1,14.5,Local government,2146,Urban,6,1,7
+4410176,MUNCY STATE CORRECTIONAL INST,Lycoming,Groundwater under influence of surface water,2050,7,9.1,14.5,State government,25,Urban,13,0,13
+4410178,HUGHESVILLE BOROUGH WATER AUTH,Lycoming,Ground water,2800,9,9.1,14.5,Local government,1129,Urban,90,0,90
+4410180,LCWSA LIMESTONE WATER,Lycoming,Surface water,825,6,9.1,14.5,Local government,250,Urban,24,0,24
+4410182,ROARING BRANCH WATERWORKS,Lycoming,Ground water,90,3,9.1,14.5,Private,39,Urban,10,0,10
+4410187,WATERVILLE WATER ASSOC,Lycoming,Ground water,98,3,9.1,14.5,Private,75,Urban,2,0,2
+4440001,ELSESSERS MHP,Mifflin,Ground water,65,5,3.5,15.8,Private,27,Rural,1,0,1
+4440005,NORTH HILLS MHP,Mifflin,Ground water,170,6,3.5,15.8,Private,50,Rural,7,1,8
+4440008,ALLENSVILLE MUNI AUTH,Mifflin,Surface water,480,5,3.5,15.8,Local government,170,Rural,22,1,23
+4440010,LEWISTOWN BORO MUNI AUTH,Mifflin,Surface water,26765,16,3.5,15.8,Local government,9100,Rural,10,0,10
+4440011,MCVEYTOWN BORO AUTH,Mifflin,Ground water,342,5,3.5,15.8,Local government,201,Rural,78,1,79
+4440013,NEWTON HAMILTON BORO,Mifflin,Ground water purchased,270,2,3.5,15.8,Local government,106,Rural,13,0,13
+4440016,FOREST HILLS APTS,Mifflin,Ground water,200,4,3.5,15.8,Private,95,Rural,3,0,3
+4440017,WAYNE TWP MUNI WATER AUTH,Mifflin,Ground water purchased,167,2,3.5,15.8,Local government,67,Rural,7,0,7
+4440018,GRANVILLE TWP SUPERVISORS,Mifflin,Ground water,58,3,3.5,15.8,Local government,26,Rural,2,0,2
+4470007,DANVILLE MUNICIPAL WATER AUTH,Montour,Surface water,4897,3,7.5,9.9,Local government,2272,Rural,6,0,6
+4470008,BLUE SPRINGS TERRACE,Montour,Ground water,250,3,7.5,9.9,Private,120,Rural,9,2,11
+4470010,MAHONING TWP MUN AUTH,Montour,Surface water purchased,1507,7,7.5,9.9,Local government,1094,Rural,7,0,7
+4470015,PEPPER HILLS MOBILE HOME PARK,Montour,Ground water,170,4,7.5,9.9,Private,107,Rural,35,2,37
+4470016,VALLEY TWP MUN AUTHORITY,Montour,Surface water purchased,95,2,7.5,9.9,Local government,62,Rural,19,0,19
+4490004,BUCKNELL VIEW MHP,Northumberland,Ground water,100,5,6.7,13.8,Private,36,Urban,2,0,2
+4490007,MUNICIPAL AUTHORITY SUNBURY,Northumberland,Surface water,11043,4,6.7,13.8,Local government,4331,Urban,2,0,2
+4490016,TURBOTVILLE MUN WATER,Northumberland,Groundwater under influence of surface water,625,4,6.7,13.8,Local government,320,Urban,2,0,2
+4490018,LOWER MAHANOY TWP MUN AUTH,Northumberland,Ground water,450,4,6.7,13.8,Private,183,Urban,1,1,2
+4490019,KIPPS RUN MOBILE COURT,Northumberland,Ground water,19,3,6.7,13.8,Private,29,Urban,78,0,78
+4490020,HERNDON BORO JACKSON TWP JMA,Northumberland,Ground water,432,7,6.7,13.8,Local government,213,Urban,15,1,16
+4490021,D AND H TRAILER PARK,Northumberland,Ground water,50,3,6.7,13.8,Private,20,Urban,2,0,2
+4490023,PA AMERICAN WHITE DEER,Northumberland,Surface water,29816,10,6.7,13.8,Private,12113,Urban,0,0,0
+4490024,AQUA PA ROARING CREEK DIVISION,Northumberland,Surface water,43000,14,6.7,13.8,Private,17567,Urban,0,0,0
+4490298,PA AMERICAN MCEWENSVILLE,Northumberland,Ground water,282,6,6.7,13.8,Private,118,Urban,2,0,2
+4550005,SELINSGROVE MUN WATERWORKS,Snyder,Ground water,5584,11,4.5,10.8,Local government,1887,Rural,87,0,87
+4550006,ADAMS TWP MUNICIPAL AUTHORITY,Snyder,Ground water,225,6,4.5,10.8,Local government,69,Rural,5,0,5
+4550008,AQUA PA KRATZERVILLE,Snyder,Ground water,435,6,4.5,10.8,Private,145,Rural,0,0,0
+4550009,AQUA PA MONROE TWP,Snyder,Ground water,2400,18,4.5,10.8,Private,948,Rural,4,0,4
+4550011,SPRING TWP MUNICIPAL AUTHORITY,Snyder,Surface water,805,6,4.5,10.8,Local government,350,Rural,6,0,6
+4550012,BEAVERTOWN MUNICIPAL AUTHORITY,Snyder,Ground water,935,6,4.5,10.8,Local government,440,Rural,42,0,42
+4550013,FREEBURG MUNICIPAL AUTHORITY,Snyder,Groundwater under influence of surface water,685,5,4.5,10.8,Local government,258,Rural,12,5,17
+4550014,KREAMER MUN AUTH,Snyder,Ground water,980,9,4.5,10.8,Local government,294,Rural,12,0,12
+4550015,MCCLURE MUNICIPAL AUTHORITY,Snyder,Surface water,845,7,4.5,10.8,Local government,355,Rural,10,0,10
+4550016,MIDDLEBURG MUNICIPAL AUTHORITY,Snyder,Surface water,1600,10,4.5,10.8,Local government,870,Rural,10,0,10
+4550018,PERRY TWP MUNICIPAL AUTH,Snyder,Ground water,285,7,4.5,10.8,Local government,168,Rural,1,0,1
+4550019,PENNS CREEK MUNICIPAL AUTH,Snyder,Ground water,725,8,4.5,10.8,Local government,189,Rural,170,0,170
+4550022,SHAMOKIN DAM BOROUGH,Snyder,Surface water,1700,4,4.5,10.8,Local government,730,Rural,12,1,13
+4550024,AQUA PA PENNSVIEW SYSTEM,Snyder,Ground water,350,5,4.5,10.8,Private,125,Rural,0,0,0
+4550025,SALEM MANOR MOBILE HOME PARK,Snyder,Ground water,240,5,4.5,10.8,Private,103,Rural,45,0,45
+4550028,PENN TOWNSHIP MUNICIPAL AUTH,Snyder,Ground water,150,4,4.5,10.8,Local government,129,Rural,0,0,0
+4550800,SELINSGROVE CENTER,Snyder,Groundwater under influence of surface water,1280,9,4.5,10.8,State government,41,Rural,8,0,8
+4560002,SOMERSET TWP LISTIE WATER SYS,Somerset,Ground water,218,4,5,12.7,Local government,60,Rural,67,0,67
+4560003,SOMERSET ESTATES MHP,Somerset,Ground water,362,6,5,12.7,Private,85,Rural,69,0,69
+4560004,GLADES PIKE ESTATES,Somerset,Ground water,180,4,5,12.7,Private,80,Rural,4,0,4
+4560006,STONEBRIDGE GARDENS MHP,Somerset,Ground water,95,7,5,12.7,Private,55,Rural,31,1,32
+4560012,MEYERSDALE MUNI AUTH,Somerset,Surface water,3019,9,5,12.7,Local government,1389,Rural,6,1,7
+4560013,WINDBER AREA AUTH,Somerset,Ground water,9454,13,5,12.7,Local government,4339,Rural,25,0,25
+4560014,MILFORD TWP MUNIC AUTH,Somerset,Ground water purchased,75,4,5,12.7,Local government,25,Rural,0,0,0
+4560016,REST ASSURED ASSISTED LIVING,Somerset,Ground water,70,3,5,12.7,Private,1,Rural,43,0,43
+4560017,JENNER TWP MUNI AUTH,Somerset,Surface water purchased,825,6,5,12.7,Local government,280,Rural,13,0,13
+4560019,READING MINES,Somerset,Ground water,478,4,5,12.7,Local government,34,Rural,77,0,77
+4560020,ROCKWOOD BORO MUNI AUTH,Somerset,Ground water,1250,6,5,12.7,Local government,500,Rural,0,0,0
+4560021,CAIRNBROOK IMPROVEMENT ASSN,Somerset,Ground water,910,3,5,12.7,Private,240,Rural,14,0,14
+4560024,SEVEN SPRINGS MUNI AUTH,Somerset,Groundwater under influence of surface water,3000,14,5,12.7,Local government,1250,Rural,5,0,5
+4560025,INDIAN LAKE BORO WATERWORKS,Somerset,Ground water,1596,9,5,12.7,Local government,592,Rural,0,0,0
+4560028,ADDISON AREA WATER AUTH,Somerset,Ground water,284,4,5,12.7,Local government,147,Rural,8,1,9
+4560029,BERLIN BORO MUNI AUTH,Somerset,Ground water,2450,16,5,12.7,Local government,900,Rural,2,0,2
+4560030,BOSWELL BORO MUNI AUTH,Somerset,Surface water purchased,2900,6,5,12.7,Local government,911,Rural,2,0,2
+4560031,LINCOLN TWP MUNI AUTH,Somerset,Surface water purchased,1400,10,5,12.7,Local government,503,Rural,53,0,53
+4560032,GAHAGEN WATER ASSN,Somerset,Surface water,49,3,5,12.7,Private,22,Rural,797,7,804
+4560033,CONFLUENCE BORO MUNI AUTH,Somerset,Surface water,950,9,5,12.7,Local government,485,Rural,22,25,47
+4560034,BROOK HAVEN ACRES,Somerset,Ground water,75,4,5,12.7,Private,32,Rural,28,11,39
+4560035,GARRETT BORO WATER SYS,Somerset,Ground water,449,4,5,12.7,Local government,215,Rural,98,0,98
+4560036,GRAY AREA WATR AUTH OF JEN TWP,Somerset,Ground water,389,4,5,12.7,Local government,178,Rural,71,0,71
+4560037,HOOVERSVILLE MUNI AUTH,Somerset,Surface water,879,4,5,12.7,Local government,365,Rural,20,4,24
+4560038,JENNERSTOWN MUNI AUTH,Somerset,Ground water,1337,9,5,12.7,Local government,650,Rural,34,1,35
+4560039,PINE CREST ESTATES MOBILE HOME,Somerset,Surface water purchased,354,7,5,12.7,Private,167,Rural,17,0,17
+4560040,SUNNY ACRES,Somerset,Ground water,390,5,5,12.7,Private,207,Rural,70,0,70
+4560041,SALISBURY BORO WATER COMM,Somerset,Ground water,725,3,5,12.7,Local government,388,Rural,7,0,7
+4560042,SOMERSET BORO MUNI WATER AUTH,Somerset,Surface water,8500,16,5,12.7,Local government,3237,Rural,14,0,14
+4560045,CENTRAL CITY WATER AUTH,Somerset,Ground water,2200,4,5,12.7,Local government,915,Rural,0,0,0
+4560046,SOMERSET TWP MUNI AUTH OAKRIDG,Somerset,Surface water purchased,3800,24,5,12.7,Local government,558,Rural,8,0,8
+4560048,CONEMAUGH TWP MUNI AUTH,Somerset,Surface water,7800,18,5,12.7,Local government,2533,Rural,10,0,10
+4560049,HIDDEN VALLEY RESORT LP,Somerset,Ground water,750,4,5,12.7,Private,1067,Rural,23,0,23
+4560050,WILBUR COMMUNITY WATER,Somerset,Ground water,97,4,5,12.7,Private,55,Rural,0,0,0
+4560053,HILLCREST MANOR ESTATES,Somerset,Ground water,250,4,5,12.7,Private,106,Rural,76,0,76
+4560057,SOMERSET TWP M A FREIDENS,Somerset,Surface water purchased,928,4,5,12.7,Local government,32,Rural,2,0,2
+4600003,PINE VALLEY MOBILE HOME COURT,Union,Ground water,425,6,15.4,12.8,Private,170,Urban,7,0,7
+4600005,ROLLING HILLS MANOR,Union,Ground water,64,3,15.4,12.8,Public/Private,2,Urban,40,0,40
+4600010,NEW BERLIN MUNICIPAL AUTHORITY,Union,Ground water,990,13,15.4,12.8,Local government,331,Urban,0,0,0
+4600012,MIFFLINBURG BORO WATER DEPT,Union,Surface water,3690,7,15.4,12.8,Local government,1463,Urban,15,1,16
+4600015,WEST BUFFALO TWP MUN AUTH,Union,Surface water purchased,333,3,15.4,12.8,Local government,160,Urban,8,0,8
+5020003,ASPINWALL BORO WATER DEPT,Allegheny,Surface water purchased,3151,11,20.4,13,Local government,1208,Urban,2,0,2
+5020004,BLAWNOX BORO WATER DEPT,Allegheny,Surface water purchased,2200,3,20.4,13,Local government,727,Urban,3,0,3
+5020006,BRACKENRIDGE BORO WATER DEPT,Allegheny,Surface water,3700,7,20.4,13,Local government,1363,Urban,6,0,6
+5020007,BRADDOCK BORO WATER AUTH,Allegheny,Surface water purchased,2008,3,20.4,13,Local government,688,Urban,3,0,3
+5020008,CHESWICK BORO WATER DEPT,Allegheny,Ground water purchased,1861,9,20.4,13,Local government,907,Urban,3,0,3
+5020009,HARMAR TWP MUNI AUTH,Allegheny,Ground water,3200,9,20.4,13,Local government,1087,Urban,7,1,8
+5020010,CORAOPOLIS WATER & SEWER AUTH,Allegheny,Surface water purchased,6000,17,20.4,13,Local government,2616,Urban,1,0,1
+5020011,MOON TWP MUNI AUTH,Allegheny,Surface water,38000,16,20.4,13,Local government,7938,Urban,0,0,0
+5020012,DUQUESNE WATER DEPT,Allegheny,Surface water purchased,5565,5,20.4,13,Local government,1938,Urban,5,3,8
+5020013,EAST DEER TWP WATER DEPT,Allegheny,Surface water purchased,2000,4,20.4,13,Local government,668,Urban,20,0,20
+5020015,EDGEWORTH BORO MUNI AUTH,Allegheny,Surface water purchased,7781,10,20.4,13,Local government,2341,Urban,1,0,1
+5020018,RICHLAND TWP WATER AUTHORITY,Allegheny,Surface water purchased,10190,8,20.4,13,Local government,3780,Urban,2,0,2
+5020019,HAMPTON SHALER WATER AUTHORITY,Allegheny,Surface water purchased,62497,32,20.4,13,Local government,24021,Urban,0,0,0
+5020021,SPRINGDALE TWP WATER DEPT,Allegheny,Ground water purchased,1600,8,20.4,13,Local government,810,Urban,11,0,11
+5020027,MONROEVILLE MUNICIPAL AUTH,Allegheny,Surface water purchased,48500,14,20.4,13,Local government,10582,Urban,2,3,5
+5020029,NEVILLE TWP WATER DEPT,Allegheny,Surface water purchased,6750,4,20.4,13,Local government,617,Urban,9,0,9
+5020034,WESTERN ALLEGHENY COUNTY MUN A,Allegheny,Surface water purchased,19031,14,20.4,13,Local government,6802,Urban,17,1,18
+5020036,OAKMONT WATER AUTHORITY,Allegheny,Surface water,42410,12,20.4,13,Local government,16779,Urban,0,0,0
+5020038,PITTSBURGH WATER & SEWER AUTH,Allegheny,Surface water,520000,17,20.4,13,Local government,74030,Urban,23,0,23
+5020039,PA AMER WATER CO-PITTSBURGH,Allegheny,Surface water,686000,14,20.4,13,Private,205745,Urban,0,0,0
+5020040,FOX CHAPEL AUTH,Allegheny,Surface water purchased,18500,9,20.4,13,Local government,5477,Urban,2,0,2
+5020041,PLUM BORO MUNI AUTH,Allegheny,Surface water purchased,27500,21,20.4,13,Local government,9765,Urban,0,1,1
+5020043,WEST VIEW WATER AUTHORITY,Allegheny,Surface water,200000,26,20.4,13,Local government,54116,Urban,35,2,37
+5020045,ROBINSON TWP MUNI AUTH,Allegheny,Surface water,16354,12,20.4,13,Local government,4953,Urban,3,0,3
+5020047,RESERVE TWP WATER DEPT,Allegheny,Surface water purchased,3333,2,20.4,13,Local government,1489,Urban,3,0,3
+5020050,SEWICKLEY BORO WATER AUTH,Allegheny,Surface water purchased,6800,9,20.4,13,Local government,2185,Urban,6,0,6
+5020053,SPRINGDALE BORO WATER DEPT,Allegheny,Ground water,3405,9,20.4,13,Local government,1680,Urban,4,0,4
+5020055,TARENTUM BORO WATER DEPT,Allegheny,Surface water,4927,5,20.4,13,Local government,1978,Urban,4,0,4
+5020056,WILKINSBURG-PENN JT WATER AUTH,Allegheny,Surface water,125000,16,20.4,13,Local government,39302,Urban,50,5,55
+5020067,OAKDALE BORO WATER DEPT,Allegheny,Surface water purchased,1459,4,20.4,13,Local government,691,Urban,2,0,2
+5020070,ALEPPO TWP AUTH,Allegheny,Surface water purchased,2200,4,20.4,13,Local government,732,Urban,0,0,0
+5020076,FAWN FRAZER JT WATER AUTH,Allegheny,Surface water purchased,4461,11,20.4,13,Local government,1920,Urban,10,1,11
+5020078,FINDLAY TWP MUNICIPAL AUTH,Allegheny,Surface water purchased,11460,7,20.4,13,Local government,2110,Urban,7,0,7
+5020108,HARRISON TWP WATER AUTH,Allegheny,Surface water,13411,6,20.4,13,Local government,4899,Urban,2,0,2
+5030002,DAYTON MUNI WATER DEPT,Armstrong,Ground water,583,5,2.6,13,Local government,289,Rural,8,1,9
+5030004,E ARMSTRONG CNTY MUNI AUTH,Armstrong,Ground water,1875,8,2.6,13,Local government,372,Rural,0,0,0
+5030005,FORD CITY MUNI WATER WORKS,Armstrong,Ground water,2991,7,2.6,13,Local government,1710,Rural,2,0,2
+5030006,MANOR TWP JT MUNI AUTH,Armstrong,Ground water,6744,8,2.6,13,Local government,2471,Rural,4,1,5
+5030008,PA-AMERICAN WATER CO-KITTANNIG,Armstrong,Surface water,5000,3,2.6,13,Private,2069,Rural,1,1,2
+5030010,GILPIN TWP MUNI AUTH,Armstrong,Surface water purchased,2050,2,2.6,13,Local government,702,Rural,8,0,8
+5030012,RURAL VALLEY WATER WORKS,Armstrong,Ground water,945,11,2.6,13,Local government,376,Rural,15,0,15
+5030013,KITTANNING PLUMCREEK WATR AUTH,Armstrong,Ground water purchased,400,5,2.6,13,Local government,233,Rural,1,0,1
+5030016,TEMPLETON WATER CO,Armstrong,Ground water,474,5,2.6,13,Private,187,Rural,49,0,49
+5030019,BUFFALO TWP MUN AUTH FREEPORT,Armstrong,Surface water,5849,5,2.6,13,Local government,2400,Rural,19,0,19
+5030021,COWANSHANNOCK MA-MARGARET SYS,Armstrong,Ground water,95,7,2.6,13,Local government,34,Rural,10,0,10
+5030022,COWANSHANNOCK M A SAGAMORE SYS,Armstrong,Ground water,300,4,2.6,13,Local government,115,Rural,15,0,15
+5030024,MAHONING TWP MUNI AUTH,Armstrong,Surface water purchased,900,2,2.6,13,Local government,346,Rural,18,2,20
+5030025,PARKS TWP MUNI AUTH,Armstrong,Surface water purchased,2114,2,2.6,13,Local government,553,Rural,3,0,3
+5030027,WORTHINGTON WEST FRANKLIN JMA,Armstrong,Ground water,1500,10,2.6,13,Local government,507,Rural,1,1,2
+5030034,SUGAR CREEK RESTHOME,Armstrong,Ground water,176,4,2.6,13,Private,14,Rural,4,0,4
+5030037,BRADYS BEND WATER & SEW AUTH,Armstrong,Groundwater under influence of surface water,625,6,2.6,13,Local government,151,Rural,7,0,7
+5030043,KITTANNING SUBURB JT WATER AUT,Armstrong,Surface water,8000,6,2.6,13,Local government,2103,Rural,8,0,8
+5030045,WEST KITTANNING MUNI AUTH,Armstrong,Surface water purchased,2000,3,2.6,13,Local government,623,Rural,7,0,7
+5030047,COWANSHAN YATESBORO NUMINE SYS,Armstrong,Ground water,1200,5,2.6,13,Local government,287,Rural,9,0,9
+5030049,SOUTH BUFFALO TWP MUNI AUTH,Armstrong,Surface water purchased,1214,4,2.6,13,Local government,313,Rural,12,2,14
+5040002,HARSHBARGER MHP,Beaver,Groundwater under influence of surface water,90,8,10,11.9,Private,48,Urban,36,4,40
+5040006,MUN WATER AUTH OF ALIQUIPPA,Beaver,Ground water,14250,14,10,11.9,Local government,6154,Urban,33,2,35
+5040007,CENTER TWP WATER AUTH,Beaver,Surface water,19000,9,10,11.9,Local government,4819,Urban,65,3,68
+5040008,AMBRIDGE WATER AUTH,Beaver,Surface water,19500,5,10,11.9,Local government,7307,Urban,4,1,5
+5040009,BEAVER BORO MUNI AUTH,Beaver,Ground water,5799,7,10,11.9,Local government,1828,Urban,44,0,44
+5040010,NORTH SEWICKLEY MUN WATER AUTH,Beaver,Surface water purchased,4578,8,10,11.9,Local government,1780,Urban,5,0,5
+5040011,PINEHURST MOBILE ESTATES,Beaver,Ground water,130,4,10,11.9,Private,87,Urban,3,0,3
+5040012,BEAVER FALLS MUNI AUTH,Beaver,Surface water,50000,6,10,11.9,Local government,16528,Urban,62,2,64
+5040017,BRIGHTON TWP MUNI AUTH,Beaver,Ground water purchased,7920,7,10,11.9,Local government,3045,Urban,0,0,0
+5040018,ANKROM ACRES MHP,Beaver,Ground water,24,4,10,11.9,Private,28,Urban,129,1,130
+5040019,INDEPENDENCE PARK,Beaver,Ground water,225,11,10,11.9,Private,90,Urban,60,2,62
+5040022,BOROUGH OF CONWAY,Beaver,Surface water purchased,2176,5,10,11.9,Local government,995,Urban,1,0,1
+5040026,COLONIAL GLENN ESTATES,Beaver,Ground water,50,5,10,11.9,Private,29,Urban,30,1,31
+5040028,KNOB VUE ESTATES,Beaver,Ground water,150,16,10,11.9,Private,100,Urban,3,0,3
+5040035,SUNRISE MOBILE COURT,Beaver,Ground water,90,8,10,11.9,Private,28,Urban,45,0,45
+5040036,INDUSTRY BORO MUNI AUTH,Beaver,Ground water,1865,5,10,11.9,Local government,699,Urban,2,0,2
+5040038,MIDLAND BORO MUNI AUTH,Beaver,Surface water,3100,3,10,11.9,Local government,1006,Urban,46,12,58
+5040039,MONACA BORO WATER DEPT,Beaver,Ground water,6500,9,10,11.9,Local government,2476,Urban,33,0,33
+5040044,OHIOVILLE BORO MUNI AUTH,Beaver,Ground water purchased,2645,7,10,11.9,Local government,998,Urban,3,3,6
+5040048,FOREST BROOK MHP,Beaver,Surface water purchased,200,16,10,11.9,Private,131,Urban,1,0,1
+5040049,WHISPERING WOODS,Beaver,Ground water,66,4,10,11.9,Private,38,Urban,8,0,8
+5040050,PENN HILLS ESTATE OF ROCHESTER,Beaver,Ground water,27,7,10,11.9,Private,25,Urban,245,0,245
+5040051,LITTLE CREEK ESTATES M H P,Beaver,Ground water,70,4,10,11.9,Private,35,Urban,6,0,6
+5040055,VANPORT TWP MUNI AUTH,Beaver,Ground water,1450,9,10,11.9,Local government,314,Urban,0,0,0
+5040056,SKY VIEW TERRACE,Beaver,Ground water,50,5,10,11.9,Private,30,Urban,29,1,30
+5040059,GLASGOW MUNICIPAL WATER WORKS,Beaver,Ground water,55,5,10,11.9,Local government,19,Urban,59,1,60
+5040063,CRESWELL HEIGHTS JT AUTH,Beaver,Ground water,15000,12,10,11.9,Local government,5714,Urban,3,1,4
+5040078,COLE MOBILE HOME PARK,Beaver,Ground water,70,5,10,11.9,Private,40,Urban,27,1,28
+5040080,BADEN BORO WATER DEPT,Beaver,Surface water purchased,4377,4,10,11.9,Local government,1644,Urban,13,0,13
+5040085,NEW SEWICKLEY TWP MUNI AUTH,Beaver,Surface water purchased,2025,7,10,11.9,Local government,829,Urban,4,1,5
+5040086,SHIPPINGPORT BORO WATER SYS,Beaver,Surface water purchased,222,3,10,11.9,Local government,97,Urban,6,2,8
+5040087,MARION TWP WATER SYS,Beaver,Surface water purchased,700,4,10,11.9,Local government,121,Urban,4,0,4
+5040847,LAKEVIEW PERSONAL CARE,Beaver,Ground water,101,6,10,11.9,Private,1,Urban,14,0,14
+5100004,WOODBINE OAKS MHP,Butler,Ground water,80,7,4.7,9.1,Private,35,Urban,23,0,23
+5100008,PORT O CALL MHP,Butler,Ground water,286,5,4.7,9.1,Public/Private,155,Urban,3,0,3
+5100009,ROLLING VALLEY ESTATES,Butler,Ground water,180,6,4.7,9.1,Private,76,Urban,1,0,1
+5100012,PA AMERICAN WATER CO BUTLER,Butler,Surface water,43044,10,4.7,9.1,Private,16871,Urban,0,0,0
+5100015,PINEHURST MANOR MHP,Butler,Ground water,95,4,4.7,9.1,Private,50,Urban,1,0,1
+5100016,HY VUE ACRES MHP,Butler,Ground water,82,5,4.7,9.1,Private,23,Urban,6,0,6
+5100017,BEACON LITE MOBILE ESTATES,Butler,Ground water,120,4,4.7,9.1,Private,51,Urban,34,3,37
+5100018,SANDY HILL ESTATES,Butler,Ground water,300,7,4.7,9.1,Private,111,Urban,68,1,69
+5100025,CONCORDIA LUTHERAN HOME,Butler,Ground water,950,6,4.7,9.1,Private,5,Urban,13,1,14
+5100026,BERNIES MOBILE HOME PARK,Butler,Ground water,170,4,4.7,9.1,Private,75,Urban,36,0,36
+5100029,CHICORA BORO WATER SUPPLY,Butler,Ground water,1100,6,4.7,9.1,Local government,480,Urban,4,1,5
+5100033,EVANS CITY BOROUGH,Butler,Surface water purchased,2400,7,4.7,9.1,Local government,769,Urban,9,2,11
+5100036,COYLEVILLE MOBILE COURT,Butler,Ground water,98,5,4.7,9.1,Private,34,Urban,13,2,15
+5100037,CRYSTAL SPRINGS MHP,Butler,Ground water,34,5,4.7,9.1,Private,14,Urban,7,2,9
+5100040,PINE VALLEY ESTATES,Butler,Ground water,98,12,4.7,9.1,Private,78,Urban,65,1,66
+5100042,HARMONY BORO WATER AUTH,Butler,Surface water,6669,6,4.7,9.1,Local government,647,Urban,11,0,11
+5100043,PERRY LAKE ESTATES,Butler,Ground water,44,6,4.7,9.1,Private,22,Urban,39,1,40
+5100045,AUTUMN GROVE CARE CENTER,Butler,Ground water,238,5,4.7,9.1,Private,1,Urban,1,0,1
+5100049,MARS BOROUGH WATER WORKS,Butler,Ground water,1956,10,4.7,9.1,Local government,635,Urban,7,1,8
+5100050,CRANBERRY VILLAGE MHP,Butler,Surface water purchased,324,5,4.7,9.1,Private,141,Urban,3,0,3
+5100054,LAKE ARTHUR ESTATES,Butler,Ground water,460,7,4.7,9.1,Private,309,Urban,12,3,15
+5100055,ROBINSONS MOBILE HOME PARK,Butler,Ground water,36,9,4.7,9.1,Private,46,Urban,489,0,489
+5100062,E J GULICK MHP,Butler,Ground water,78,3,4.7,9.1,Private,43,Urban,8,1,9
+5100063,FAIR WINDS,Butler,Ground water,182,10,4.7,9.1,Private,3,Urban,12,0,12
+5100071,MAPLE MANOR MHP,Butler,Ground water,70,3,4.7,9.1,Private,30,Urban,14,1,15
+5100079,SLIPPERY ROCK MUNI AUTH,Butler,Ground water,15778,9,4.7,9.1,Local government,1981,Urban,13,0,13
+5100084,VILLA VISTA ESTATES,Butler,Ground water,230,8,4.7,9.1,Private,108,Urban,42,1,43
+5100087,CUPEC MOBILE ESTATES,Butler,Ground water,68,3,4.7,9.1,Private,35,Urban,17,0,17
+5100093,ZELIENOPLE BORO,Butler,Surface water purchased,4123,7,4.7,9.1,Local government,1815,Urban,30,0,30
+5100094,CRANBERRY TWP WTP,Butler,Surface water purchased,36930,15,4.7,9.1,Local government,9900,Urban,1,0,1
+5100099,MARION TWP WTP,Butler,Ground water,210,4,4.7,9.1,Local government,70,Urban,5,1,6
+5100104,FRANKLIN MOBILE HOME VILLAGE,Butler,Ground water,150,7,4.7,9.1,Private,92,Urban,1,0,1
+5100105,CORAL RIDGE ESTATES MHP,Butler,Ground water,200,5,4.7,9.1,Private,54,Urban,66,0,66
+5100121,SUMMIT ACADEMY,Butler,Ground water,350,5,4.7,9.1,Private,4,Urban,12,2,14
+5100125,PINE HAVEN HOME INC,Butler,Ground water,60,4,4.7,9.1,Private,5,Urban,48,0,48
+5100126,WESLEYS HIDE AWAY MHP,Butler,Ground water,50,4,4.7,9.1,Private,22,Urban,1,0,1
+5100127,CHICORA MEDICAL CENTER,Butler,Ground water,150,5,4.7,9.1,Private,1,Urban,31,0,31
+5100132,COLONIAL GARDENS GUEST HOME,Butler,Ground water,28,3,4.7,9.1,Public/Private,1,Urban,38,0,38
+5100133,CHERRY HILL CORP,Butler,Ground water,90,4,4.7,9.1,Private,1,Urban,8,1,9
+5100135,SEVEN FIELDS BORO WATER DEPT,Butler,Surface water purchased,2800,4,4.7,9.1,Local government,1375,Urban,11,0,11
+5100140,SUTTON MHP,Butler,Ground water,125,4,4.7,9.1,Private,50,Urban,39,0,39
+5100141,MUNICIPAL WATER AUTH ADAMS TWP,Butler,Surface water purchased,8590,9,4.7,9.1,Local government,2800,Urban,1,0,1
+5100143,YOUNGS MOBILE HOME PARK,Butler,Ground water,95,4,4.7,9.1,Private,37,Urban,6,0,6
+5100145,STONEWORTH APTS WTP,Butler,Ground water,150,4,4.7,9.1,Private,5,Urban,62,0,62
+5100147,PETROLEUM VALLEY RWA,Butler,Ground water purchased,2500,2,4.7,9.1,Local government,814,Urban,4,0,4
+5100424,MEADOWS MANOR,Butler,Ground water,54,6,4.7,9.1,Private,3,Urban,13,2,15
+5100869,BRADY HILLS MHP,Butler,Ground water,400,9,4.7,9.1,Private,175,Urban,8,1,9
+5260004,BELLE VERNON BORO MUNI AUTH,Fayette,Surface water purchased,6000,6,7.6,19.3,Local government,2377,Urban,35,4,39
+5260005,PA-AMERICAN WATER-BROWNSVILLE,Fayette,Surface water,11890,9,7.6,19.3,Private,5175,Urban,1,1,2
+5260006,PLEASANT VALLEY WATER AUTH,Fayette,Surface water purchased,3630,8,7.6,19.3,Local government,1528,Urban,9,1,10
+5260007,FAIRCHANCE BORO WATER DEPT,Fayette,Surface water,2174,8,7.6,19.3,Local government,1201,Urban,19,4,23
+5260009,MUNI AUTH OF WASHINGTON TWP,Fayette,Surface water,9100,11,7.6,19.3,Local government,3321,Urban,11,5,16
+5260011,INDIAN CREEK VALLEY WATER AUTH,Fayette,Surface water,7000,15,7.6,19.3,Local government,2566,Urban,102,0,102
+5260013,MASONTOWN MUNI WATER WORKS,Fayette,Surface water purchased,4275,5,7.6,19.3,Local government,1875,Urban,9,1,10
+5260014,NEWELL MUNI AUTH,Fayette,Surface water,520,3,7.6,19.3,Local government,264,Urban,21,2,23
+5260017,POINT MARION BORO,Fayette,Surface water,1110,3,7.6,19.3,Local government,515,Urban,28,2,30
+5260019,NORTH FAYETTE CNTY MUNI AUTH,Fayette,Surface water,35409,11,7.6,19.3,Local government,14698,Urban,2,0,2
+5260020,PA-AMERICAN WATER- UNIONTOWN,Fayette,Surface water purchased,23125,13,7.6,19.3,Private,9132,Urban,0,0,0
+5260022,PA-AMERICAN WATER CO-CONNELLSV,Fayette,Surface water purchased,11425,12,7.6,19.3,Private,4687,Urban,0,0,0
+5260027,ALBERT GALLATIN MUNI AUTH,Fayette,Surface water,2905,3,7.6,19.3,Local government,1165,Urban,14,8,22
+5260032,MOUNTAIN WATER ASSN,Fayette,Surface water purchased,3400,7,7.6,19.3,Private,1474,Urban,7,0,7
+5260034,JEFFERSON TOWNSHIP AUTHORITY,Fayette,Surface water purchased,1266,6,7.6,19.3,Local government,523,Urban,18,1,19
+5260042,NEW MEADOW RUN,Fayette,Ground water,300,4,7.6,19.3,Public/Private,17,Urban,5,1,6
+5260043,SPRING VALLEY,Fayette,Ground water,250,3,7.6,19.3,Public/Private,17,Urban,6,0,6
+5260045,NEMACOLIN WOODLANDS,Fayette,Ground water,1300,10,7.6,19.3,Private,42,Urban,16,0,16
+5260048,NATIONAL PIKE WATER AUTH,Fayette,Ground water,2800,4,7.6,19.3,Local government,911,Urban,11,0,11
+5300005,MUN AUTH BORO OF CARMICHAELS,Greene,Surface water,4700,5,8.8,13.9,Local government,1600,Rural,8,0,8
+5300007,DUNKARD VALLEY JT MUNI AUTH,Greene,Surface water,1233,7,8.8,13.9,Local government,493,Rural,19,1,20
+5300012,EAST DUNKARD WATER AUTHORITY,Greene,Surface water,3962,4,8.8,13.9,Local government,1803,Rural,28,0,28
+5300015,MT MORRIS WATER & SEWAGE AUTH,Greene,Surface water purchased,1500,5,8.8,13.9,Local government,464,Rural,4,5,9
+5300017,SOUTHWESTERN PA WATER AUTH,Greene,Surface water,40000,12,8.8,13.9,Local government,12187,Rural,5,2,7
+5320006,BLAIRSVILLE MUNI AUTH,Indiana,Surface water,3600,7,6.1,17.3,Local government,1859,Rural,42,1,43
+5320007,ICMSA CHERRYTREE,Indiana,Surface water,400,5,6.1,17.3,Local government,156,Rural,29,13,42
+5320009,CLYMER BORO MUNI AUTH,Indiana,Ground water,1700,4,6.1,17.3,Local government,774,Rural,5,0,5
+5320010,GREEN TWP MUN AUTH BARR SLOPE,Indiana,Ground water,285,5,6.1,17.3,Local government,77,Rural,45,0,45
+5320011,GREEN TWP MUN AUTH-COMMODORE,Indiana,Ground water,350,5,6.1,17.3,Local government,128,Rural,91,0,91
+5320016,GLEN CAMPBELL WATER WORKS,Indiana,Ground water,260,3,6.1,17.3,Local government,110,Rural,44,0,44
+5320017,HILLSDALE NURSING AND REHAB,Indiana,Ground water,100,3,6.1,17.3,Private,1,Rural,7,0,7
+5320025,PA AMERICAN WATER CO-INDIANA D,Indiana,Surface water,22360,3,6.1,17.3,Private,7500,Rural,1,0,1
+5320029,GREEN TOWNSHIP MA COOKPORT,Indiana,Ground water,285,4,6.1,17.3,Local government,150,Rural,235,0,235
+5320034,ICMSA ROSSITER,Indiana,Surface water,500,3,6.1,17.3,Local government,183,Rural,5,4,9
+5320040,CENTRAL INDIANA CO WATER AUTH,Indiana,Surface water,4635,3,6.1,17.3,Local government,2135,Rural,6,0,6
+5320041,ICMSA ARCADIA,Indiana,Surface water,100,4,6.1,17.3,Local government,29,Rural,10,9,19
+5320042,ICMSA  PINE TOWNSHIP,Indiana,Ground water,1932,5,6.1,17.3,Local government,416,Rural,8,2,10
+5320046,ICMSA LUCERNE,Indiana,Surface water purchased,625,2,6.1,17.3,Local government,248,Rural,4,0,4
+5320048,ICMSA COY,Indiana,Surface water purchased,650,2,6.1,17.3,Local government,260,Rural,4,0,4
+5320109,ICMSA  CROOKED CREEK,Indiana,Surface water,9400,14,6.1,17.3,Local government,2921,Rural,41,0,41
+5320332,CRYSTAL WATERS PERSONAL CARE,Indiana,Ground water,80,3,6.1,17.3,Private,1,Rural,89,4,93
+5630030,BENTLEYVILLE MUNI AUTH,Washington,Surface water purchased,2600,3,7.1,10.4,Local government,1087,Urban,8,0,8
+5630039,AUTH OF BORO OF CHARLEROI,Washington,Surface water,27000,12,7.1,10.4,Local government,12305,Urban,62,8,70
+5630044,ELLSWORTH BORO WATER DEPT,Washington,Surface water purchased,1250,6,7.1,10.4,Local government,541,Urban,23,5,28
+5630045,TRI CNTY JT MUNI AUTH,Washington,Surface water,10100,4,7.1,10.4,Local government,3400,Urban,93,41,134
+5630050,MARIANNA MUNI WATER WORKS,Washington,Surface water purchased,450,5,7.1,10.4,Local government,238,Urban,15,1,16
+5630068,DONEGAL TOWNSHIP,Washington,Surface water purchased,820,2,7.1,10.4,Local government,306,Urban,16,6,22
+5650012,LITTLE ACRES MHP,Westmoreland,Ground water,30,5,5.7,10.4,Private,16,Urban,23,0,23
+5650017,SUN DIAL VILLAGE MHP,Westmoreland,Ground water,90,5,5.7,10.4,Private,53,Urban,89,0,89
+5650021,PINEVIEW MANOR MHP,Westmoreland,Ground water,100,4,5.7,10.4,Private,56,Urban,38,0,38
+5650026,PINE GARDEN APARTMENTS,Westmoreland,Ground water,40,6,5.7,10.4,Private,30,Urban,27,2,29
+5650032,MAWC SWEENEY PLANT,Westmoreland,Surface water,150000,8,5.7,10.4,Local government,43228,Urban,15,0,15
+5650036,TORRANCE STATE HOSPITAL,Westmoreland,Surface water,997,4,5.7,10.4,State government,26,Urban,23,0,23
+5650042,MEADOWS MOBILE HOME PARK,Westmoreland,Ground water,250,3,5.7,10.4,Private,119,Urban,81,6,87
+5650049,DERRY BORO MUNI AUTH,Westmoreland,Surface water,6500,6,5.7,10.4,Local government,2538,Urban,10,0,10
+5650060,LATROBE MUNI AUTH,Westmoreland,Surface water,30000,5,5.7,10.4,Local government,7756,Urban,11,0,11
+5650069,HIGHRIDGE WATER AUTH,Westmoreland,Surface water,16000,11,5.7,10.4,Local government,2850,Urban,4,1,5
+5650070,NEW KENSINGTON MUNI AUTH,Westmoreland,Surface water,47800,3,5.7,10.4,Local government,13831,Urban,4,0,4
+5650080,LIGONIER TWP MUNI AUTH,Westmoreland,Surface water,3293,4,5.7,10.4,Local government,1317,Urban,4,0,4
+5650081,YOUNGSTOWN BORO MUNI AUTH,Westmoreland,Surface water purchased,2715,3,5.7,10.4,Local government,821,Urban,12,0,12
+5650095,HILLVIEW ESTATES,Westmoreland,Ground water,40,3,5.7,10.4,Private,23,Urban,267,0,267
+5650098,FAIRFIELD MANOR MHP,Westmoreland,Ground water,92,4,5.7,10.4,Private,38,Urban,44,0,44
+6120001,DRIFTWOOD BOROUGH,Cameron,Surface water,258,7,2.7,13,Local government,123,Urban,57,7,64
+6120002,EMPORIUM WATER COMPANY,Cameron,Surface water,3300,5,2.7,13,Private,1608,Urban,46,3,49
+6160001,PA AMERICAN WATER CO CLARION,Clarion,Surface water,16600,4,3.5,18.2,Private,4350,Rural,0,0,0
+6160003,EAST BRADY WATER SYSTEM,Clarion,Ground water,1040,6,3.5,18.2,Local government,410,Rural,3,0,3
+6160004,FOXBURG AREA WATER & SEWER AUT,Clarion,Ground water,925,6,3.5,18.2,Local government,116,Rural,28,0,28
+6160005,KNOX WATER WORKS,Clarion,Ground water,1380,7,3.5,18.2,Local government,633,Rural,4,0,4
+6160010,REDBANK VALLEY MUN AUTH,Clarion,Surface water,3150,6,3.5,18.2,Local government,1066,Rural,14,7,21
+6160011,PERRYVILLE WATER ASSOCIATION,Clarion,Ground water,120,6,3.5,18.2,Private,67,Rural,5,1,6
+6160012,RIMERSBURG BORO MUNI AUTH,Clarion,Ground water purchased,1873,3,3.5,18.2,Local government,797,Rural,1,0,1
+6160013,ST PETERSBURG MUNICIPAL WATER,Clarion,Surface water,465,5,3.5,18.2,Local government,195,Rural,37,5,42
+6160020,HARTZELL MOBILEHOME PARK,Clarion,Ground water,80,4,3.5,18.2,Private,43,Rural,22,0,22
+6160026,HAWTHORN REDBANK REDBANK MA,Clarion,Surface water,1500,6,3.5,18.2,Local government,466,Rural,19,2,21
+6160027,CORNER WATER SUPPLY & SERVICE,Clarion,Ground water,2200,4,3.5,18.2,Private,380,Rural,1,0,1
+6160030,FRYBURG WATER COMPANY,Clarion,Ground water,490,4,3.5,18.2,Private,187,Rural,0,0,0
+6160039,LUCINDA WATER CO,Clarion,Ground water,300,4,3.5,18.2,Private,55,Rural,1,0,1
+6160043,FARMINGTON TOWNSHIP,Clarion,Surface water purchased,1150,3,3.5,18.2,Local government,460,Rural,7,0,7
+6170004,BURNSIDE BORO WATER SYSTEM,Clearfield,Ground water,325,10,6.6,15,Local government,128,Rural,51,0,51
+6170008,CLEARFIELD MUNICIPAL AUTH,Clearfield,Surface water,14000,12,6.6,15,Local government,5551,Rural,7,2,9
+6170013,PIKE TWP MUNICIPAL AUTHORITY,Clearfield,Surface water,4500,8,6.6,15,Local government,1956,Rural,7,0,7
+6170016,CITY OF DUBOIS WATER DEPART,Clearfield,Surface water,7500,3,6.6,15,Local government,4382,Rural,5,0,5
+6170018,COUNTRY PLACE MHP,Clearfield,Ground water,225,7,6.6,15,Private,90,Rural,28,1,29
+6170021,GRAMPIAN BORO PENN TWP MA,Clearfield,Surface water purchased,1400,3,6.6,15,Local government,485,Rural,0,0,0
+6170023,HOUTZDALE MUNICIPAL AUTHORITY,Clearfield,Surface water,8410,13,6.6,15,Local government,2729,Rural,5,0,5
+6170024,HUSTON TWP MUNI AUTH,Clearfield,Surface water purchased,960,7,6.6,15,Local government,320,Rural,3,0,3
+6170025,IRVONA MUNICIPAL AUTHORITY,Clearfield,Surface water,1980,6,6.6,15,Local government,581,Rural,51,0,51
+6170034,UNION TWP MUNICIPAL AUTHORITY,Clearfield,Surface water purchased,450,4,6.6,15,Local government,240,Rural,0,0,0
+6170036,BRADY TWP WATER ASSOCIATION,Clearfield,Ground water,1570,7,6.6,15,Private,900,Rural,1,1,2
+6170040,WESTOVER MUNICIPAL AUTHORITY,Clearfield,Surface water,456,3,6.6,15,Local government,160,Rural,104,3,107
+6170041,COOPER TWP MUNICIPAL AUTH,Clearfield,Surface water,3700,5,6.6,15,Local government,1545,Rural,22,0,22
+6170045,COVINGTON KARTHAUS GIRARD A A,Clearfield,Ground water,1700,6,6.6,15,Local government,670,Rural,9,0,9
+6170048,AQUA PA INC TREASURE LAKE DIV,Clearfield,Ground water,4155,20,6.6,15,Private,1869,Rural,6,1,7
+6170052,BECCARIA COALPORT IRVONA M A,Clearfield,Ground water,1850,4,6.6,15,Local government,646,Rural,6,0,6
+6170053,SANDY TOWNSHIP,Clearfield,Surface water purchased,1828,2,6.6,15,Local government,800,Rural,3,0,3
+6170345,QUEHANNA MOTIVATIONAL BOOTCAMP,Clearfield,Ground water,430,4,6.6,15,State government,5,Rural,24,0,24
+6200002,MITCHELL LAKE MOBILE HOME PARK,Crawford,Ground water,100,7,4.8,14.7,Private,75,Rural,5,0,5
+6200003,CAMBRIDGE AREA JOINT AUTH,Crawford,Surface water purchased,225,13,4.8,14.7,Local government,84,Rural,6,1,7
+6200004,CAMBRIDGE SPRINGS BOROUGH,Crawford,Surface water,2363,3,4.8,14.7,Local government,713,Rural,25,0,25
+6200006,SUGARCREEK MHP,Crawford,Ground water,50,5,4.8,14.7,Private,24,Rural,59,0,59
+6200008,COCHRANTON BORO WATER DEPT,Crawford,Ground water,1400,6,4.8,14.7,Local government,583,Rural,10,0,10
+6200010,HARDWOOD ESTATES,Crawford,Ground water,61,3,4.8,14.7,Private,29,Rural,282,3,285
+6200013,PENN LAKE VILLAGE MHP,Crawford,Ground water,50,3,4.8,14.7,Private,47,Rural,19,2,21
+6200014,AQUA PA CRAWFORD DIV,Crawford,Ground water,1240,8,4.8,14.7,Private,1152,Rural,0,1,1
+6200015,CONNEAUT LAKE BOROUGH WTP,Crawford,Ground water,780,5,4.8,14.7,Local government,380,Rural,4,0,4
+6200018,CONNEAUT LAKE PARK WATER,Crawford,Ground water,250,4,4.8,14.7,Private,200,Rural,12,0,12
+6200020,HYDETOWN PARK EAST,Crawford,Ground water,20,3,4.8,14.7,Private,15,Rural,17,1,18
+6200023,COUNTRY ACRES TRAILER COURT,Crawford,Ground water,70,3,4.8,14.7,Private,40,Rural,144,0,144
+6200027,LINESVILLE MUNICIPAL AUTHORITY,Crawford,Ground water,1600,10,4.8,14.7,Local government,550,Rural,3,0,3
+6200028,COUNTRYSIDE MHP,Crawford,Ground water,72,4,4.8,14.7,Private,36,Rural,34,0,34
+6200031,LAKEVIEW MANOR MHP,Crawford,Ground water,150,8,4.8,14.7,Private,72,Rural,11,0,11
+6200033,CRESTVIEW MOBILE HOME PARK,Crawford,Ground water,35,3,4.8,14.7,Private,42,Rural,35,1,36
+6200035,MEADVILLE HOUSING NORTHGATE,Crawford,Ground water,256,4,4.8,14.7,Private,73,Rural,0,0,0
+6200036,MEADVILLE AREA WATER AUTHORITY,Crawford,Ground water,17339,12,4.8,14.7,Local government,5265,Rural,4,0,4
+6200037,DENNY RIDGE MOBILE HOME PARK,Crawford,Ground water,65,5,4.8,14.7,Private,25,Rural,36,0,36
+6200039,WOODLANDS MOBILE HOME PARK,Crawford,Ground water,175,7,4.8,14.7,Private,105,Rural,4,0,4
+6200040,STAR ROUTE ESTATES,Crawford,Ground water,52,5,4.8,14.7,Private,49,Rural,6,1,7
+6200043,SAEGERTOWN BOROUGH,Crawford,Ground water,1500,19,4.8,14.7,Local government,398,Rural,74,1,75
+6200044,FOUNTAIN HOUSE TRAILER COURT,Crawford,Ground water,119,6,4.8,14.7,Private,67,Rural,18,0,18
+6200046,PARKWOOD MHP,Crawford,Ground water,100,4,4.8,14.7,Public/Private,32,Rural,6,1,7
+6200049,HAYFIELD ESTATES MOBILE HOME P,Crawford,Ground water,180,4,4.8,14.7,Private,82,Rural,8,0,8
+6200050,SPRINGBORO AREA WATER AUTH,Crawford,Ground water,1175,4,4.8,14.7,Local government,289,Rural,7,0,7
+6200051,TITUSVILLE MUNICIPAL WATER,Crawford,Ground water,6146,12,4.8,14.7,Local government,2647,Rural,1,0,1
+6200052,HYDETOWN PARK WEST,Crawford,Ground water,23,3,4.8,14.7,Private,22,Rural,3,0,3
+6200053,TITUSVILLE ESTATES,Crawford,Ground water,45,6,4.8,14.7,Private,22,Rural,42,5,47
+6200054,AMES TRAILER COURT,Crawford,Ground water,36,6,4.8,14.7,Private,38,Rural,60,0,60
+6200062,GUYS MILLS MUTUAL WATER ASSOC,Crawford,Ground water,110,4,4.8,14.7,Private,35,Rural,7,4,11
+6200063,WOODLAND HEIGHTS APARTMENTS,Crawford,Ground water,100,4,4.8,14.7,Private,49,Rural,3,0,3
+6200066,TIMBERCREST APARTMENTS,Crawford,Ground water,144,5,4.8,14.7,Private,102,Rural,6,0,6
+6200067,FOREST GREEN ESTATES,Crawford,Ground water,225,4,4.8,14.7,Public/Private,151,Rural,32,0,32
+6200071,AUTUMN HILLS WATER COMPANY,Crawford,Ground water,338,4,4.8,14.7,Private,100,Rural,7,1,8
+6200072,VERNON TWP WATER AUTHORITY,Crawford,Ground water purchased,1400,5,4.8,14.7,Local government,468,Rural,1,1,2
+6200074,EAGLE CREST MANOR MHP,Crawford,Ground water,65,3,4.8,14.7,Private,18,Rural,17,0,17
+6200076,PINEDALE MOBILE HOME PARK,Crawford,Ground water,90,4,4.8,14.7,Private,37,Rural,7,0,7
+6200078,ELDERBERRY MHP,Crawford,Ground water,50,4,4.8,14.7,Private,21,Rural,70,0,70
+6240005,JAY TWP WATER AUTHORITY,Elk,Surface water,1775,7,2.4,8.8,Local government,710,Rural,32,0,32
+6240006,HIGHLAND TWP MUNICIPAL AUTH,Elk,Ground water,286,7,2.4,8.8,Local government,120,Rural,9,1,10
+6240007,JOHNSONBURG MUNICIPAL AUTH,Elk,Surface water,2900,10,2.4,8.8,Local government,1462,Rural,46,4,50
+6240008,TOBY WATER,Elk,Surface water,511,6,2.4,8.8,Local government,161,Rural,3,3,6
+6240012,RIDGWAY BOROUGH WATER SYSTEM,Elk,Surface water,4700,3,2.4,8.8,Local government,1962,Rural,4,0,4
+6240016,ST MARYS AREA WATER AUTH,Elk,Surface water,22000,3,2.4,8.8,Local government,7236,Rural,2,1,3
+6240020,JONES TWP MUNICIPAL AUTHORITY,Elk,Ground water,396,12,2.4,8.8,Local government,214,Rural,30,0,30
+6240022,RIDGWAY TWP WATER AUTH,Elk,Surface water purchased,1763,2,2.4,8.8,Local government,666,Rural,3,2,5
+6250004,WEST SPRINGFIELD MOBILE HM PK,Erie,Ground water,80,7,14.5,16.7,Private,41,Urban,4,0,4
+6250005,SPRINGFIELD VILLAGE,Erie,Ground water,80,5,14.5,16.7,Private,35,Urban,35,2,37
+6250007,ALBION BOROUGH,Erie,Ground water,5731,15,14.5,16.7,Local government,772,Urban,16,1,17
+6250008,WARNER MOBILE HOME PARK,Erie,Ground water,88,5,14.5,16.7,Private,35,Urban,0,0,0
+6250012,MUNICIPAL AUTHORITY OF CORRY,Erie,Ground water,7800,10,14.5,16.7,Local government,3254,Urban,1,2,3
+6250014,EDWARDS MOBILE HOME PARK,Erie,Ground water,97,5,14.5,16.7,Private,48,Urban,33,0,33
+6250017,LOVETTS MOBILE HOME PARK,Erie,Ground water,78,5,14.5,16.7,Private,30,Urban,1,0,1
+6250018,EDINBORO MH VILLAGE SOUTH,Erie,Ground water,80,6,14.5,16.7,Private,53,Urban,21,0,21
+6250019,EDINBORO MH VILLAGE NORTH,Erie,Ground water,6,6,14.5,16.7,Private,21,Urban,4,0,4
+6250020,MAJESTIC HEIGHTS,Erie,Ground water,70,6,14.5,16.7,Private,42,Urban,34,0,34
+6250021,WINDSOR MOBILEHOME PARK,Erie,Ground water,70,7,14.5,16.7,Private,30,Urban,38,0,38
+6250022,EDINBORO WATER AUTHORITY,Erie,Ground water,7800,7,14.5,16.7,Local government,1600,Urban,6,0,6
+6250023,SUNNY ACRES MOBILEHOME PARK,Erie,Ground water,60,3,14.5,16.7,Private,31,Urban,6,1,7
+6250028,ERIE CITY WATER AUTHORITY,Erie,Surface water,220001,20,14.5,16.7,Local government,60000,Urban,67,0,67
+6250035,PALMER SHORE WATER,Erie,Ground water,147,4,14.5,16.7,Private,47,Urban,99,1,100
+6250038,OLD ORCHARD SUBDIVISION,Erie,Ground water,98,3,14.5,16.7,Private,46,Urban,37,0,37
+6250039,LAKESHORE WATER ASSN,Erie,Surface water purchased,800,6,14.5,16.7,Private,309,Urban,9,0,9
+6250042,VLASION MOBILE HOME PARK,Erie,Ground water,100,6,14.5,16.7,Private,73,Urban,7,2,9
+6250044,CROSS STATION MOBILE HOME PARK,Erie,Ground water,89,9,14.5,16.7,Private,37,Urban,9,0,9
+6250046,IMPERIAL POINT WATER SERVICE,Erie,Ground water,1200,7,14.5,16.7,Private,498,Urban,36,0,36
+6250049,GIRARD BORO WATER DEPT,Erie,Ground water,3301,12,14.5,16.7,Local government,1265,Urban,52,1,53
+6250053,PEACEFUL ACRES TRAILERS,Erie,Ground water,165,3,14.5,16.7,Private,67,Urban,32,0,32
+6250055,COUNTRY GARDENS TRAILER COURT,Erie,Ground water,150,4,14.5,16.7,Private,74,Urban,2,0,2
+6250056,LAKE CITY BORO MUNIC WATER,Erie,Ground water,3267,7,14.5,16.7,Local government,1322,Urban,2,0,2
+6250061,NORTH EAST BOROUGH WATER DEPT,Erie,Surface water,4601,8,14.5,16.7,Local government,1726,Urban,0,0,0
+6250064,UNION CITY MUNICIPAL AUTHORITY,Erie,Surface water,3623,3,14.5,16.7,Local government,1246,Urban,32,1,33
+6250065,WATERFORD MUNICIPAL AUTHORITY,Erie,Ground water,1575,6,14.5,16.7,Local government,622,Urban,17,1,18
+6250067,THOMAS MOBILE HOME PARK,Erie,Ground water,375,5,14.5,16.7,Private,134,Urban,6,1,7
+6250070,COLONY WATER ASSOCIATION,Erie,Surface water purchased,110,2,14.5,16.7,Private,44,Urban,1,0,1
+6250074,SUNNYDALE SUBDIVISION,Erie,Ground water,60,3,14.5,16.7,Private,23,Urban,76,0,76
+6250075,MILLFAIR HEIGHTS,Erie,Ground water,390,6,14.5,16.7,Private,175,Urban,3,0,3
+6250077,GREENE TOWNSHIP WATER SYSTEM,Erie,Ground water,98,5,14.5,16.7,Local government,49,Urban,1,0,1
+6250078,CRANESVILLE WATER DEPARTMENT,Erie,Ground water purchased,663,2,14.5,16.7,Local government,251,Urban,6,0,6
+6250084,WOODHAVEN MOBILE HOME PARK,Erie,Surface water,340,4,14.5,16.7,Private,120,Urban,15,0,15
+6250085,HOLLY ACRES MHP,Erie,Ground water,300,3,14.5,16.7,Private,141,Urban,12,0,12
+6250086,NORTH EAST TOWNSHIP WATER,Erie,Surface water purchased,2684,2,14.5,16.7,Local government,1250,Urban,1,1,2
+6250087,FAIRVIEW TWP WATER AUTHORITY,Erie,Surface water purchased,3532,2,14.5,16.7,Local government,1493,Urban,6,0,6
+6250089,RAINBOW VALLEY MOBILE HOME,Erie,Ground water,450,4,14.5,16.7,Private,158,Urban,36,0,36
+6250090,SUMMIT TOWNSHIP WATER AUTHORIT,Erie,Surface water purchased,12226,10,14.5,16.7,Local government,2162,Urban,13,0,13
+6250092,WASHINGTON TWP WATER SYSTEM,Erie,Ground water,765,4,14.5,16.7,Local government,180,Urban,1,0,1
+6250094,WATTSBURG BORO WTP,Erie,Ground water,378,4,14.5,16.7,Local government,165,Urban,42,0,42
+6250097,FRELIGHS WHISPERING PINES MHP,Erie,Ground water,32,6,14.5,16.7,Private,25,Urban,6,0,6
+6250804,DAVIS ESTATES,Erie,Ground water,50,3,14.5,16.7,Private,22,Urban,32,0,32
+6270001,TIONESTA BOROUGH WATER SUPPLY,Forest,Ground water,610,5,35.9,14.3,Local government,279,Rural,1,0,1
+6270002,WEST HICKORY WATER COMPANY,Forest,Ground water,450,5,35.9,14.3,Private,190,Rural,0,0,0
+6270008,AQUA PA JENKS TWP WTP,Forest,Ground water,4320,8,35.9,14.3,Private,400,Rural,1,0,1
+6330002,BROCKWAY BORO MUNICIPAL AUTH,Jefferson,Surface water,4384,13,2.5,14.6,Local government,1770,Rural,71,0,71
+6330004,BROOKVILLE MUNICIPAL AUTH,Jefferson,Surface water,6220,6,2.5,14.6,Local government,2141,Rural,6,0,6
+6330007,FALLS CREEK BORO MUN AUTH,Jefferson,Surface water,1440,5,2.5,14.6,Local government,609,Rural,48,4,52
+6330008,KNOX TOWNSHIP MUNIC AUTHORITY,Jefferson,Ground water,300,3,2.5,14.6,Local government,100,Rural,7,0,7
+6330010,PA AMERICAN WATER PUNXSY,Jefferson,Surface water,8800,7,2.5,14.6,Private,3613,Rural,1,0,1
+6330011,REYNOLDSVILLE WATER AUTH,Jefferson,Surface water,2908,12,2.5,14.6,Local government,1283,Rural,3,0,3
+6330012,SUMMERVILLE BORO MUN AUTH,Jefferson,Ground water,700,9,2.5,14.6,Local government,235,Rural,5,0,5
+6330013,SYKESVILLE BOROUGH,Jefferson,Surface water purchased,1500,3,2.5,14.6,Local government,591,Rural,18,2,20
+6330014,HENDERSON TOWNSHIP MUN AUTH,Jefferson,Ground water,354,4,2.5,14.6,Local government,117,Rural,13,0,13
+6330840,ELDRED TWP MUNIC AUTH,Jefferson,Ground water,382,4,2.5,14.6,Local government,152,Rural,11,0,11
+6370003,BESSEMER BOROUGH WATER DEPT,Lawrence,Ground water,1100,7,7.7,15.2,Local government,498,Urban,3,0,3
+6370005,COUNTRYSIDE ESTATES MHP,Lawrence,Ground water,39,4,7.7,15.2,Private,51,Urban,40,0,40
+6370011,PA AMER WATER CO ELLWOOD CTY,Lawrence,Surface water,17200,6,7.7,15.2,Private,5838,Urban,0,0,0
+6370014,NEW CASTLE ESTATES,Lawrence,Ground water,80,4,7.7,15.2,Private,32,Urban,61,0,61
+6370015,HYLAND MOBILE HOME PARK,Lawrence,Ground water,56,4,7.7,15.2,Private,28,Urban,28,0,28
+6370016,MAJORS MOBILEHOME PARK,Lawrence,Ground water,44,6,7.7,15.2,Private,27,Urban,35,0,35
+6370017,NORTH STAR VILLAGE,Lawrence,Ground water,60,5,7.7,15.2,Private,45,Urban,65,0,65
+6370019,COUNTRY ROADS MHP,Lawrence,Ground water,60,4,7.7,15.2,Private,56,Urban,3,2,5
+6370022,GREEN MEADOWS MHP,Lawrence,Ground water,23,3,7.7,15.2,Private,15,Urban,64,1,65
+6370025,FREDERICKS MHP,Lawrence,Ground water,75,3,7.7,15.2,Private,41,Urban,72,0,72
+6370026,SCOTTVIEW TERRACE MOBILE HOMES,Lawrence,Ground water,50,4,7.7,15.2,Private,17,Urban,14,0,14
+6370032,BOROUGH OF WAMPUM WATER DEPT,Lawrence,Ground water,800,7,7.7,15.2,Local government,342,Urban,5,0,5
+6370034,PA AMER WATER CO NEW CASTLE,Lawrence,Surface water,43640,3,7.7,15.2,Private,17555,Urban,0,0,0
+6370035,NEW WILMINGTON BORO WATER DEPT,Lawrence,Surface water purchased,4500,2,7.7,15.2,Local government,672,Urban,0,0,0
+6370041,HERITAGE HILLS MHP,Lawrence,Ground water,220,4,7.7,15.2,Private,125,Urban,29,0,29
+6370042,VOLANT BOROUGH WATER DEPT,Lawrence,Ground water,112,4,7.7,15.2,Local government,70,Urban,1,0,1
+6370047,WOODMERE ESTATES,Lawrence,Ground water,70,3,7.7,15.2,Private,30,Urban,9,1,10
+6370048,VILLA MARIA COMMUNITY CENTER,Lawrence,Ground water,360,4,7.7,15.2,Private,7,Urban,4,1,5
+6370049,EASTBROOK APARTMENTS,Lawrence,Ground water,71,4,7.7,15.2,Public/Private,4,Urban,2,0,2
+6370054,MAHONING TOWNSHIP,Lawrence,Surface water purchased,1032,2,7.7,15.2,Local government,1,Urban,0,0,0
+6370910,CEDAR ACRES MOBILE HOME PARK,Lawrence,Ground water,105,6,7.7,15.2,Private,42,Urban,180,0,180
+6370958,CARRIAGE COURT PERSONAL CARE,Lawrence,Ground water,40,3,7.7,15.2,Private,1,Urban,3,0,3
+6420006,CLERMONT WATER ASSOCIATION,McKean,Ground water,75,3,6.2,17.2,Private,50,Rural,34,0,34
+6420010,AIKEN WATER COMPANY,McKean,Ground water,850,5,6.2,17.2,Private,210,Rural,64,1,65
+6420011,LUDLOW WARNER SYSTEM,McKean,Ground water,76,5,6.2,17.2,Private,37,Rural,24,0,24
+6420012,CROSBY WATER ASSOCIATION,McKean,Ground water,56,3,6.2,17.2,Private,46,Rural,112,1,113
+6420014,BRADFORD CITY WATER AUTHORITY,McKean,Surface water,18000,6,6.2,17.2,Local government,6233,Rural,8,2,10
+6420016,ELDRED BOROUGH WATER AUTH,McKean,Ground water,850,7,6.2,17.2,Local government,410,Rural,6,0,6
+6420017,HAZEL HURST WATER COMPANY,McKean,Ground water,140,8,6.2,17.2,Private,76,Rural,15,0,15
+6420018,AQUA PA MT JEWETT,McKean,Ground water,940,13,6.2,17.2,Private,482,Rural,2,0,2
+6420019,PA AMERICAN WATER CO KANE,McKean,Surface water,5725,20,6.2,17.2,Private,2300,Rural,0,0,0
+6420020,LEWIS RUN BOROUGH,McKean,Surface water purchased,892,9,6.2,17.2,Local government,290,Rural,2,0,2
+6420021,PORT ALLEGANY WATER DEPARTMENT,McKean,Ground water,2591,10,6.2,17.2,Local government,1030,Rural,8,0,8
+6420022,RIXFORD WATERWORKS ASSOCIATION,McKean,Ground water,234,3,6.2,17.2,Private,100,Rural,8,0,8
+6420023,SMETHPORT BOROUGH,McKean,Ground water,2400,8,6.2,17.2,Local government,1015,Rural,10,0,10
+6420028,SOUTHSIDE NORTHSIDE WATER ASSN,McKean,Ground water,72,4,6.2,17.2,Private,54,Rural,37,0,37
+6430001,SCENIC MOBILE HOME PARK,Mercer,Ground water,70,3,9.5,13.5,Private,23,Urban,76,0,76
+6430002,COUNTRY ESTATES,Mercer,Ground water,90,3,9.5,13.5,Private,28,Urban,19,1,20
+6430003,SUNNYVIEW MOBILE HOME PARK,Mercer,Ground water,90,5,9.5,13.5,Private,50,Urban,41,0,41
+6430010,JEFFERSON ESTATES MHP,Mercer,Ground water,65,4,9.5,13.5,Private,43,Urban,24,0,24
+6430014,GLEN LAKE ESTATES,Mercer,Ground water,125,5,9.5,13.5,Private,40,Urban,19,0,19
+6430019,ROUTE 322 MOBILE HOME PARK,Mercer,Ground water,43,4,9.5,13.5,Private,44,Urban,11,3,14
+6430021,PENNWOOD ESTATES MHP,Mercer,Ground water,51,7,9.5,13.5,Private,35,Urban,71,0,71
+6430024,ST PAUL HOMES,Mercer,Ground water,600,9,9.5,13.5,Public/Private,76,Urban,2,0,2
+6430036,FREDONIA BORO,Mercer,Ground water,502,6,9.5,13.5,Local government,290,Urban,13,4,17
+6430037,GREENVILLE MUNI WATER AUTH,Mercer,Surface water,8600,3,9.5,13.5,Local government,3175,Urban,13,0,13
+6430039,GREENVILLE MHP,Mercer,Ground water,150,4,9.5,13.5,Private,73,Urban,135,0,135
+6430040,GROVE CITY BORO WATER DEPT,Mercer,Ground water,8322,8,9.5,13.5,Local government,2969,Urban,4,0,4
+6430041,LIBERTY ACRES MHP,Mercer,Ground water,47,3,9.5,13.5,Private,27,Urban,28,0,28
+6430042,GRANDVIEW ACRES MHP,Mercer,Ground water,35,4,9.5,13.5,Private,31,Urban,1,0,1
+6430043,JAMESTOWN BORO WATER AUTH,Mercer,Ground water,690,7,9.5,13.5,Local government,312,Urban,9,0,9
+6430046,PINE GROVE MOBILE HOME PARK,Mercer,Ground water,247,8,9.5,13.5,Private,106,Urban,1,0,1
+6430047,WILLOW BEND MHP,Mercer,Ground water,21,4,9.5,13.5,Private,27,Urban,21,2,23
+6430049,BUHL COMMUNITY WATER COMPANY,Mercer,Ground water,2227,4,9.5,13.5,Private,81,Urban,15,0,15
+6430052,SANDY LAKE BORO,Mercer,Ground water,1100,10,9.5,13.5,Local government,350,Urban,0,0,0
+6430054,AQUA PA SHENANGO VALLEY WTP,Mercer,Surface water,48000,3,9.5,13.5,Private,16178,Urban,2,0,2
+6430055,SHARPSVILLE BORO WATER CO,Mercer,Surface water purchased,5310,7,9.5,13.5,Local government,2022,Urban,0,0,0
+6430056,STONEBORO WATER WORKS,Mercer,Ground water,1104,10,9.5,13.5,Local government,454,Urban,5,0,5
+6430057,REYNOLDS WATER COMPANY,Mercer,Surface water,2370,4,9.5,13.5,Private,692,Urban,11,2,13
+6430059,AQUA PA LAKE LATONKA WTP,Mercer,Ground water,1400,4,9.5,13.5,Private,575,Urban,0,1,1
+6430061,PINE TWP WATER DISTR SYSTEM,Mercer,Ground water purchased,3082,2,9.5,13.5,Local government,537,Urban,1,0,1
+6430062,FORREST BROOKE MHP,Mercer,Ground water,430,4,9.5,13.5,Private,277,Urban,7,0,7
+6430063,COUNTRY CORNER RV PARK,Mercer,Ground water,50,4,9.5,13.5,Private,123,Urban,42,0,42
+6430064,COUNTRY VILLAGE MOBILE ESTATES,Crawford,Ground water,97,4,4.8,14.7,Private,48,Rural,29,0,29
+6430070,FARMA MOBILE HOME PARK,Mercer,Ground water,65,6,9.5,13.5,Private,41,Urban,14,0,14
+6430072,HEMLOCK MHP,Mercer,Ground water,52,4,9.5,13.5,Private,20,Urban,16,0,16
+6430073,GREYSTONE COUNTRY ESTATES,Mercer,Ground water,55,3,9.5,13.5,State government,4,Urban,12,0,12
+6430075,REYNOLDS HOME CENTER MHP,Mercer,Surface water purchased,90,2,9.5,13.5,Private,43,Urban,5,3,8
+6430077,SOUTH PYMATUNING,Mercer,Surface water purchased,788,3,9.5,13.5,Local government,322,Urban,2,0,2
+6430079,LIBERTY TOWNSHIP,Mercer,Ground water purchased,50,2,9.5,13.5,Local government,31,Urban,0,0,0
+6430999,LEESBURG WATER ASSOCIATION,Mercer,Ground water,150,4,9.5,13.5,Private,70,Urban,5,0,5
+6530001,NORTHERN TIER CHILDRENS HOME,Potter,Ground water,45,3,3.1,15,Public/Private,3,Rural,412,0,412
+6530005,AUSTIN BOROUGH,Potter,Groundwater under influence of surface water,700,14,3.1,15,Local government,261,Rural,43,0,43
+6530006,ULYSSES MUNICIPAL AUTHORITY,Potter,Ground water,640,8,3.1,15,Local government,222,Rural,568,7,575
+6530007,ROULETTE TWP WATER AUTHORITY,Potter,Ground water,1300,10,3.1,15,Private,451,Rural,197,0,197
+6530009,COUDERSPORT BORO WATER SYSTEM,Potter,Ground water,3400,11,3.1,15,Local government,1037,Rural,36,0,36
+6530010,GALETON BORO WATER AUTHORITY,Potter,Surface water,1200,8,3.1,15,Local government,598,Rural,43,0,43
+6530013,SHINGLEHOUSE BORO WATER DEPT,Potter,Ground water,1250,8,3.1,15,Local government,547,Rural,48,0,48
+6530015,CHARLES COLE MEMORIAL HOSPITAL,Potter,Ground water,60,5,3.1,15,Private,4,Rural,250,1,251
+6610002,SUGAR CREEK STATION,Venango,Ground water,356,5,3.9,15.4,Public/Private,2,Rural,12,0,12
+6610004,PINE VALLEY TRAILER PARK,Venango,Ground water,21,3,3.9,15.4,Private,19,Rural,20,1,21
+6610009,BUCHOLZ MOBILE HOME PARK,Venango,Ground water,50,5,3.9,15.4,Private,23,Rural,11,0,11
+6610010,POLK CENTER,Venango,Surface water,1058,7,3.9,15.4,State government,48,Rural,11,0,11
+6610011,PLUMER WATER COMPANY,Venango,Ground water purchased,205,3,3.9,15.4,Private,59,Rural,0,0,0
+6610014,VENANGO WATER CO,Venango,Ground water,550,15,3.9,15.4,Private,225,Rural,0,0,0
+6610016,CLINTONVILLE BORO WTP,Venango,Ground water,695,4,3.9,15.4,Local government,197,Rural,13,4,17
+6610017,COOPERSTOWN WATER COMPANY,Venango,Ground water,360,7,3.9,15.4,Private,128,Rural,0,0,0
+6610019,AQUA PA EMLENTON,Venango,Surface water,915,3,3.9,15.4,Private,413,Rural,0,0,0
+6610020,GENERAL AUTHORITY OF FRANKLIN,Venango,Ground water,8600,14,3.9,15.4,Local government,4328,Rural,4,2,6
+6610023,OIL CITY,Venango,Ground water,12653,25,3.9,15.4,Local government,4451,Rural,0,1,1
+6610025,PLEASANTVILLE BOROUGH WATER,Venango,Ground water purchased,892,3,3.9,15.4,Local government,588,Rural,2,0,2
+6610028,ROUSEVILLE MUN WATERWORKS,Venango,Ground water,523,6,3.9,15.4,Local government,227,Rural,125,0,125
+6610029,SUGARCREEK WATER CO,Venango,Ground water,205,3,3.9,15.4,Private,75,Rural,1,1,2
+6610031,SENECA & CRANBERRY MALL DIST,Venango,Ground water,4400,9,3.9,15.4,Local government,1530,Rural,1,0,1
+6610032,ROCKY RIDGE VILLAGE,Venango,Ground water,150,4,3.9,15.4,Private,60,Rural,18,0,18
+6610033,D AND S ESTATES,Venango,Ground water,61,4,3.9,15.4,Private,40,Rural,8,1,9
+6610035,CORNPLANTER TOWNSHIP,Venango,Ground water purchased,1835,7,3.9,15.4,Local government,747,Rural,1,0,1
+6610036,BARKEYVILLE MUN AUTHORITY,Venango,Ground water,1600,5,3.9,15.4,Local government,99,Rural,13,0,13
+6610038,COUNTRY ESTATES MHP,Venango,Ground water,90,4,3.9,15.4,Private,58,Rural,18,0,18
+6610039,SAGE RUN DIST,Venango,Ground water purchased,196,2,3.9,15.4,Local government,80,Rural,0,0,0
+6610040,WOODLAND HEIGHTS DIST,Venango,Ground water purchased,460,2,3.9,15.4,Local government,179,Rural,0,0,0
+6610042,SANDYCREEK TWP WATERWORKS,Venango,Ground water purchased,2417,3,3.9,15.4,Local government,697,Rural,4,0,4
+6610045,COUNTRY ACRES PERSONAL CARE,Venango,Ground water,38,5,3.9,15.4,Private,1,Rural,31,0,31
+6610859,KENNERDELL NORTH WATER SYSTEM,Venango,Ground water,412,3,3.9,15.4,Private,134,Rural,2,0,2
+6620005,VALLEY VIEW VILLAGE MHP,Warren,Ground water,75,6,2.8,12.2,Private,34,Rural,89,0,89
+6620007,WEST SHEFFIELD WATER ASSN,Warren,Ground water,225,5,2.8,12.2,Private,85,Rural,5,2,7
+6620019,WILDERNESS MHP,Warren,Ground water,200,5,2.8,12.2,Private,87,Rural,37,4,41
+6620020,PA AMERICAN WATER CO WARREN,Warren,Ground water,14650,10,2.8,12.2,Private,5500,Rural,0,1,1
+6620021,AQUA PA CLARENDON,Warren,Ground water,840,6,2.8,12.2,Private,350,Rural,0,0,0
+6620028,NORTH WARREN MUNI AUTHORITY,Warren,Ground water,1626,5,2.8,12.2,Local government,745,Rural,4,0,4
+6620029,PINE GROVE TWP WATER SYSTEM,Warren,Ground water,640,7,2.8,12.2,Local government,208,Rural,8,1,9
+6620031,SHEFFIELD TWP MUNICIPAL AUTH,Warren,Ground water,1075,5,2.8,12.2,Local government,684,Rural,5,0,5
+6620032,SOUTHWEST WARREN CO MUN AUTH,Warren,Surface water,1040,8,2.8,12.2,Local government,436,Rural,5,4,9
+6620034,WARREN STATE HOSPITAL,Warren,Ground water,1300,13,2.8,12.2,State government,40,Rural,7,0,7
+6620036,RIVERVIEW COMMUNITIES NORTH,Warren,Ground water,15,7,2.8,12.2,Private,15,Rural,3,0,3
+6620038,PLEASANT VALLEY MHP,Warren,Ground water,210,7,2.8,12.2,Private,96,Rural,106,0,106
+6620039,YOUNGSVILLE MUN WATERWORKS,Warren,Ground water,2007,7,2.8,12.2,Local government,782,Rural,2,0,2
+6620043,CHANDLERS VALLEY MHP,Warren,Ground water,37,3,2.8,12.2,Private,20,Rural,66,0,66
+6620371,MIRACLE MOUNTAIN RANCH,Warren,Ground water,75,5,2.8,12.2,Private,45,Rural,12,0,12
+6620833,RIVERVIEW COMMUNITIES LP SOUTH,Warren,Ground water,100,3,2.8,12.2,Private,55,Rural,9,0,9
+7010001,ARENDTSVILLE MUNI WATER SYS,Adams,Ground water,1200,10,10.2,8.9,Local government,326,Rural,5,0,5
+7010002,BENDERSVILLE MUNI AUTH,Adams,Ground water,1039,9,10.2,8.9,Local government,239,Rural,6,0,6
+7010003,EAST BERLIN AREA JOINT AUTH,Adams,Ground water,1750,16,10.2,8.9,Local government,751,Rural,4,0,4
+7010005,FAIRFIELD MUNI AUTH,Adams,Ground water,2150,8,10.2,8.9,Local government,354,Rural,1,0,1
+7010006,HILLSIDE REST HOME INC,Adams,Ground water,58,4,10.2,8.9,Private,1,Rural,16,0,16
+7010007,THE VILLAGE OF LAUREL RUN,Adams,Ground water,250,4,10.2,8.9,Private,15,Rural,4,0,4
+7010011,OAK VILLAGE,Adams,Ground water,225,4,10.2,8.9,Private,72,Rural,0,0,0
+7010012,BONNEAUVILLE MUNI WATER AUTH,Adams,Ground water,2730,27,10.2,8.9,Local government,869,Rural,6,0,6
+7010014,CASTLE HILL MHP,Adams,Ground water,120,6,10.2,8.9,Private,51,Rural,0,0,0
+7010017,ANCHOR ESTATES,Adams,Ground water,300,5,10.2,8.9,Private,115,Rural,2,1,3
+7010019,GETTYSBURG MUNI AUTH,Adams,Surface water,12425,27,10.2,8.9,Local government,4312,Rural,44,0,44
+7010020,BIGLERVILLE WATER CO,Adams,Ground water,2501,10,10.2,8.9,Local government,535,Rural,0,0,0
+7010021,HOFFMAN HOMES FOR YOUTHS INC,Adams,Ground water,270,4,10.2,8.9,Public/Private,20,Rural,0,0,0
+7010022,LITTLESTOWN BORO,Adams,Ground water,7300,35,10.2,8.9,Local government,2296,Rural,2,0,2
+7010023,NEW OXFORD MANOR MHP,Adams,Ground water,350,10,10.2,8.9,Private,102,Rural,5,6,11
+7010025,NEW OXFORD MUNCI AUTH,Adams,Surface water,3963,6,10.2,8.9,Local government,1575,Rural,7,3,10
+7010028,PANORAMA MHP,Adams,Ground water,75,4,10.2,8.9,Private,32,Rural,0,0,0
+7010029,MOUNTAIN VIEW MHP,Adams,Ground water,180,5,10.2,8.9,Private,67,Rural,0,0,0
+7010030,YORK SPRINGS MUNI WATER,Adams,Ground water,1095,7,10.2,8.9,Local government,360,Rural,1,0,1
+7010032,FRANKLIN TWP MUNI AUTH,Adams,Ground water,441,6,10.2,8.9,Local government,126,Rural,27,0,27
+7010033,CARROLL VALLEY WATER SYSTEM,Adams,Ground water,267,4,10.2,8.9,Private,98,Rural,2,0,2
+7010034,POSSUM VALLEY MUNI AUTH,Adams,Groundwater under influence of surface water,550,11,10.2,8.9,Local government,150,Rural,5,0,5
+7010035,PA AMER WATER CO LAKE HERITAGE,Adams,Ground water,1648,4,10.2,8.9,Private,821,Rural,0,0,0
+7010036,LAKE MEADE MUNI AUTH,Adams,Ground water,3192,7,10.2,8.9,Local government,1101,Rural,2,0,2
+7010038,WESTERN CUMBERLAND WATER SYS,Adams,Ground water,275,5,10.2,8.9,Private,185,Rural,0,0,0
+7010039,CAVALRY HEIGHTS MHP,Adams,Ground water,80,4,10.2,8.9,Private,45,Rural,2,0,2
+7010041,CHESAPEAKE ESTATES MHP,Adams,Ground water,437,10,10.2,8.9,Private,176,Rural,24,0,24
+7010044,EASTERN CUMBERLAND WATER SYS,Adams,Ground water,150,4,10.2,8.9,Private,78,Rural,7,1,8
+7010046,ROUND TOP MHP,Adams,Ground water,185,6,10.2,8.9,Private,320,Rural,3,1,4
+7010048,TIMELESS TOWNS OF AMERICA INC,Adams,Ground water,760,10,10.2,8.9,Private,73,Rural,15,1,16
+7010051,JIHRA MEADOWS,Adams,Ground water,79,4,10.2,8.9,Private,1,Rural,23,1,24
+7010052,PINE RUN INC,Adams,Ground water,127,4,10.2,8.9,Private,74,Rural,7,0,7
+7010053,WALNUT GROVE MHP,Adams,Ground water,425,3,10.2,8.9,Private,164,Rural,3,0,3
+7010055,EAGLE VIEW MHP,Adams,Ground water,230,9,10.2,8.9,Private,115,Rural,1,0,1
+7010056,ADAMS CNTY FAC CTR,Adams,Ground water,450,4,10.2,8.9,Public/Private,4,Rural,2,2,4
+7010057,AQUA PA LINKS AT GETTYSBURG SY,Adams,Ground water,398,4,10.2,8.9,Private,159,Rural,1,0,1
+7210001,CREEK VIEW MOBILE HOME COMMUN,Cumberland,Ground water,80,3,12.1,8.8,Private,47,Urban,59,0,59
+7210002,CARLISLE WATER TRMT PLT,Cumberland,Surface water,30314,3,12.1,8.8,Local government,6648,Urban,6,0,6
+7210003,HARMONY ESTATES MHP,Cumberland,Ground water,80,3,12.1,8.8,Private,30,Urban,38,3,41
+7210010,US ARMY GARRISON,Cumberland,Surface water purchased,1700,4,12.1,8.8,Federal government,353,Urban,12,2,14
+7210013,ROLLING HILLS ESTATES,Cumberland,Ground water,170,5,12.1,8.8,Private,89,Urban,0,0,0
+7210022,HILLSIDE MHP,Cumberland,Ground water,54,3,12.1,8.8,Private,16,Urban,49,0,49
+7210027,UNITED WATER PA GRANTHAM,Cumberland,Ground water,4860,4,12.1,8.8,Private,614,Urban,0,0,0
+7210028,SUEZ MECHANICSBURG,Cumberland,Surface water,32336,6,12.1,8.8,Private,10255,Urban,0,0,0
+7210029,PA AMERICAN WATER CO WEST,Cumberland,Surface water,93368,16,12.1,8.8,Public/Private,35006,Urban,1,0,1
+7210034,WILLIAMS GROVE MHP,Cumberland,Ground water,179,3,12.1,8.8,Private,94,Urban,0,0,0
+7210037,MT HOLLY SPRINGS BORO AUTH,Cumberland,Ground water,3261,4,12.1,8.8,Local government,1161,Urban,0,1,1
+7210039,BIG SPRING TERRACE MHP,Cumberland,Ground water,439,4,12.1,8.8,Private,155,Urban,4,0,4
+7210041,NEWVILLE BORO WATER AUTH,Cumberland,Groundwater under influence of surface water,2070,3,12.1,8.8,Local government,897,Urban,1,0,1
+7210043,SHIPPENSBURG BORO WATER AUTH,Cumberland,Surface water,17800,17,12.1,8.8,Local government,6188,Urban,15,6,21
+7210046,STATE CORRECTIONAL INST,Cumberland,Surface water,3910,7,12.1,8.8,State government,50,Urban,12,0,12
+7210048,AQUA PA WHITE ROCK ACRES SYS,Cumberland,Ground water,890,5,12.1,8.8,Private,318,Urban,1,0,1
+7210049,N MIDDLETON WATER AUTH,Cumberland,Surface water,9483,11,12.1,8.8,Local government,2921,Urban,4,4,8
+7210050,SOUTH MIDDLETON TWP WATER AUTH,Cumberland,Ground water,10068,22,12.1,8.8,Local government,3777,Urban,63,0,63
+7210053,SOUTHERN CUMBERLAND WATER ASSN,Cumberland,Ground water,400,5,12.1,8.8,Private,165,Urban,14,0,14
+7210054,SUEZ CENTER SQUARE,Cumberland,Ground water,1556,6,12.1,8.8,Private,633,Urban,0,0,0
+7210055,DICKINSON TWP  MUNIC  AUTH,Cumberland,Ground water purchased,250,4,12.1,8.8,Local government,14,Urban,1,0,1
+7210056,BLUE MOUNTAIN HEIGHTS MHP,Cumberland,Ground water,162,9,12.1,8.8,Private,72,Urban,1,0,1
+7210057,REGENCY WOODS MHP,Cumberland,Ground water,450,8,12.1,8.8,Private,155,Urban,5,2,7
+7210059,MT VIEW TERRACE MHP,Cumberland,Ground water,179,4,12.1,8.8,Private,68,Urban,1,0,1
+7210060,VIEW MOUNTAIN MHP,Cumberland,Ground water,80,5,12.1,8.8,Private,45,Urban,8,0,8
+7210061,CONODOGUINET MOBILE EST,Cumberland,Ground water,265,5,12.1,8.8,Private,106,Urban,1,0,1
+7210063,MIDDLESEX TWP MUNI AUTH,Cumberland,Ground water,3527,6,12.1,8.8,Local government,1008,Urban,32,0,32
+7210065,COUNTRY VIEW EST,Cumberland,Ground water,270,4,12.1,8.8,Private,115,Urban,0,0,0
+7210066,SOUTHAMPTON MANOR MHP,Cumberland,Ground water,160,3,12.1,8.8,Private,60,Urban,0,0,0
+7210068,HODGES MHP,Cumberland,Ground water,110,10,12.1,8.8,Private,58,Urban,38,2,40
+7220001,OAK KNOLL EST MHP,Dauphin,Ground water,350,7,31.6,13.6,Private,126,Urban,12,3,15
+7220002,CEDAR MANOR MHP,Dauphin,Ground water,510,13,31.6,13.6,Private,315,Urban,12,10,22
+7220003,ELIZABETHVILLE AREA AUTH,Dauphin,Ground water,2700,8,31.6,13.6,Private,887,Urban,27,0,27
+7220004,DEANN VILLAGE MHP,Dauphin,Ground water,135,6,31.6,13.6,Private,48,Urban,7,0,7
+7220005,GRATZ BORO WATER REVENUE FUND,Dauphin,Ground water,738,5,31.6,13.6,Local government,267,Urban,20,0,20
+7220007,ALEX ACRES MHP,Dauphin,Ground water,108,6,31.6,13.6,Private,58,Urban,1,2,3
+7220009,HALIFAX VILLAGE,Dauphin,Ground water,272,7,31.6,13.6,Private,100,Urban,66,0,66
+7220015,SUEZ WATER,Dauphin,Surface water,105649,22,31.6,13.6,Private,32950,Urban,0,0,0
+7220016,SHADY BACK ACRES MHP,Dauphin,Ground water,40,4,31.6,13.6,Private,20,Urban,3,0,3
+7220017,PA AMER WATER CO,Dauphin,Surface water,46000,8,31.6,13.6,Private,18083,Urban,0,0,0
+7220022,LYKENS BORO AUTH,Dauphin,Surface water,3225,6,31.6,13.6,Local government,1292,Urban,53,1,54
+7220024,CRESTVIEW VILLAGE MHP,Dauphin,Ground water,223,3,31.6,13.6,Private,83,Urban,48,0,48
+7220025,HI LAND MHP,Dauphin,Ground water,66,4,31.6,13.6,Private,30,Urban,7,0,7
+7220029,PINE MANOR MHP,Dauphin,Ground water,302,4,31.6,13.6,Private,120,Urban,1,0,1
+7220034,MILLERSBURG WATER AUTH,Dauphin,Surface water,4248,26,31.6,13.6,Local government,1994,Urban,0,0,0
+7220036,STEELTON BORO WATER AUTH,Dauphin,Surface water,6300,3,31.6,13.6,Local government,2402,Urban,12,14,26
+7220037,WILLIAMSTOWN BORO AUTH,Dauphin,Surface water,2390,4,31.6,13.6,Local government,887,Urban,9,0,9
+7220038,SUEZ MIDDLETOWN,Dauphin,Ground water,9254,20,31.6,13.6,Local government,2723,Urban,41,0,41
+7220040,HALIFAX AREA WATER & SEWER AUT,Dauphin,Ground water,2278,16,31.6,13.6,Local government,700,Urban,2,2,4
+7220045,ROYALTON BORO,Dauphin,Ground water purchased,1083,4,31.6,13.6,Local government,580,Urban,3,1,4
+7220046,PILLOW BORO AUTH,Dauphin,Ground water,312,6,31.6,13.6,Local government,131,Urban,8,0,8
+7220047,LOYALTON WATER ASSN,Dauphin,Ground water,100,5,31.6,13.6,Private,48,Urban,0,2,2
+7220048,SHORT MOUNTAIN VILLAGE MHP,Dauphin,Ground water,53,3,31.6,13.6,Private,17,Urban,39,0,39
+7220049,CAPITAL REGION WATER,Dauphin,Surface water,66540,4,31.6,13.6,Local government,20778,Urban,1,1,2
+7220055,LONDONDERRY TWP WATER SYS,Dauphin,Ground water purchased,36,3,31.6,13.6,Local government,14,Urban,5,0,5
+7220057,CHESAPEAKE EST MHP,Dauphin,Ground water,1040,4,31.6,13.6,Private,350,Urban,93,0,93
+7220070,MOUNTAINDALE APARTMENTS,Dauphin,Ground water,50,4,31.6,13.6,Private,21,Urban,13,0,13
+7280005,CHAMBERSBURG BORO WATER SYS,Franklin,Surface water,40000,4,10.8,11.7,Local government,7439,Urban,7,3,10
+7280010,GREEN GROVE TRAILER CT,Franklin,Ground water,75,3,10.8,11.7,Private,30,Urban,10,0,10
+7280014,GREENCASTLE AREA WATER AUTH,Franklin,Surface water,5500,8,10.8,11.7,Local government,2157,Urban,2,2,4
+7280015,STATE LINE MHP,Franklin,Ground water,65,3,10.8,11.7,Private,38,Urban,19,0,19
+7280017,SHANGRI LA MHP,Franklin,Ground water,96,4,10.8,11.7,Private,46,Urban,3,0,3
+7280021,MERCERSBURG MUNI WATER AUTH,Franklin,Surface water,2350,8,10.8,11.7,Local government,993,Urban,0,0,0
+7280025,QUINCY VILLAGE SYSTEM,Franklin,Ground water,450,5,10.8,11.7,Public/Private,1,Urban,22,0,22
+7280026,WASHINGTON TWP MUNI AUTH,Franklin,Ground water,5705,23,10.8,11.7,Local government,2423,Urban,82,0,82
+7280027,WADELS MHP,Franklin,Ground water,97,3,10.8,11.7,Private,38,Urban,30,0,30
+7280032,BORO OF WAYNESBORO,Franklin,Surface water,13200,7,10.8,11.7,Local government,8004,Urban,12,2,14
+7280033,DRY RUN WATER ASSN,Franklin,Ground water,278,8,10.8,11.7,Local government,74,Urban,27,2,29
+7280036,SCOTT WATER CO,Franklin,Ground water,90,4,10.8,11.7,Private,25,Urban,100,0,100
+7280038,GUILFORD WATER AUTH,Franklin,Ground water,26000,34,10.8,11.7,Local government,11548,Urban,17,3,20
+7280040,MONT ALTO MUNICIPAL AUTHORITY,Franklin,Ground water,1867,10,10.8,11.7,Local government,747,Urban,37,0,37
+7280043,BEAR VALLEY JOINT AUTH,Franklin,Surface water,12000,5,10.8,11.7,Local government,4000,Urban,0,1,1
+7280045,FRANKLIN CO GEN AUTH,Franklin,Surface water,4400,3,10.8,11.7,Local government,160,Urban,2,0,2
+7280046,EDENVILLE WATER ASSN INC,Franklin,Ground water,491,7,10.8,11.7,Private,164,Urban,31,0,31
+7280047,VALLEY VIEW MANOR MHP,Franklin,Ground water,130,3,10.8,11.7,Private,42,Urban,97,0,97
+7280053,MOUNT ROCK MANOR,Franklin,Ground water,350,6,10.8,11.7,Private,139,Urban,8,0,8
+7280055,INDIAN LAKE CAMP CORP,Franklin,Ground water,125,3,10.8,11.7,Private,83,Urban,17,1,18
+7280058,LENWOOD PARK,Franklin,Ground water,230,4,10.8,11.7,Private,93,Urban,27,0,27
+7280060,PLEASANT HALL MANOR,Franklin,Ground water,50,4,10.8,11.7,Private,19,Urban,44,9,53
+7280061,SILVER SPRING WATER ASSN,Franklin,Ground water,130,3,10.8,11.7,Private,46,Urban,5,0,5
+7280062,MICHAUX MANOR LIVING CTR,Franklin,Ground water,73,3,10.8,11.7,Private,1,Urban,3,0,3
+7280063,ANTRIM TOWNSHIP MUNICIPAL AUTH,Franklin,Groundwater under influence of surface water,975,4,10.8,11.7,Local government,351,Urban,12,1,13
+7280064,KENSINGTON HGTS SUBDIVISION,Franklin,Ground water,204,3,10.8,11.7,Private,65,Urban,57,0,57
+7280066,HERITAGE HILLS RETIREMENT HOME,Franklin,Ground water,45,3,10.8,11.7,Public/Private,1,Urban,5,0,5
+7280071,SUNNY SPOT APARTMENTS,Franklin,Ground water,27,3,10.8,11.7,Private,17,Urban,7,0,7
+7360001,ADAMSTOWN BOROUGH,Lancaster,Ground water,1800,8,16.6,10.7,Local government,730,Urban,0,0,0
+7360002,RIVER HAVEN MHP,Lancaster,Ground water,95,3,16.6,10.7,Private,37,Urban,14,0,14
+7360003,BAINBRIDGE WATER AUTHORITY,Lancaster,Ground water,1200,4,16.6,10.7,Local government,425,Urban,2,0,2
+7360004,LOG CABIN COURT,Lancaster,Ground water,175,3,16.6,10.7,Private,80,Urban,2,1,3
+7360005,BLUE BALL WATER AUTHORITY,Lancaster,Ground water,1946,5,16.6,10.7,Local government,500,Urban,3,1,4
+7360006,BROOKSIDE MOBILEHOME PARK,Lancaster,Ground water,176,4,16.6,10.7,Private,57,Urban,6,0,6
+7360007,CHRISTIANA MUNI WATER AUTH,Lancaster,Groundwater under influence of surface water,1100,9,16.6,10.7,Local government,425,Urban,28,0,28
+7360010,ROLLING HILLS MHP,Lancaster,Ground water,280,4,16.6,10.7,Private,92,Urban,6,4,10
+7360014,CONESTOGA MOBILE HOME PARK,Lancaster,Ground water,65,4,16.6,10.7,Private,28,Urban,1,0,1
+7360015,CONESTOGA HILLS COMMUNITY,Lancaster,Ground water,150,8,16.6,10.7,Private,73,Urban,12,5,17
+7360016,HAWK VALLEY VILLAGE,Lancaster,Ground water,250,4,16.6,10.7,Private,110,Urban,22,0,22
+7360017,DENVER BORO,Lancaster,Surface water,3861,13,16.6,10.7,Local government,1117,Urban,3,0,3
+7360019,DRUMORE MHP,Lancaster,Ground water,40,4,16.6,10.7,Private,18,Urban,7,3,10
+7360020,ACORN ACRES,Lancaster,Ground water,50,4,16.6,10.7,Public/Private,21,Urban,0,0,0
+7360021,SCENIC VIEW,Lancaster,Ground water,45,7,16.6,10.7,Private,18,Urban,6,0,6
+7360023,LAKEVIEW MOBILE HOME PARK,Lancaster,Ground water,275,10,16.6,10.7,Private,111,Urban,75,0,75
+7360024,MAGIC CHEF MHP,Lancaster,Ground water,32,4,16.6,10.7,Private,19,Urban,8,0,8
+7360025,MASONIC HOMES,Lancaster,Ground water,3200,6,16.6,10.7,Public/Private,70,Urban,2,0,2
+7360029,SCHOOLHOUSE APTS,Lancaster,Ground water,38,4,16.6,10.7,Private,15,Urban,19,1,20
+7360031,VICTORIA MANOR EST,Lancaster,Ground water,120,4,16.6,10.7,Private,56,Urban,2,0,2
+7360032,CALAMUS ESTATES,Lancaster,Ground water,140,4,16.6,10.7,Private,81,Urban,14,0,14
+7360038,DUTCH MOBILEHOME PARK,Lancaster,Ground water,45,3,16.6,10.7,Private,20,Urban,1,0,1
+7360039,FAIRMOUNT HOME,Lancaster,Ground water,483,6,16.6,10.7,Public/Private,40,Urban,0,0,0
+7360045,EPHRATA AREA JOINT AUTHORITY,Lancaster,Surface water,17937,12,16.6,10.7,Local government,8200,Urban,19,1,20
+7360047,WELSH MOUNTAIN HOME,Lancaster,Ground water,53,3,16.6,10.7,Private,1,Urban,2,2,4
+7360048,GLENWOOD MOBILEHOME PARK,Lancaster,Ground water,40,3,16.6,10.7,Private,18,Urban,0,0,0
+7360050,STONEYHILL MHP,Lancaster,Ground water,160,6,16.6,10.7,Private,76,Urban,0,0,0
+7360051,TIMBER VILLA,Lancaster,Ground water,140,4,16.6,10.7,Private,70,Urban,9,3,12
+7360052,CRESTWOOD COMMUNITY,Lancaster,Ground water,470,4,16.6,10.7,Private,137,Urban,5,0,5
+7360053,WATSON RUN,Lancaster,Ground water,150,4,16.6,10.7,Private,79,Urban,2,0,2
+7360054,COUNTRYSIDE ESTATES MHP,Lancaster,Ground water,30,3,16.6,10.7,Private,23,Urban,3,0,3
+7360055,TRIPLE J MHP,Lancaster,Ground water,200,7,16.6,10.7,Private,90,Urban,6,1,7
+7360056,PENNY FARM MHP,Lancaster,Ground water,51,6,16.6,10.7,Private,20,Urban,2,1,3
+7360057,HOLTWOOD MOBILE HOME PARK,Lancaster,Ground water,196,7,16.6,10.7,Private,56,Urban,2,0,2
+7360058,CITY OF LANCASTER,Lancaster,Surface water,120000,6,16.6,10.7,Local government,45052,Urban,1,1,2
+7360061,SUNNY CREST HOME,Lancaster,Ground water,71,3,16.6,10.7,Private,1,Urban,8,0,8
+7360063,EAST HEMPFIELD WATER AUTH,Lancaster,Ground water,20220,26,16.6,10.7,Local government,6550,Urban,0,0,0
+7360064,HERR MOBILEHOME PARK,Lancaster,Ground water,48,3,16.6,10.7,Private,29,Urban,0,0,0
+7360068,NOLTS RED MAPLE MHP,Lancaster,Ground water,51,3,16.6,10.7,Private,27,Urban,2,0,2
+7360069,PENN VALLEY VILLAGE,Lancaster,Groundwater under influence of surface water,225,4,16.6,10.7,Private,85,Urban,4,0,4
+7360072,PLATEAU VILLAGE MHP,Lancaster,Ground water,125,6,16.6,10.7,Private,78,Urban,1,0,1
+7360074,IRVIN MANHEIM MHP,Lancaster,Ground water,77,3,16.6,10.7,Private,37,Urban,1,0,1
+7360075,HILLTOP ACRES MHP,Lancaster,Ground water,98,5,16.6,10.7,Private,43,Urban,56,0,56
+7360077,MT HOPE NAZARENE RET COMM,Lancaster,Ground water,141,3,16.6,10.7,Private,4,Urban,1,0,1
+7360078,MANHEIM AREA WATER & SEWER AUT,Lancaster,Groundwater under influence of surface water,6000,4,16.6,10.7,Local government,2450,Urban,4,3,7
+7360079,RIDGEWOOD MANOR MHP,Lancaster,Ground water,260,5,16.6,10.7,Private,132,Urban,58,0,58
+7360080,VILLAGE OF RIVERMOOR,Lancaster,Ground water,260,4,16.6,10.7,Private,130,Urban,24,1,25
+7360083,EAST DONEGAL TOWNSHIP,Lancaster,Ground water,3795,6,16.6,10.7,Local government,1375,Urban,30,0,30
+7360090,LANCASTER EST,Lancaster,Ground water,304,5,16.6,10.7,Private,152,Urban,2,0,2
+7360091,MT JOY BORO AUTH,Lancaster,Groundwater under influence of surface water,14150,6,16.6,10.7,Local government,5686,Urban,27,0,27
+7360092,PINEHURST MANOR,Lancaster,Ground water,47,4,16.6,10.7,Private,25,Urban,3,2,5
+7360094,ZERBE SISTERS,Lancaster,Ground water,210,4,16.6,10.7,Public/Private,59,Urban,2,0,2
+7360098,GROFFDALE MOBILEHOME PARK,Lancaster,Ground water,98,3,16.6,10.7,Private,56,Urban,0,0,0
+7360099,NEW HOLLAND BOROUGH,Lancaster,Ground water,5500,14,16.6,10.7,Local government,1692,Urban,0,0,0
+7360100,WOODLAND EST MOBILE HOMES,Lancaster,Ground water,72,3,16.6,10.7,Private,17,Urban,6,1,7
+7360101,BEAVER VALLEY MHP,Lancaster,Groundwater under influence of surface water,50,4,16.6,10.7,Private,21,Urban,2,0,2
+7360103,SOUTHLAND HILLS MOBILE HOMES,Lancaster,Ground water,96,4,16.6,10.7,Private,41,Urban,4,0,4
+7360104,LITTLE BRITAIN MHP,Lancaster,Ground water,80,3,16.6,10.7,Private,34,Urban,8,3,11
+7360108,JUBILEE MHP,Lancaster,Ground water,30,3,16.6,10.7,Private,20,Urban,9,0,9
+7360109,TAMARACK & SPREAD EAGLE MHP,Lancaster,Ground water,300,8,16.6,10.7,Private,98,Urban,5,0,5
+7360110,EDEN GLEN VILLAGE,Lancaster,Ground water,76,5,16.6,10.7,Private,37,Urban,6,4,10
+7360112,QUARRYVILLE BORO,Lancaster,Surface water purchased,3150,7,16.6,10.7,Local government,1008,Urban,8,1,9
+7360113,EAST COCALICO TOWNSHIP,Lancaster,Ground water,6735,38,16.6,10.7,Local government,2245,Urban,37,0,37
+7360114,LOCUSTWOOD MOBILEHOME PARK,Lancaster,Ground water,81,6,16.6,10.7,Private,43,Urban,15,0,15
+7360116,WARWICK TWP LITITZ SYS,Lancaster,Purchased ground water under influence of surface water source,8561,15,16.6,10.7,Local government,10,Urban,2,0,2
+7360117,OAKRIDGE PARK,Lancaster,Ground water,75,3,16.6,10.7,Private,35,Urban,21,0,21
+7360118,STRASBURG MUNI WATER AUTH,Lancaster,Ground water,3100,14,16.6,10.7,Local government,1062,Urban,53,2,55
+7360119,TERRE HILL BOROUGH,Lancaster,Ground water,1295,12,16.6,10.7,Local government,584,Urban,4,0,4
+7360120,WARWICK TWP ROTHSVILLE SYSTEM,Lancaster,Ground water,2846,4,16.6,10.7,Local government,992,Urban,0,0,0
+7360121,SMITHVILLE MHP,Lancaster,Ground water,166,6,16.6,10.7,Private,80,Urban,3,0,3
+7360123,COLUMBIA WATER CO,Lancaster,Surface water,25001,15,16.6,10.7,Private,8009,Urban,19,2,21
+7360124,ELIZABETHTOWN AREA WATER,Lancaster,Surface water,18900,26,16.6,10.7,Local government,5000,Urban,5,0,5
+7360126,LITITZ BORO,Lancaster,Groundwater under influence of surface water,9397,10,16.6,10.7,Local government,4201,Urban,0,0,0
+7360127,MILLERSVILLE UNIV,Lancaster,Ground water,7950,5,16.6,10.7,Private,1,Urban,104,1,105
+7360128,AKRON BOROUGH,Lancaster,Ground water,4200,10,16.6,10.7,Local government,1775,Urban,2,0,2
+7360132,WESTERN HEIGHTS,Lancaster,Ground water,330,7,16.6,10.7,Local government,105,Urban,0,0,0
+7360135,EAST PETERSBURG BOROUGH,Lancaster,Surface water purchased,6215,10,16.6,10.7,Local government,1729,Urban,5,0,5
+7360138,PEQUEA WATER COOP ASSN,Lancaster,Ground water,85,3,16.6,10.7,Private,50,Urban,7,0,7
+7360140,UPPER LEACOCK TOWNSHIP,Lancaster,Surface water purchased,7734,13,16.6,10.7,Local government,2234,Urban,0,0,0
+7360141,WEST COCALICO TWP WATER AUTH,Lancaster,Ground water,2430,9,16.6,10.7,Local government,972,Urban,4,0,4
+7360143,WEST EARL WATER AUTHORITY,Lancaster,Surface water purchased,4327,10,16.6,10.7,Local government,1431,Urban,4,0,4
+7360155,VALLEY VIEW MHP MORGANTOWN,Lancaster,Ground water,60,3,16.6,10.7,Private,20,Urban,8,0,8
+7360156,MOUNTAINTOP MOBILEHOME PARK,Lancaster,Ground water,115,4,16.6,10.7,Private,37,Urban,30,8,38
+7360157,HEMLOCK ACRES COURT,Lancaster,Ground water,125,5,16.6,10.7,Private,59,Urban,25,0,25
+7360158,PINEVIEW ACRES,Lancaster,Ground water,30,4,16.6,10.7,Private,15,Urban,74,1,75
+7360161,GREEN ACRES,Lancaster,Ground water,93,3,16.6,10.7,Private,45,Urban,0,0,0
+7360164,NORTHWESTERN LANCASTER CO AUTH,Lancaster,Surface water purchased,2770,8,16.6,10.7,Local government,149,Urban,2,0,2
+7360166,HERITAGE EST MOBILE HOMES,Lancaster,Ground water,330,5,16.6,10.7,Private,103,Urban,22,0,22
+7360167,QUARRYVILLE PRESBY RET COMM,Lancaster,Ground water,750,9,16.6,10.7,Public/Private,1,Urban,1,0,1
+7360170,COCALICO MANOR MHP,Lancaster,Ground water,92,6,16.6,10.7,Private,40,Urban,4,0,4
+7360172,MILLBROOKE EST,Lancaster,Ground water,98,5,16.6,10.7,Private,50,Urban,21,0,21
+7360176,CHRISTS HOME FOR CHILDREN,Lancaster,Ground water,31,3,16.6,10.7,Private,2,Urban,10,2,12
+7360178,BRERETON MANOR RETIREMENT HOME,Lancaster,Ground water,30,3,16.6,10.7,Private,1,Urban,13,0,13
+7360182,RIDGE ON THE COMMONS,Lancaster,Ground water,30,3,16.6,10.7,Private,30,Urban,8,0,8
+7360183,HOUSTON RUN COMMUNITY,Lancaster,Ground water,50,5,16.6,10.7,Private,3,Urban,23,0,23
+7380001,COUNTRYSIDE CHRISTIAN COMM,Lebanon,Ground water,100,5,15.3,11.3,Public/Private,25,Urban,1,0,1
+7380002,HILL FARM ESTATE,Lebanon,Ground water,55,3,15.3,11.3,Private,2,Urban,5,0,5
+7380004,N ANNVILLE MHP,Lebanon,Ground water,72,3,15.3,11.3,Private,37,Urban,25,0,25
+7380005,PALM CITY PARK,Lebanon,Ground water,490,6,15.3,11.3,Private,226,Urban,82,1,83
+7380007,CORNWALL BORO MUNI AUTH,Lebanon,Surface water purchased,3051,4,15.3,11.3,Local government,1112,Urban,5,0,5
+7380008,LOCUST GROVE MHP,Lebanon,Ground water,49,3,15.3,11.3,Private,23,Urban,31,0,31
+7380009,MONROE VALLEY MHP,Lebanon,Ground water,97,5,15.3,11.3,Private,44,Urban,22,0,22
+7380010,LEBANON WATER AUTH,Lebanon,Surface water,57000,4,15.3,11.3,Local government,19324,Urban,2,0,2
+7380012,BIG BOULDER MHP,Lebanon,Ground water,40,3,15.3,11.3,Private,17,Urban,29,0,29
+7380014,SUNRISE TRAILER CT,Lebanon,Ground water,200,4,15.3,11.3,Private,69,Urban,16,0,16
+7380016,LEBANON VALLEY MHC,Lebanon,Ground water,160,4,15.3,11.3,Private,70,Urban,5,0,5
+7380018,GREEN ACRES PARK,Lebanon,Ground water,280,6,15.3,11.3,Private,89,Urban,10,0,10
+7380019,LAKESIDE MHP,Lebanon,Ground water,40,4,15.3,11.3,Private,19,Urban,22,0,22
+7380022,TIMBER SERVICE CORP,Lebanon,Ground water,50,3,15.3,11.3,Private,17,Urban,1,0,1
+7380023,MT GRETNA CAMP MEETING ASSN,Lebanon,Ground water,375,6,15.3,11.3,Private,242,Urban,7,1,8
+7380024,MT GRETNA AUTH,Lebanon,Ground water,485,11,15.3,11.3,Local government,211,Urban,2,0,2
+7380025,MYERSTOWN WATER AUTH,Lebanon,Groundwater under influence of surface water,9500,8,15.3,11.3,Local government,2545,Urban,17,0,17
+7380026,COUNTRY ACRES MHP,Lebanon,Ground water,400,6,15.3,11.3,Private,136,Urban,11,0,11
+7380027,TWIN MAPLES MHP,Lebanon,Ground water,280,7,15.3,11.3,Private,96,Urban,33,0,33
+7380028,NEWMANSTOWN WATER AUTH,Lebanon,Ground water,2335,11,15.3,11.3,Local government,912,Urban,15,0,15
+7380029,UPPER LAWN MHP,Lebanon,Ground water,345,8,15.3,11.3,Private,115,Urban,3,0,3
+7380031,QUENTIN WATER CO,Lebanon,Ground water,700,6,15.3,11.3,Private,270,Urban,9,1,10
+7380032,RICHLAND BORO WATER SUPPLY,Lebanon,Ground water,1700,10,15.3,11.3,Local government,557,Urban,2,0,2
+7380033,HEIDELBERG TWP MUNI AUTH,Lebanon,Ground water,990,4,15.3,11.3,Local government,505,Urban,33,0,33
+7380034,RIDGEVIEW MHP & APTS,Lebanon,Ground water,30,6,15.3,11.3,Private,2,Urban,27,0,27
+7380035,FREDERICKSBURG WATER AUTH,Lebanon,Surface water purchased,1200,12,15.3,11.3,Local government,522,Urban,18,0,18
+7380039,MT GRETNA HEIGHTS WATER SYS,Lebanon,Ground water,125,6,15.3,11.3,Private,70,Urban,5,0,5
+7380040,WEST LEBANON TWP WATER SUPPLY,Lebanon,Ground water,780,8,15.3,11.3,Local government,308,Urban,4,0,4
+7380044,FORT INDIANTOWN GAP,Lebanon,Surface water purchased,2500,4,15.3,11.3,State government,425,Urban,0,0,0
+7380045,GRETNA SPRINGS,Lebanon,Ground water,405,5,15.3,11.3,Private,250,Urban,2,0,2
+7380051,O YES APTS,Lebanon,Ground water,35,3,15.3,11.3,Private,5,Urban,13,2,15
+7500003,PARADISE MHP,Perry,Ground water,548,9,4,9.4,Private,213,Rural,6,2,8
+7500006,CREEKVIEW FARMS MHP,Perry,Ground water,450,9,4,9.4,Private,220,Rural,4,0,4
+7500009,VILLAGE SQUARE CONDIMINIUMS,Perry,Ground water,48,3,4,9.4,Private,24,Rural,1,0,1
+7500010,ORCHARD HILLS MHP,Perry,Ground water,303,8,4,9.4,Private,176,Rural,2,1,3
+7500012,BLOOMFIELD BORO WATER AUTH,Perry,Ground water,1170,10,4,9.4,Local government,452,Rural,7,0,7
+7500013,COUNTRY VIEW VILLAGE LP,Perry,Ground water,50,4,4,9.4,Private,18,Rural,2,0,2
+7500014,LIVERPOOL MUNI AUTH,Perry,Ground water,934,12,4,9.4,Local government,325,Rural,49,0,49
+7500015,SUNSHINE HILLS WATER CO,Perry,Ground water,248,4,4,9.4,Private,86,Rural,55,0,55
+7500016,PETERSBURG COMMONS WATER SYSTE,Perry,Ground water purchased,100,3,4,9.4,Local government,40,Rural,1,0,1
+7500017,SHERMANS VALLEY APTS PERLO III,Perry,Ground water,45,3,4,9.4,Public/Private,21,Rural,8,0,8
+7500018,BLAIN WATER CO,Perry,Ground water,321,6,4,9.4,Local government,117,Rural,14,0,14
+7500019,DUNCANNON MUNI WATER,Perry,Ground water,2000,14,4,9.4,Local government,1137,Rural,36,3,39
+7500021,MILLERSTOWN BORO WATER,Perry,Ground water,700,10,4,9.4,Local government,299,Rural,10,2,12
+7500022,NEWPORT BORO WATER AUTH,Perry,Surface water,3200,16,4,9.4,Private,952,Rural,228,0,228
+7500024,SKYVIEW GARDENS APTS,Perry,Ground water,234,7,4,9.4,Private,78,Rural,6,1,7
+7500025,HILLSIDE MANOR APTS,Perry,Ground water,88,6,4,9.4,Private,48,Rural,4,0,4
+7500028,KINKORA PYTHIAN HOME,Perry,Ground water,150,6,4,9.4,Private,1,Rural,0,0,0
+7500029,DEER CHASE MHP,Perry,Ground water,84,6,4,9.4,Private,44,Rural,103,0,103
+7500030,SKYVIEW GARDENS HEIGHTS APTS,Perry,Ground water,186,9,4,9.4,Private,96,Rural,41,24,65
+7500031,LOYSVILLE YOUTH DEV CTR,Perry,Ground water,249,7,4,9.4,State government,20,Rural,16,0,16
+7500032,LUPFERS GROVE MHP & CPGRD,Perry,Ground water,55,3,4,9.4,Private,43,Rural,21,2,23
+7500034,COUNTRYSIDE MHP,Perry,Ground water,60,3,4,9.4,Private,20,Rural,0,0,0
+7500035,STONEBRIDGE HEALTH & REHAB CTR,Perry,Ground water,60,3,4,9.4,Private,1,Rural,3,7,10
+7500036,PERLO RIDGE APTS,Perry,Ground water,42,4,4,9.4,Federal government,41,Rural,12,0,12
+7500037,ARBOR MANOR APTS,Perry,Ground water,65,10,4,9.4,Private,34,Rural,128,5,133
+7500039,CARSON LONG INST,Perry,Ground water,250,3,4,9.4,Private,10,Rural,8,0,8
+7670003,J & A MHP,York,Ground water,140,4,15,10.7,Private,51,Urban,0,0,0
+7670005,WALMAR MANOR MHP,York,Ground water,400,6,15,10.7,Private,187,Urban,5,1,6
+7670006,LLEWELLYNS MHP,York,Ground water,250,5,15,10.7,Private,105,Urban,0,0,0
+7670021,CONEWAGO VALLEY MHP,York,Ground water,225,4,15,10.7,Private,135,Urban,0,0,0
+7670022,LOCUST MANOR MHP,York,Ground water,65,4,15,10.7,Private,25,Urban,33,0,33
+7670024,MEADOWBROOK MHP,York,Ground water,330,6,15,10.7,Private,112,Urban,175,4,179
+7670025,MOUNTAIN VIEW TERRACE,York,Ground water,300,14,15,10.7,Private,171,Urban,0,0,0
+7670027,LAURELWOOD MHP,York,Ground water,35,3,15,10.7,Private,22,Urban,0,0,0
+7670034,SHALAKO RUN MHP,York,Ground water,125,4,15,10.7,Private,80,Urban,27,0,27
+7670038,CRALEY MHP,York,Ground water,35,5,15,10.7,Private,17,Urban,27,0,27
+7670040,DEERFIELD VILLAGE MHP,York,Ground water,81,7,15,10.7,Private,51,Urban,4,0,4
+7670041,RESTLESS OAKS VILLAGE MHP,York,Ground water,52,8,15,10.7,Private,26,Urban,0,0,0
+7670050,GLEN ROCK WATER AUTH,York,Surface water purchased,2000,12,15,10.7,Local government,932,Urban,6,0,6
+7670051,HEIDELBERG WATER COOP CORP,York,Ground water,90,3,15,10.7,Private,30,Urban,4,0,4
+7670061,SUEZ NEWBERRY SYS,York,Ground water,6480,23,15,10.7,Private,2138,Urban,0,0,0
+7670062,STEWARTSTOWN BORO WATER AUTH,York,Surface water purchased,4311,22,15,10.7,Local government,1633,Urban,7,1,8
+7670065,WINDSOR BORO WATER AUTH,York,Surface water purchased,1332,5,15,10.7,Local government,551,Urban,0,0,0
+7670066,WHERLEY PARK,York,Ground water,42,3,15,10.7,Private,17,Urban,0,0,0
+7670067,COLLINSVILLE MHP,York,Ground water,28,3,15,10.7,Private,20,Urban,0,0,0
+7670070,DELTA BORO WATER SYS,York,Ground water,1367,15,15,10.7,Local government,377,Urban,40,0,40
+7670071,DILLSBURG AREA AUTHORITY,York,Ground water,8550,14,15,10.7,Local government,1851,Urban,5,0,5
+7670072,DOVER BORO WATER SYS,York,Ground water,1900,19,15,10.7,Local government,683,Urban,41,0,41
+7670073,DOVER TWP WATER SYS,York,Surface water purchased,21097,32,15,10.7,Local government,5966,Urban,3,0,3
+7670076,HANOVER MUNI WATER WORKS,York,Surface water,40900,9,15,10.7,Local government,16850,Urban,15,1,16
+7670082,NEW FREEDOM BORO WATER AUTH,York,Surface water purchased,4464,14,15,10.7,Local government,1810,Urban,10,0,10
+7670085,DALLASTOWN YOE WATER AUTH,York,Surface water purchased,12300,4,15,10.7,Local government,4300,Urban,13,0,13
+7670086,RED LION MUNICIPAL AUTHORITY,York,Surface water,15810,6,15,10.7,Local government,6371,Urban,19,0,19
+7670088,SHREWSBURY BOROUGH,York,Ground water,4727,30,15,10.7,Local government,1790,Urban,12,0,12
+7670096,ZEIGLER MHP,York,Ground water,46,3,15,10.7,Private,23,Urban,0,0,0
+7670097,WRIGHTSVILLE BORO MUNI AUTH,York,Surface water,5533,5,15,10.7,Local government,1442,Urban,13,1,14
+7670098,BROOKHAVEN MHP,York,Ground water,266,5,15,10.7,Private,172,Urban,2,0,2
+7670100,YORK WATER CO,York,Surface water,194000,17,15,10.7,Private,66046,Urban,2,0,2
+7670101,WEST MANCHESTER TWP AUTH,York,Ground water,9960,25,15,10.7,Local government,3846,Urban,2,0,2
+7670102,NORTHWOOD MANOR MHP,York,Ground water,230,7,15,10.7,Private,102,Urban,2,0,2
+7670110,WHISPERING PINES MHP,York,Ground water,97,4,15,10.7,Private,46,Urban,5,1,6
+7670112,MOUNT AIRY MHP,York,Ground water,50,4,15,10.7,Private,18,Urban,49,1,50
+7670113,FRANKLINTOWN BORO MUNI AUTH,York,Ground water,705,4,15,10.7,Local government,260,Urban,36,0,36
+7670114,OAKWOOD HEIGHTS MHP,York,Ground water,54,5,15,10.7,Private,49,Urban,13,1,14
+7670119,NEWBERRY EST,York,Ground water,200,4,15,10.7,Private,107,Urban,21,0,21
+7670121,AUDUBON PARK,York,Ground water,214,3,15,10.7,Private,81,Urban,9,0,9
+7670122,NEW LIFE FOR GIRLS,York,Ground water,80,4,15,10.7,Public/Private,13,Urban,8,0,8
+7670125,AMBER HILL MHP,York,Ground water,70,4,15,10.7,Private,33,Urban,19,0,19
+7670128,STONEY RUN APT,York,Ground water,40,4,15,10.7,Private,23,Urban,12,0,12
+7670129,COUNTRY VIEW MANOR,York,Ground water,125,4,15,10.7,Private,50,Urban,23,0,23
+7670131,GOLDSBORO BORO WATER CO,York,Ground water,450,4,15,10.7,Local government,173,Urban,9,1,10
+7670136,LIBERTY VILLAGE,York,Ground water,40,5,15,10.7,Private,29,Urban,0,0,0
+7670138,JAMES DORWART APTS,York,Ground water,226,4,15,10.7,Private,114,Urban,6,0,6
