@@ -26,27 +26,30 @@ new_df.add_all_variables()
 complete_df = new_df.df
 
 # Analyze data with negative binomial regression model (results will be table)
+print("Results of Negative Binomial Regression Model:")
 model = Neg_Bin_Model(complete_df, vio_data, data)
 model.summarize()
-print("pearson chi2:", model.get_pearson())
+print("\npearson chi2:", model.get_pearson())
 #model.get_mle_retvals()
 
 # Get violation predictions
 model.get_predictions()
+
+# Get summary stats
+print("\nSummary stats for the continuous and categorical variables:")
+continuous_columns = ("Percent_Below_Poverty_Line", "Percent_Minority")
+cat_columns = ("Rural", "Public","ConnectionsLess200", "GroundwaterOrCombined")
+summary = Summary_Stats(complete_df, continuous_columns, cat_columns)
+print("Continuous variables:\n", summary.get_cont_summary_table(), "\n")
+print("Categorical variables:\n", summary.get_count_table())
 
 # Get residuals
 model.get_pearson_residuals()
 model.get_deviance_residuals()
 model.get_residuals()
 
-# Get summary stats
-continuous_columns = ("Percent_Below_Poverty_Line", "Percent_Minority")
-cat_columns = ("Rural", "Public","ConnectionsLess200", "GroundwaterOrCombined")
-summary = Summary_Stats(complete_df, continuous_columns, cat_columns)
-print(summary.get_cont_summary_table(), "\n")
-print(summary.get_count_table())
-
 # Explore residuals
+print("\nPredictions and residuals:")
 pd.set_option('max_columns', 7)
 print (model.df[["Predictions","Std_Pearson_Residuals","Std_Deviance_Residuals", "Residuals"]].head(5))
 
