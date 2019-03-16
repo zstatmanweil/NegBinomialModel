@@ -9,7 +9,8 @@ class Neg_Bin_Model(object):
         self.data = data
         self.df = df
         self.violation_type = violation_type
-        
+        self.model_fit = None
+
         #define the target and predictors 
         self.target = self.df[self.violation_type]
         self.predictors = self.df.loc[:,("Percent_Below_Poverty_Line", 
@@ -19,7 +20,11 @@ class Neg_Bin_Model(object):
                                       "ConnectionsLess200", 
                                       "GroundwaterOrCombined"
                                       )]
-            
+    def fit(self):
+        if not self.model_fit:
+            self.model_fit = self.run().fit(maxiter=100)
+        return self.model_fit
+         
     def run(self):
         X = sm.add_constant(self.predictors)
         y = self.target
@@ -43,24 +48,24 @@ class Neg_Bin_Model(object):
         return model      
     
     def summarize(self):        
-        print(self.run().fit(maxiter=100).summary2())
+        print(self.fit().summary2())
         
     def get_mle_retvals(self):
-        print(elf.run().fit(maxiter=100).mle_retvals)
+        print(self.fit().mle_retvals)
         
     def get_pearson(self):
-        print(self.run().fit(maxiter=100).pearson_chi2)
+        print(self.fit().pearson_chi2)
         
     def get_predictions(self):
-        params = self.run().fit(maxiter=100).params
+        params = self.fit().params
         self.df["Predictions"] = self.run().predict(params)
                
     def get_residuals(self):
-        self.df["Residuals"] = self.run().fit(maxiter=100).resid_response
+        self.df["Residuals"] = self.fit().resid_response
         
     def get_pearson_residuals(self):
-        self.df["Std_Pearson_Residuals"] = self.run().fit(maxiter=100).resid_pearson
+        self.df["Std_Pearson_Residuals"] = self.fit().resid_pearson
         
     def get_deviance_residuals(self):
-        self.df["Std_Deviance_Residuals"] = self.run().fit(maxiter=100).resid_deviance
+        self.df["Std_Deviance_Residuals"] = self.fit().resid_deviance
         

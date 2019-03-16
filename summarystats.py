@@ -9,27 +9,27 @@ class Summary_Stats(object):
         self.cat_column_names = cat_column_names
         
     
-    def get_mean(self):
+    def mean(self):
         return self.df.loc[:,self.continuous_column_names].mean()
     
-    def get_std(self):
+    def std(self):
         return self.df.loc[:,self.continuous_column_names].std()
         
-    def get_min(self):
+    def min(self):
         return self.df.loc[:,self.continuous_column_names].min()
     
-    def get_max(self):
+    def max(self):
         return self.df.loc[:,self.continuous_column_names].max()
     
-    def get_cont_summary_table(self):
+    def cont_summary_table(self):
         sum_table = pd.DataFrame(index=self.continuous_column_names)
-        sum_table['Minimum'] = self.get_min()
-        sum_table['Maximum'] = self.get_max()
-        sum_table['Mean'] = self.get_mean()
-        sum_table['SD'] = self.get_std()
+        sum_table['Minimum'] = self.min()
+        sum_table['Maximum'] = self.max()
+        sum_table['Mean'] = self.mean()
+        sum_table['SD'] = self.std()
         return sum_table
 
-    def get_count_table(self):
+    def count_table(self):
         true_values = []
         false_values = []
         

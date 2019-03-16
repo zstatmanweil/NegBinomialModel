@@ -1,11 +1,11 @@
 import pandas as pd
-from Variables import Variables
-from Model import Neg_Bin_Model
-from SummaryStats import Summary_Stats
+from variables import Variables
+from model import Neg_Bin_Model
+from summarystats import Summary_Stats
 import os
 import matplotlib.pyplot as plt
 
-os.chdir('./Data')
+os.chdir('./data')
 
 # Select the data set
 #data = 'Dasymetric_Data.csv'
@@ -36,12 +36,12 @@ print("\npearson chi2:", model.get_pearson())
 model.get_predictions()
 
 # Get summary stats
-print("\nSummary stats for the continuous and categorical variables:")
+print("\nSummary stats for the continuous and categorical variables")
 continuous_columns = ("Percent_Below_Poverty_Line", "Percent_Minority")
 cat_columns = ("Rural", "Public","ConnectionsLess200", "GroundwaterOrCombined")
 summary = Summary_Stats(complete_df, continuous_columns, cat_columns)
-print("Continuous variables:\n", summary.get_cont_summary_table(), "\n")
-print("Categorical variables:\n", summary.get_count_table())
+print("Continuous variables:\n", summary.cont_summary_table(), "\n")
+print("Categorical variables:\n", summary.count_table())
 
 # Get residuals
 model.get_pearson_residuals()
@@ -63,4 +63,4 @@ print (model.df[["Predictions","Std_Pearson_Residuals","Std_Deviance_Residuals",
 # =============================================================================
 
 # Export DataFrame to csv
-model.df.to_csv("../Export/" + data[0:-9] + "_" + vio_data + ".csv")
+model.df.to_csv("../export/" + data[0:-9] + "_" + vio_data + ".csv")
