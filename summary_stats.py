@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-class Summary_Stats(object):
+class SummaryStats(object):
     
     def __init__(self, df, continuous_column_names, cat_column_names):
         self.df = df
@@ -9,24 +9,24 @@ class Summary_Stats(object):
         self.cat_column_names = cat_column_names
         
     
-    def mean(self):
+    def get_mean(self):
         return self.df.loc[:,self.continuous_column_names].mean()
     
-    def std(self):
+    def get_std(self):
         return self.df.loc[:,self.continuous_column_names].std()
         
-    def min(self):
+    def get_min(self):
         return self.df.loc[:,self.continuous_column_names].min()
     
-    def max(self):
+    def get_max(self):
         return self.df.loc[:,self.continuous_column_names].max()
     
     def cont_summary_table(self):
         sum_table = pd.DataFrame(index=self.continuous_column_names)
-        sum_table['Minimum'] = self.min()
-        sum_table['Maximum'] = self.max()
-        sum_table['Mean'] = self.mean()
-        sum_table['SD'] = self.std()
+        sum_table['Minimum'] = self.get_min()
+        sum_table['Maximum'] = self.get_max()
+        sum_table['Mean'] = self.get_mean()
+        sum_table['SD'] = self.get_std()
         return sum_table
 
     def count_table(self):

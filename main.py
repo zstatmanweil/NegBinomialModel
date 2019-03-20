@@ -1,7 +1,7 @@
 import pandas as pd
 from variables import Variables
-from model import Neg_Bin_Model
-from summarystats import Summary_Stats
+from model import NegBinModel
+from summary_stats import SummaryStats
 import os
 import matplotlib.pyplot as plt
 
@@ -27,7 +27,7 @@ complete_df = new_df.df
 
 # Analyze data with negative binomial regression model (results will be table)
 print("Results of Negative Binomial Regression Model:")
-model = Neg_Bin_Model(complete_df, vio_data, data)
+model = NegBinModel(complete_df, vio_data, data)
 model.summarize()
 print("\npearson chi2:", model.get_pearson())
 #model.get_mle_retvals()
@@ -39,7 +39,7 @@ model.get_predictions()
 print("\nSummary stats for the continuous and categorical variables")
 continuous_columns = ("Percent_Below_Poverty_Line", "Percent_Minority")
 cat_columns = ("Rural", "Public","ConnectionsLess200", "GroundwaterOrCombined")
-summary = Summary_Stats(complete_df, continuous_columns, cat_columns)
+summary = SummaryStats(complete_df, continuous_columns, cat_columns)
 print("Continuous variables:\n", summary.cont_summary_table(), "\n")
 print("Categorical variables:\n", summary.count_table())
 

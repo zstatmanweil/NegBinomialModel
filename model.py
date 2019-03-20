@@ -3,7 +3,7 @@ import statsmodels.formula.api as smf
 import numpy as np
 import pandas as pd
 
-class Neg_Bin_Model(object):
+class NegBinModel(object):
     
     def __init__(self, df, violation_type, data):
         self.data = data
@@ -20,6 +20,8 @@ class Neg_Bin_Model(object):
                                       "ConnectionsLess200", 
                                       "GroundwaterOrCombined"
                                       )]
+
+    # Cache fit of model to reduce repetition 
     def fit(self):
         if not self.model_fit:
             self.model_fit = self.run().fit(maxiter=100)
