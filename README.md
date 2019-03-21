@@ -6,7 +6,7 @@ This is the code for the negative binomial regression model I developed for my t
 `pip install -r requirements.txt`
 
 ## Organization
-- I utilized [`main.py`](https://github.com/zstatmanweil/NegBinomialModel/blob/master/Main.py) to select my dataset, run the model, and get other key information to help me analyze my data and results. I was able to easily toggle between my datasets and make tweaks to my method without rewriting much code. 
+- I utilized [`main.py`](https://github.com/zstatmanweil/NegBinomialModel/blob/master/main.py) to select my dataset, run the model, and get other key information to help me analyze my data and results. I was able to easily toggle between my datasets and make tweaks to my method without rewriting much code. 
 - [`model.py`](https://github.com/zstatmanweil/NegBinomialModel/blob/master/model.py) contains a Model class with functions related to running and analyzing the model (e.g., get_residuals()).
 - [`variables.py`](https://github.com/zstatmanweil/NegBinomialModel/blob/master/variables.py) contains a Variable class with functions to add variables (e.g., dummy variables). 
 - [`summary_stats.py`](https://github.com/zstatmanweil/NegBinomialModel/blob/master/summary_stats.py) contains a Summary class with functions to organize and summarize variables. 
